@@ -1,0 +1,30 @@
+name: Run backtest (manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install yfinance pandas numpy matplotlib
+
+      - name: Run backtest
+        run: python scripts/backtest.py
+
+      - name: Commit results
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add public/backtest/*
+          git commit -m "Update backtest results" || echo "No changes"
+          git push
