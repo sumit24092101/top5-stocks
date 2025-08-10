@@ -1,7 +1,12 @@
 name: Daily stock picks
+
+# ✅ Give the workflow permission to push commits
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "30 3 * * *"   # 09:00 AM IST daily
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,20 +15,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                  # ✅ full history so push works
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
           pip install yfinance pandas
+
       - name: Generate picks
         run: python scripts/pick_stocks.py
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # ensure we're on the right branch & up to date
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git add public/data/latest.json
           git commit -m "chore: update daily picks" || echo "No changes"
           git push
