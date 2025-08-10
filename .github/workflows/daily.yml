@@ -1,22 +1,22 @@
 name: Daily stock picks
 
-# ✅ Give the workflow permission to push commits
+# Allow this workflow to push commits (write the JSON file)
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "30 3 * * *"
-  workflow_dispatch:
+    - cron: "30 3 * * *"   # Runs daily ~09:00 AM IST
+  workflow_dispatch:        # Lets you run it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0                  # ✅ full history so push works
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
@@ -29,15 +29,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install yfinance pandas
 
-      - name: Generate picks
+      - name: Generate picks JSON
         run: python scripts/pick_stocks.py
 
-      - name: Commit data
+      - name: Commit data (public/data/latest.json)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          # ensure we're on the right branch & up to date
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git add public/data/latest.json
-          git commit -m "chore: update daily picks" || echo "No changes"
-          git push
+          set -e
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+          # ensure remote uses the GITHUB_TOKEN
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+          # stage the generated file
+          git add public/data/latest.json || true
+
+          # commit only if something changed
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update daily picks $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit"
+          fi
