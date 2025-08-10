@@ -1,11 +1,23 @@
+import { headers } from "next/headers";
+
+export const dynamic = "force-dynamic"; // always fetch fresh
+
 export default async function Page() {
+  // Build absolute URL like https://your-site.vercel.app/data/latest.json
+  const host = headers().get("host");
+  const proto = host?.startsWith("localhost") ? "http" : "https";
+  const url = `${proto}://${host}/data/latest.json`;
+
   async function getData() {
     try {
-      const res = await fetch("/data/latest.json", { cache: "no-store" });
+      const res = await fetch(url, { cache: "no-store" });
       if (!res.ok) return null;
       return await res.json();
-    } catch { return null; }
+    } catch {
+      return null;
+    }
   }
+
   const data = await getData();
   const picks = data?.picks || [];
 
