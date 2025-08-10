@@ -1,5 +1,5 @@
 {
-  "as_of_ist": null,
+  "as_of_ist": "2025-08-10T08:44:26.233374Z",
   "universe": "NIFTY50",
   "method": "momentum+volume+rsi",
   "picks": []
