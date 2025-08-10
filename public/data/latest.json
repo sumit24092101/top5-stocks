@@ -1,0 +1,6 @@
+{
+  "as_of_ist": null,
+  "universe": "NIFTY50",
+  "method": "momentum+volume+rsi",
+  "picks": []
+}
