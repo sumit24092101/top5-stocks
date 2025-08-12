@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-11T04:28:14.325208Z",
+  "as_of_ist": "2025-08-12T04:01:09.437127Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SBIN.NS",
-      "close": 820.2,
-      "ret5": 0.0308,
-      "vol_surge": 0.45,
+      "ticker": "HDFCLIFE.NS",
+      "close": 768.35,
+      "ret5": 0.0404,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0547
+      "score": 0.0359
     },
     {
       "ticker": "IOC.NS",
-      "close": 140.83,
-      "ret5": 0.0105,
-      "vol_surge": 0.5,
+      "close": 142.35,
+      "ret5": 0.0294,
+      "vol_surge": 0.12,
       "rsi14": 50.0,
-      "score": 0.0419
+      "score": 0.0317
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 824.25,
+      "ret5": 0.0295,
+      "vol_surge": 0.06,
+      "rsi14": 50.0,
+      "score": 0.0274
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 383.75,
+      "ret5": 0.0261,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0234
     },
     {
       "ticker": "BPCL.NS",
-      "close": 319.35,
-      "ret5": 0.0047,
-      "vol_surge": 0.45,
+      "close": 322.5,
+      "ret5": 0.0235,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0337
-    },
-    {
-      "ticker": "NTPC.NS",
-      "close": 336.85,
-      "ret5": 0.0146,
-      "vol_surge": 0.32,
-      "rsi14": 50.0,
-      "score": 0.0329
-    },
-    {
-      "ticker": "TATAMOTORS.NS",
-      "close": 649.5,
-      "ret5": -0.0063,
-      "vol_surge": 0.54,
-      "rsi14": 50.0,
-      "score": 0.0308
+      "score": 0.0214
     }
   ]
 }
