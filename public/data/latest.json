@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-12T04:01:09.437127Z",
+  "as_of_ist": "2025-08-13T04:03:00.947290Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 768.35,
-      "ret5": 0.0404,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 4698.2,
+      "ret5": 0.0499,
+      "vol_surge": 0.14,
+      "rsi14": 50.0,
+      "score": 0.0495
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1504.1,
+      "ret5": 0.0309,
       "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0359
+      "score": 0.0281
     },
     {
       "ticker": "IOC.NS",
-      "close": 142.35,
-      "ret5": 0.0294,
-      "vol_surge": 0.12,
+      "close": 142.9,
+      "ret5": 0.0262,
+      "vol_surge": 0.08,
       "rsi14": 50.0,
-      "score": 0.0317
+      "score": 0.0264
     },
     {
-      "ticker": "SBIN.NS",
-      "close": 824.25,
-      "ret5": 0.0295,
+      "ticker": "CIPLA.NS",
+      "close": 1527.3,
+      "ret5": 0.0273,
+      "vol_surge": 0.07,
+      "rsi14": 50.0,
+      "score": 0.0262
+    },
+    {
+      "ticker": "NTPC.NS",
+      "close": 341.1,
+      "ret5": 0.0271,
       "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.0274
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 383.75,
-      "ret5": 0.0261,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0234
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 322.5,
-      "ret5": 0.0235,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0214
+      "score": 0.0257
     }
   ]
 }
