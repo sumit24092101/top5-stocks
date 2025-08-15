@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-14T04:03:45.107605Z",
+  "as_of_ist": "2025-08-15T04:04:36.851551Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "BPCL.NS",
-      "close": 323.15,
-      "ret5": 0.0412,
-      "vol_surge": 0.58,
+      "close": 318.05,
+      "ret5": 0.0248,
+      "vol_surge": 1.8,
       "rsi14": 50.0,
-      "score": 0.0718
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 787.55,
-      "ret5": 0.0421,
-      "vol_surge": 0.23,
-      "rsi14": 50.0,
-      "score": 0.0491
+      "score": 0.1398
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1572.0,
-      "ret5": 0.0543,
-      "vol_surge": 0.05,
+      "close": 1564.0,
+      "ret5": 0.049,
+      "vol_surge": 1.45,
       "rsi14": 50.0,
-      "score": 0.0469
+      "score": 0.1359
     },
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1262.5,
-      "ret5": 0.0514,
-      "vol_surge": 0.06,
+      "ticker": "TATASTEEL.NS",
+      "close": 155.3,
+      "ret5": -0.0274,
+      "vol_surge": 2.31,
       "rsi14": 50.0,
-      "score": 0.0453
+      "score": 0.1322
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1449.2,
-      "ret5": 0.0086,
-      "vol_surge": 0.31,
+      "ticker": "HDFCLIFE.NS",
+      "close": 788.75,
+      "ret5": 0.0437,
+      "vol_surge": 1.41,
       "rsi14": 50.0,
-      "score": 0.0276
+      "score": 0.1291
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "close": 246.81,
+      "ret5": 0.0185,
+      "vol_surge": 1.43,
+      "rsi14": 50.0,
+      "score": 0.1099
     }
   ]
 }
