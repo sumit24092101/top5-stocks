@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-18T04:13:20.574742Z",
+  "as_of_ist": "2025-08-19T03:53:29.412812Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "MARUTI.NS",
-      "close": 13870.0,
-      "ret5": 0.1017,
-      "vol_surge": 2.28,
+      "close": 13994.0,
+      "ret5": 0.1109,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.2335
+      "score": 0.1002
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5102.0,
-      "ret5": 0.1092,
-      "vol_surge": 2.06,
+      "close": 5034.1,
+      "ret5": 0.1034,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
-      "score": 0.2248
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1310.0,
-      "ret5": -0.0113,
-      "vol_surge": 4.63,
-      "rsi14": 50.0,
-      "score": 0.1909
-    },
-    {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 8616.0,
-      "ret5": 0.0477,
-      "vol_surge": 1.2,
-      "rsi14": 50.0,
-      "score": 0.1184
+      "score": 0.0892
     },
     {
       "ticker": "M&M.NS",
-      "close": 3410.5,
-      "ret5": 0.0847,
-      "vol_surge": 0.68,
+      "close": 3342.4,
+      "ret5": 0.049,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.1131
+      "score": 0.0449
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 5930.0,
+      "ret5": 0.0456,
+      "vol_surge": 0.09,
+      "rsi14": 50.0,
+      "score": 0.0427
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 8607.5,
+      "ret5": 0.0402,
+      "vol_surge": 0.11,
+      "rsi14": 50.0,
+      "score": 0.0397
     }
   ]
 }
