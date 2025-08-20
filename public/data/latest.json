@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-19T03:53:29.412812Z",
+  "as_of_ist": "2025-08-20T03:52:32.780595Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "MARUTI.NS",
-      "close": 13994.0,
-      "ret5": 0.1109,
-      "vol_surge": 0.17,
+      "close": 14272.0,
+      "ret5": 0.1115,
+      "vol_surge": 0.15,
       "rsi14": 50.0,
-      "score": 0.1002
+      "score": 0.0992
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5034.1,
-      "ret5": 0.1034,
-      "vol_surge": 0.1,
+      "close": 5126.5,
+      "ret5": 0.1036,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0892
-    },
-    {
-      "ticker": "M&M.NS",
-      "close": 3342.4,
-      "ret5": 0.049,
-      "vol_surge": 0.09,
-      "rsi14": 50.0,
-      "score": 0.0449
-    },
-    {
-      "ticker": "EICHERMOT.NS",
-      "close": 5930.0,
-      "ret5": 0.0456,
-      "vol_surge": 0.09,
-      "rsi14": 50.0,
-      "score": 0.0427
+      "score": 0.0878
     },
     {
       "ticker": "BAJAJ-AUTO.NS",
-      "close": 8607.5,
-      "ret5": 0.0402,
-      "vol_surge": 0.11,
+      "close": 8833.5,
+      "ret5": 0.0777,
+      "vol_surge": 0.12,
       "rsi14": 50.0,
-      "score": 0.0397
+      "score": 0.0703
+    },
+    {
+      "ticker": "TATAMOTORS.NS",
+      "close": 694.75,
+      "ret5": 0.0621,
+      "vol_surge": 0.09,
+      "rsi14": 50.0,
+      "score": 0.0557
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1945.5,
+      "ret5": 0.0515,
+      "vol_surge": 0.19,
+      "rsi14": 50.0,
+      "score": 0.0539
     }
   ]
 }
