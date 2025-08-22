@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-21T03:52:03.411865Z",
+  "as_of_ist": "2025-08-22T03:52:19.842972Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "MARUTI.NS",
-      "close": 14201.0,
-      "ret5": 0.1065,
-      "vol_surge": 0.04,
+      "close": 14258.0,
+      "ret5": 0.1022,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0879
+      "score": 0.0852
     },
     {
       "ticker": "NESTLEIND.NS",
-      "close": 1181.4,
-      "ret5": 0.077,
-      "vol_surge": 0.03,
+      "close": 1183.3,
+      "ret5": 0.0862,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0634
+      "score": 0.0718
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5126.4,
-      "ret5": 0.075,
-      "vol_surge": 0.04,
+      "close": 5073.8,
+      "ret5": 0.0777,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.0629
+      "score": 0.0693
     },
     {
       "ticker": "HINDUNILVR.NS",
-      "close": 2653.0,
-      "ret5": 0.0633,
-      "vol_surge": 0.1,
-      "rsi14": 50.0,
-      "score": 0.0574
-    },
-    {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 8794.0,
-      "ret5": 0.0661,
+      "close": 2642.8,
+      "ret5": 0.0654,
       "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0564
+      "score": 0.0555
+    },
+    {
+      "ticker": "BRITANNIA.NS",
+      "close": 5622.0,
+      "ret5": 0.0603,
+      "vol_surge": 0.07,
+      "rsi14": 50.0,
+      "score": 0.0531
     }
   ]
 }
