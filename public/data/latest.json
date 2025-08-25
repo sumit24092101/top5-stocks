@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-24T03:59:55.695882Z",
+  "as_of_ist": "2025-08-25T03:58:52.910061Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "MARUTI.NS",
-      "close": 14349.0,
-      "ret5": 0.1092,
-      "vol_surge": 1.04,
+      "ticker": "INFY.NS",
+      "close": 1516.1,
+      "ret5": 0.0559,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.1565
+      "score": 0.0522
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 4997.9,
-      "ret5": 0.0616,
-      "vol_surge": 1.35,
+      "ticker": "UPL.NS",
+      "close": 726.3,
+      "ret5": 0.0512,
+      "vol_surge": 0.15,
       "rsi14": 50.0,
-      "score": 0.1393
+      "score": 0.0509
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 248.64,
-      "ret5": 0.0074,
-      "vol_surge": 1.72,
+      "close": 253.75,
+      "ret5": 0.0348,
+      "vol_surge": 0.21,
       "rsi14": 50.0,
-      "score": 0.1208
+      "score": 0.0422
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 8679.5,
-      "ret5": 0.0567,
-      "vol_surge": 0.92,
+      "ticker": "TECHM.NS",
+      "close": 1527.2,
+      "ret5": 0.0381,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.1068
+      "score": 0.0361
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6151.5,
-      "ret5": 0.0031,
-      "vol_surge": 1.56,
+      "ticker": "TCS.NS",
+      "close": 3107.0,
+      "ret5": 0.0318,
+      "vol_surge": 0.15,
       "rsi14": 50.0,
-      "score": 0.1067
+      "score": 0.0353
     }
   ]
 }
