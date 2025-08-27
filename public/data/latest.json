@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-26T03:53:42.104237Z",
+  "as_of_ist": "2025-08-27T03:48:39.368329Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "INFY.NS",
-      "close": 1530.7,
-      "ret5": 0.063,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0532
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 3135.6,
-      "ret5": 0.0396,
-      "vol_surge": 0.06,
-      "rsi14": 50.0,
-      "score": 0.0355
-    },
-    {
       "ticker": "BRITANNIA.NS",
-      "close": 5660.0,
-      "ret5": 0.0293,
-      "vol_surge": 0.16,
+      "close": 5765.5,
+      "ret5": 0.0485,
+      "vol_surge": 2.97,
       "rsi14": 50.0,
-      "score": 0.0338
+      "score": 0.2367
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 3654.2,
-      "ret5": 0.0241,
-      "vol_surge": 0.18,
+      "ticker": "EICHERMOT.NS",
+      "close": 6151.0,
+      "ret5": 0.0358,
+      "vol_surge": 2.57,
       "rsi14": 50.0,
-      "score": 0.0314
+      "score": 0.2001
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1588.9,
-      "ret5": 0.0258,
-      "vol_surge": 0.05,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2692.6,
+      "ret5": 0.0337,
+      "vol_surge": 2.35,
       "rsi14": 50.0,
-      "score": 0.0237
+      "score": 0.1839
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "close": 1162.2,
+      "ret5": 0.0007,
+      "vol_surge": 2.6,
+      "rsi14": 50.0,
+      "score": 0.174
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1529.6,
+      "ret5": 0.0622,
+      "vol_surge": 1.8,
+      "rsi14": 50.0,
+      "score": 0.1697
     }
   ]
 }
