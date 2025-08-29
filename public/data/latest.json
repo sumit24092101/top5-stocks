@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-28T03:49:08.333312Z",
+  "as_of_ist": "2025-08-29T03:48:29.208606Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 6207.0,
-      "ret5": 0.0454,
-      "vol_surge": 0.17,
+      "ticker": "BRITANNIA.NS",
+      "close": 5790.5,
+      "ret5": 0.0345,
+      "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.0474
+      "score": 0.0319
     },
     {
       "ticker": "MARUTI.NS",
-      "close": 14717.0,
-      "ret5": 0.0349,
-      "vol_surge": 0.09,
+      "close": 14810.0,
+      "ret5": 0.0321,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0338
+      "score": 0.0289
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 6140.0,
+      "ret5": 0.0276,
+      "vol_surge": 0.02,
+      "rsi14": 50.0,
+      "score": 0.0233
+    },
+    {
+      "ticker": "ITC.NS",
+      "close": 406.65,
+      "ret5": 0.021,
+      "vol_surge": 0.05,
+      "rsi14": 50.0,
+      "score": 0.0203
     },
     {
       "ticker": "HINDUNILVR.NS",
-      "close": 2708.1,
-      "ret5": 0.0143,
-      "vol_surge": 0.24,
+      "close": 2691.9,
+      "ret5": 0.0236,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0273
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 6151.5,
-      "ret5": 0.0244,
-      "vol_surge": 0.05,
-      "rsi14": 50.0,
-      "score": 0.0228
-    },
-    {
-      "ticker": "CIPLA.NS",
-      "close": 1579.5,
-      "ret5": 0.0216,
-      "vol_surge": 0.06,
-      "rsi14": 50.0,
-      "score": 0.021
+      "score": 0.0202
     }
   ]
 }
