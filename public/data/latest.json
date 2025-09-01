@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-08-31T03:49:39.669095Z",
+  "as_of_ist": "2025-09-01T04:03:37.286520Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ITC.NS",
-      "close": 409.75,
-      "ret5": 0.0287,
-      "vol_surge": 1.87,
+      "ticker": "BRITANNIA.NS",
+      "close": 5820.0,
+      "ret5": 0.0495,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.1477
+      "score": 0.0417
     },
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 5824.0,
-      "ret5": 0.0405,
-      "vol_surge": 1.5,
+      "ticker": "EICHERMOT.NS",
+      "close": 6140.5,
+      "ret5": 0.025,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.1321
+      "score": 0.026
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2538.0,
+      "ret5": 0.0181,
+      "vol_surge": 0.13,
+      "rsi14": 50.0,
+      "score": 0.0234
+    },
+    {
+      "ticker": "ITC.NS",
+      "close": 408.5,
+      "ret5": 0.0229,
+      "vol_surge": 0.07,
+      "rsi14": 50.0,
+      "score": 0.0232
     },
     {
       "ticker": "MARUTI.NS",
-      "close": 14791.0,
-      "ret5": 0.0308,
-      "vol_surge": 1.28,
+      "close": 14750.0,
+      "ret5": 0.0206,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.1101
-    },
-    {
-      "ticker": "RELIANCE.NS",
-      "close": 1357.2,
-      "ret5": -0.0369,
-      "vol_surge": 1.98,
-      "rsi14": 50.0,
-      "score": 0.1027
-    },
-    {
-      "ticker": "DRREDDY.NS",
-      "close": 1260.1,
-      "ret5": -0.0137,
-      "vol_surge": 1.66,
-      "rsi14": 50.0,
-      "score": 0.0997
+      "score": 0.0199
     }
   ]
 }
