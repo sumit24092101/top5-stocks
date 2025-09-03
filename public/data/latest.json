@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-02T03:50:44.474862Z",
+  "as_of_ist": "2025-09-03T03:44:09.062602Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5247.0,
-      "ret5": 0.0342,
-      "vol_surge": 0.12,
+      "ticker": "TATACONSUM.NS",
+      "close": 1100.8,
+      "ret5": 0.0194,
+      "vol_surge": 2.1,
       "rsi14": 50.0,
-      "score": 0.0352
+      "score": 0.1556
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 8945.5,
-      "ret5": 0.0292,
-      "vol_surge": 0.06,
+      "ticker": "POWERGRID.NS",
+      "close": 286.7,
+      "ret5": 0.0243,
+      "vol_surge": 1.67,
       "rsi14": 50.0,
-      "score": 0.0275
+      "score": 0.1309
     },
     {
       "ticker": "COALINDIA.NS",
-      "close": 380.55,
-      "ret5": 0.0217,
-      "vol_surge": 0.14,
+      "close": 380.1,
+      "ret5": 0.0205,
+      "vol_surge": 1.59,
       "rsi14": 50.0,
-      "score": 0.0268
+      "score": 0.1225
     },
     {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2554.8,
-      "ret5": 0.0296,
-      "vol_surge": 0.04,
+      "ticker": "NESTLEIND.NS",
+      "close": 1200.9,
+      "ret5": 0.0333,
+      "vol_surge": 1.3,
       "rsi14": 50.0,
-      "score": 0.0262
+      "score": 0.1135
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 790.0,
-      "ret5": 0.0173,
-      "vol_surge": 0.17,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9030.5,
+      "ret5": 0.039,
+      "vol_surge": 1.17,
       "rsi14": 50.0,
-      "score": 0.0249
+      "score": 0.1089
     }
   ]
 }
