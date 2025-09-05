@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-04T03:45:15.941194Z",
+  "as_of_ist": "2025-09-05T03:46:40.240847Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 6293.0,
-      "ret5": 0.1,
-      "vol_surge": 0.2,
+      "ticker": "M&M.NS",
+      "close": 3529.1,
+      "ret5": 0.103,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.0933
+      "score": 0.09
     },
     {
       "ticker": "TATASTEEL.NS",
-      "close": 168.31,
-      "ret5": 0.0956,
+      "close": 167.48,
+      "ret5": 0.0842,
       "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.078
+      "score": 0.0686
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 937.5,
+      "ret5": 0.068,
+      "vol_surge": 0.05,
+      "rsi14": 50.0,
+      "score": 0.0574
     },
     {
       "ticker": "EICHERMOT.NS",
-      "close": 6638.5,
-      "ret5": 0.0824,
-      "vol_surge": 0.16,
+      "close": 6465.5,
+      "ret5": 0.0594,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0767
+      "score": 0.0487
     },
     {
-      "ticker": "M&M.NS",
-      "close": 3507.3,
-      "ret5": 0.0643,
-      "vol_surge": 0.16,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9138.0,
+      "ret5": 0.0587,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0621
-    },
-    {
-      "ticker": "NESTLEIND.NS",
-      "close": 1230.0,
-      "ret5": 0.0582,
-      "vol_surge": 0.16,
-      "rsi14": 50.0,
-      "score": 0.0572
+      "score": 0.048
     }
   ]
 }
