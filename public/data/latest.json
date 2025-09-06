@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-05T03:46:40.240847Z",
+  "as_of_ist": "2025-09-06T03:43:16.673523Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "M&M.NS",
-      "close": 3529.1,
-      "ret5": 0.103,
-      "vol_surge": 0.11,
+      "close": 3561.3,
+      "ret5": 0.1131,
+      "vol_surge": 1.27,
       "rsi14": 50.0,
-      "score": 0.09
-    },
-    {
-      "ticker": "TATASTEEL.NS",
-      "close": 167.48,
-      "ret5": 0.0842,
-      "vol_surge": 0.02,
-      "rsi14": 50.0,
-      "score": 0.0686
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": 937.5,
-      "ret5": 0.068,
-      "vol_surge": 0.05,
-      "rsi14": 50.0,
-      "score": 0.0574
+      "score": 0.175
     },
     {
       "ticker": "EICHERMOT.NS",
-      "close": 6465.5,
-      "ret5": 0.0594,
-      "vol_surge": 0.02,
+      "close": 6580.5,
+      "ret5": 0.0782,
+      "vol_surge": 0.96,
       "rsi14": 50.0,
-      "score": 0.0487
+      "score": 0.1263
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 9138.0,
-      "ret5": 0.0587,
-      "vol_surge": 0.02,
+      "ticker": "TATASTEEL.NS",
+      "close": 167.68,
+      "ret5": 0.0854,
+      "vol_surge": 0.69,
       "rsi14": 50.0,
-      "score": 0.048
+      "score": 0.1142
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2014.4,
+      "ret5": 0.0527,
+      "vol_surge": 1.0,
+      "rsi14": 50.0,
+      "score": 0.109
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 937.6,
+      "ret5": 0.0681,
+      "vol_surge": 0.76,
+      "rsi14": 50.0,
+      "score": 0.1054
     }
   ]
 }
