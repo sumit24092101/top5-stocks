@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-10T03:44:39.932251Z",
+  "as_of_ist": "2025-09-11T03:47:29.910794Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "M&M.NS",
-      "close": 3696.3,
-      "ret5": 0.1249,
-      "vol_surge": 1.01,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1409.9,
+      "ret5": 0.0615,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.1672
+      "score": 0.0606
     },
     {
       "ticker": "EICHERMOT.NS",
-      "close": 6874.5,
-      "ret5": 0.0789,
-      "vol_surge": 1.36,
+      "close": 6808.0,
+      "ret5": 0.0596,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.154
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1380.9,
-      "ret5": 0.0364,
-      "vol_surge": 1.66,
-      "rsi14": 50.0,
-      "score": 0.1397
+      "score": 0.0494
     },
     {
       "ticker": "INFY.NS",
-      "close": 1504.3,
-      "ret5": 0.017,
-      "vol_surge": 1.71,
+      "close": 1516.2,
+      "ret5": 0.0364,
+      "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.1276
+      "score": 0.0331
+    },
+    {
+      "ticker": "M&M.NS",
+      "close": 3613.0,
+      "ret5": 0.0378,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0331
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 249.15,
-      "ret5": -0.0016,
-      "vol_surge": 1.57,
+      "close": 253.31,
+      "ret5": 0.034,
+      "vol_surge": 0.08,
       "rsi14": 50.0,
-      "score": 0.1033
+      "score": 0.0328
     }
   ]
 }
