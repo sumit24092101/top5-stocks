@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-12T03:43:40.168042Z",
+  "as_of_ist": "2025-09-13T03:39:24.364226Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2398.8,
-      "ret5": 0.0515,
-      "vol_surge": 2.84,
-      "rsi14": 50.0,
-      "score": 0.2302
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 143.93,
-      "ret5": 0.0306,
-      "vol_surge": 2.06,
-      "rsi14": 50.0,
-      "score": 0.1616
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1393.1,
-      "ret5": 0.0539,
-      "vol_surge": 1.76,
-      "rsi14": 50.0,
-      "score": 0.1603
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 320.0,
-      "ret5": 0.024,
-      "vol_surge": 1.45,
-      "rsi14": 50.0,
-      "score": 0.1161
-    },
-    {
       "ticker": "INFY.NS",
-      "close": 1509.7,
-      "ret5": 0.0451,
-      "vol_surge": 1.14,
+      "close": 1525.6,
+      "ret5": 0.0561,
+      "vol_surge": 1.78,
       "rsi14": 50.0,
-      "score": 0.1123
+      "score": 0.1633
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1003.25,
+      "ret5": 0.07,
+      "vol_surge": 1.57,
+      "rsi14": 50.0,
+      "score": 0.1606
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2081.5,
+      "ret5": 0.0333,
+      "vol_surge": 1.41,
+      "rsi14": 50.0,
+      "score": 0.1209
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1105.3,
+      "ret5": 0.0468,
+      "vol_surge": 1.2,
+      "rsi14": 50.0,
+      "score": 0.1172
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1103.9,
+      "ret5": 0.0294,
+      "vol_surge": 1.19,
+      "rsi14": 50.0,
+      "score": 0.1029
     }
   ]
 }
