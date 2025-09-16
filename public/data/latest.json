@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-15T03:51:46.560408Z",
+  "as_of_ist": "2025-09-16T03:45:27.036030Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1009.0,
-      "ret5": 0.0685,
-      "vol_surge": 0.16,
+      "ticker": "COALINDIA.NS",
+      "close": 394.75,
+      "ret5": 0.0199,
+      "vol_surge": 0.97,
       "rsi14": 50.0,
-      "score": 0.0654
+      "score": 0.0808
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1510.0,
-      "ret5": 0.0538,
-      "vol_surge": 0.12,
+      "ticker": "TECHM.NS",
+      "close": 1519.8,
+      "ret5": 0.0405,
+      "vol_surge": 0.61,
       "rsi14": 50.0,
-      "score": 0.051
+      "score": 0.0728
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1104.8,
-      "ret5": 0.0467,
-      "vol_surge": 0.02,
+      "ticker": "KOTAKBANK.NS",
+      "close": 1970.8,
+      "ret5": 0.0106,
+      "vol_surge": 0.9,
       "rsi14": 50.0,
-      "score": 0.039
+      "score": 0.0687
     },
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1295.6,
-      "ret5": 0.036,
-      "vol_surge": 0.11,
+      "ticker": "BPCL.NS",
+      "close": 317.75,
+      "ret5": 0.0041,
+      "vol_surge": 0.96,
       "rsi14": 50.0,
-      "score": 0.0358
+      "score": 0.067
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1462.2,
-      "ret5": 0.0422,
-      "vol_surge": 0.02,
+      "ticker": "ICICIBANK.NS",
+      "close": 1419.4,
+      "ret5": 0.0119,
+      "vol_surge": 0.81,
       "rsi14": 50.0,
-      "score": 0.0353
+      "score": 0.0632
     }
   ]
 }
