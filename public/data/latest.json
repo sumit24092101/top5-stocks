@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-17T03:44:55.505025Z",
+  "as_of_ist": "2025-09-18T03:46:44.926329Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "MARUTI.NS",
+      "close": 15831.0,
+      "ret5": 0.0488,
+      "vol_surge": 0.05,
+      "rsi14": 50.0,
+      "score": 0.0421
+    },
+    {
       "ticker": "LT.NS",
-      "close": 3667.8,
-      "ret5": 0.0405,
-      "vol_surge": 2.24,
+      "close": 3693.5,
+      "ret5": 0.0435,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.1815
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1121.2,
-      "ret5": 0.0656,
-      "vol_surge": 1.61,
-      "rsi14": 50.0,
-      "score": 0.16
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 831.55,
-      "ret5": 0.0281,
-      "vol_surge": 1.75,
-      "rsi14": 50.0,
-      "score": 0.139
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1003.25,
-      "ret5": 0.0578,
-      "vol_surge": 1.08,
-      "rsi14": 50.0,
-      "score": 0.1181
+      "score": 0.036
     },
     {
       "ticker": "KOTAKBANK.NS",
-      "close": 2021.7,
-      "ret5": 0.0313,
-      "vol_surge": 1.36,
+      "close": 2055.0,
+      "ret5": 0.0419,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.1159
+      "score": 0.0353
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 855.0,
+      "ret5": 0.0381,
+      "vol_surge": 0.06,
+      "rsi14": 50.0,
+      "score": 0.0343
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1554.1,
+      "ret5": 0.0294,
+      "vol_surge": 0.13,
+      "rsi14": 50.0,
+      "score": 0.0324
     }
   ]
 }
