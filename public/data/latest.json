@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-19T03:47:14.889837Z",
+  "as_of_ist": "2025-09-20T03:43:57.809170Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ADANIENT.NS",
-      "close": 2519.2,
-      "ret5": 0.0532,
-      "vol_surge": 1.5,
+      "close": 2524.0,
+      "ret5": 0.0552,
+      "vol_surge": 8.09,
       "rsi14": 50.0,
-      "score": 0.1423
+      "score": 0.2441
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1444.8,
-      "ret5": 0.0371,
-      "vol_surge": 0.56,
+      "close": 1427.8,
+      "ret5": 0.0249,
+      "vol_surge": 4.09,
       "rsi14": 50.0,
-      "score": 0.0671
+      "score": 0.2199
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 15873.0,
-      "ret5": 0.0358,
-      "vol_surge": 0.18,
+      "ticker": "BHARTIARTL.NS",
+      "close": 1962.4,
+      "ret5": 0.0314,
+      "vol_surge": 2.63,
       "rsi14": 50.0,
-      "score": 0.0408
+      "score": 0.2004
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6212.5,
-      "ret5": 0.0309,
-      "vol_surge": 0.14,
+      "ticker": "UPL.NS",
+      "close": 691.1,
+      "ret5": -0.0029,
+      "vol_surge": 2.98,
       "rsi14": 50.0,
-      "score": 0.0342
+      "score": 0.1961
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 2051.1,
-      "ret5": 0.04,
-      "vol_surge": 0.02,
+      "ticker": "ULTRACEMCO.NS",
+      "close": 12508.0,
+      "ret5": 0.0112,
+      "vol_surge": 2.72,
       "rsi14": 50.0,
-      "score": 0.0333
+      "score": 0.1904
     }
   ]
 }
