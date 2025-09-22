@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-21T03:50:23.522273Z",
+  "as_of_ist": "2025-09-22T03:50:57.413999Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ADANIENT.NS",
-      "close": 2524.0,
-      "ret5": 0.0552,
-      "vol_surge": 8.09,
+      "close": 2565.0,
+      "ret5": 0.0762,
+      "vol_surge": 0.34,
       "rsi14": 50.0,
-      "score": 0.2441
+      "score": 0.0837
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 860.65,
+      "ret5": 0.0435,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0376
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1427.8,
-      "ret5": 0.0249,
-      "vol_surge": 4.09,
+      "close": 1442.6,
+      "ret5": 0.034,
+      "vol_surge": 0.15,
       "rsi14": 50.0,
-      "score": 0.2199
+      "score": 0.0373
     },
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1962.4,
-      "ret5": 0.0314,
-      "vol_surge": 2.63,
+      "ticker": "MARUTI.NS",
+      "close": 15899.0,
+      "ret5": 0.0415,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.2004
+      "score": 0.0351
     },
     {
-      "ticker": "UPL.NS",
-      "close": 691.1,
-      "ret5": -0.0029,
-      "vol_surge": 2.98,
+      "ticker": "TECHM.NS",
+      "close": 1485.5,
+      "ret5": -0.0226,
+      "vol_surge": 0.76,
       "rsi14": 50.0,
-      "score": 0.1961
-    },
-    {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 12508.0,
-      "ret5": 0.0112,
-      "vol_surge": 2.72,
-      "rsi14": 50.0,
-      "score": 0.1904
+      "score": 0.0323
     }
   ]
 }
