@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-23T03:46:04.075960Z",
+  "as_of_ist": "2025-09-24T03:47:25.976692Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ADANIENT.NS",
-      "close": 2611.8,
-      "ret5": 0.0885,
-      "vol_surge": 0.07,
+      "close": 2655.1,
+      "ret5": 0.1054,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0753
+      "score": 0.0876
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 16127.0,
-      "ret5": 0.0356,
-      "vol_surge": 0.16,
+      "ticker": "AXISBANK.NS",
+      "close": 1163.6,
+      "ret5": 0.0334,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0392
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 328.4,
-      "ret5": 0.0319,
-      "vol_surge": 0.03,
-      "rsi14": 50.0,
-      "score": 0.0275
-    },
-    {
-      "ticker": "TATACONSUM.NS",
-      "close": 1126.8,
-      "ret5": 0.0318,
-      "vol_surge": 0.01,
-      "rsi14": 50.0,
-      "score": 0.0264
+      "score": 0.0298
     },
     {
       "ticker": "SBIN.NS",
-      "close": 855.6,
-      "ret5": 0.0289,
-      "vol_surge": 0.01,
+      "close": 879.55,
+      "ret5": 0.0261,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0236
+      "score": 0.0266
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1444.6,
+      "ret5": 0.0274,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0247
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1137.8,
+      "ret5": 0.0241,
+      "vol_surge": 0.03,
+      "rsi14": 50.0,
+      "score": 0.0211
     }
   ]
 }
