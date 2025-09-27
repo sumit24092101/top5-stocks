@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-26T03:46:21.516474Z",
+  "as_of_ist": "2025-09-27T03:43:56.171228Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TITAN.NS",
-      "close": 3349.1,
-      "ret5": -0.0341,
-      "vol_surge": 6.35,
+      "ticker": "LT.NS",
+      "close": 3729.5,
+      "ret5": 0.0147,
+      "vol_surge": 3.57,
       "rsi14": 50.0,
-      "score": 0.1728
+      "score": 0.2118
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 3327.3,
+      "ret5": -0.0403,
+      "vol_surge": 7.13,
+      "rsi14": 50.0,
+      "score": 0.1677
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "close": 1586.7,
+      "ret5": -0.0418,
+      "vol_surge": 2.73,
+      "rsi14": 50.0,
+      "score": 0.1487
     },
     {
       "ticker": "JSWSTEEL.NS",
-      "close": 1159.9,
-      "ret5": 0.033,
-      "vol_surge": 0.07,
+      "close": 1130.8,
+      "ret5": 0.0071,
+      "vol_surge": 2.06,
       "rsi14": 50.0,
-      "score": 0.0314
+      "score": 0.1431
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 16283.0,
-      "ret5": 0.0264,
-      "vol_surge": 0.02,
+      "ticker": "CIPLA.NS",
+      "close": 1499.4,
+      "ret5": -0.0485,
+      "vol_surge": 2.5,
       "rsi14": 50.0,
-      "score": 0.0226
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1161.9,
-      "ret5": 0.0229,
-      "vol_surge": 0.01,
-      "rsi14": 50.0,
-      "score": 0.019
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2572.3,
-      "ret5": 0.0191,
-      "vol_surge": 0.01,
-      "rsi14": 50.0,
-      "score": 0.0157
+      "score": 0.1278
     }
   ]
 }
