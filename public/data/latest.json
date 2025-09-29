@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-28T03:50:13.349022Z",
+  "as_of_ist": "2025-09-29T03:50:23.705773Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "LT.NS",
-      "close": 3729.5,
-      "ret5": 0.0147,
-      "vol_surge": 3.57,
+      "close": 3705.3,
+      "ret5": 0.0167,
+      "vol_surge": 0.14,
       "rsi14": 50.0,
-      "score": 0.2118
+      "score": 0.0226
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 3327.3,
-      "ret5": -0.0403,
-      "vol_surge": 7.13,
+      "ticker": "MARUTI.NS",
+      "close": 16136.0,
+      "ret5": 0.0202,
+      "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.1677
-    },
-    {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1586.7,
-      "ret5": -0.0418,
-      "vol_surge": 2.73,
-      "rsi14": 50.0,
-      "score": 0.1487
+      "score": 0.0201
     },
     {
       "ticker": "JSWSTEEL.NS",
-      "close": 1130.8,
-      "ret5": 0.0071,
-      "vol_surge": 2.06,
+      "close": 1139.0,
+      "ret5": 0.0197,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.1431
+      "score": 0.0192
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1499.4,
-      "ret5": -0.0485,
-      "vol_surge": 2.5,
+      "ticker": "EICHERMOT.NS",
+      "close": 7031.0,
+      "ret5": 0.0122,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.1278
+      "score": 0.0114
+    },
+    {
+      "ticker": "BPCL.NS",
+      "close": 327.7,
+      "ret5": 0.0071,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0082
     }
   ]
 }
