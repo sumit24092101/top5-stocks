@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-29T03:50:23.705773Z",
+  "as_of_ist": "2025-09-30T03:46:52.161361Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "LT.NS",
-      "close": 3705.3,
-      "ret5": 0.0167,
-      "vol_surge": 0.14,
+      "ticker": "BPCL.NS",
+      "close": 337.7,
+      "ret5": 0.0221,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0226
+      "score": 0.0203
+    },
+    {
+      "ticker": "ONGC.NS",
+      "close": 240.29,
+      "ret5": 0.0153,
+      "vol_surge": 0.02,
+      "rsi14": 50.0,
+      "score": 0.0136
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 149.76,
+      "ret5": 0.0103,
+      "vol_surge": 0.08,
+      "rsi14": 50.0,
+      "score": 0.0132
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 3464.4,
+      "ret5": 0.002,
+      "vol_surge": 0.15,
+      "rsi14": 50.0,
+      "score": 0.0118
     },
     {
       "ticker": "MARUTI.NS",
-      "close": 16136.0,
-      "ret5": 0.0202,
-      "vol_surge": 0.06,
+      "close": 16033.0,
+      "ret5": 0.0137,
+      "vol_surge": 0.01,
       "rsi14": 50.0,
-      "score": 0.0201
-    },
-    {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1139.0,
-      "ret5": 0.0197,
-      "vol_surge": 0.05,
-      "rsi14": 50.0,
-      "score": 0.0192
-    },
-    {
-      "ticker": "EICHERMOT.NS",
-      "close": 7031.0,
-      "ret5": 0.0122,
-      "vol_surge": 0.02,
-      "rsi14": 50.0,
-      "score": 0.0114
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 327.7,
-      "ret5": 0.0071,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0082
+      "score": 0.0117
     }
   ]
 }
