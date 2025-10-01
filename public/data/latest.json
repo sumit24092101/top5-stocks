@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-09-30T03:46:52.161361Z",
+  "as_of_ist": "2025-10-01T03:53:01.389360Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "BPCL.NS",
-      "close": 337.7,
-      "ret5": 0.0221,
-      "vol_surge": 0.04,
+      "close": 341.8,
+      "ret5": 0.0347,
+      "vol_surge": 0.08,
       "rsi14": 50.0,
-      "score": 0.0203
-    },
-    {
-      "ticker": "ONGC.NS",
-      "close": 240.29,
-      "ret5": 0.0153,
-      "vol_surge": 0.02,
-      "rsi14": 50.0,
-      "score": 0.0136
+      "score": 0.0333
     },
     {
       "ticker": "IOC.NS",
-      "close": 149.76,
-      "ret5": 0.0103,
-      "vol_surge": 0.08,
+      "close": 150.06,
+      "ret5": 0.0224,
+      "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.0132
+      "score": 0.0221
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 3464.4,
-      "ret5": 0.002,
-      "vol_surge": 0.15,
+      "ticker": "SUNPHARMA.NS",
+      "close": 1639.4,
+      "ret5": 0.0076,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.0118
+      "score": 0.0213
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 16033.0,
-      "ret5": 0.0137,
-      "vol_surge": 0.01,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5480.0,
+      "ret5": 0.0204,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0117
+      "score": 0.0208
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7009.0,
+      "ret5": 0.0091,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0101
     }
   ]
 }
