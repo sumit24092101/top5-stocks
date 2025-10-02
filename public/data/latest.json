@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-01T03:53:01.389360Z",
+  "as_of_ist": "2025-10-02T03:45:11.596436Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "TATAMOTORS.NS",
+      "close": 718.35,
+      "ret5": 0.0518,
+      "vol_surge": 2.32,
+      "rsi14": 50.0,
+      "score": 0.1963
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "close": 1244.7,
+      "ret5": -0.0487,
+      "vol_surge": 2.74,
+      "rsi14": 50.0,
+      "score": 0.1439
+    },
+    {
       "ticker": "BPCL.NS",
-      "close": 341.8,
-      "ret5": 0.0347,
-      "vol_surge": 0.08,
+      "close": 339.7,
+      "ret5": 0.0283,
+      "vol_surge": 1.52,
       "rsi14": 50.0,
-      "score": 0.0333
+      "score": 0.1241
     },
     {
-      "ticker": "IOC.NS",
-      "close": 150.06,
-      "ret5": 0.0224,
-      "vol_surge": 0.06,
+      "ticker": "KOTAKBANK.NS",
+      "close": 2063.3,
+      "ret5": 0.0158,
+      "vol_surge": 1.57,
       "rsi14": 50.0,
-      "score": 0.0221
+      "score": 0.1171
     },
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1639.4,
-      "ret5": 0.0076,
-      "vol_surge": 0.23,
+      "ticker": "ICICIBANK.NS",
+      "close": 1372.0,
+      "ret5": -0.0077,
+      "vol_surge": 1.81,
       "rsi14": 50.0,
-      "score": 0.0213
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5480.0,
-      "ret5": 0.0204,
-      "vol_surge": 0.07,
-      "rsi14": 50.0,
-      "score": 0.0208
-    },
-    {
-      "ticker": "EICHERMOT.NS",
-      "close": 7009.0,
-      "ret5": 0.0091,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0101
+      "score": 0.1147
     }
   ]
 }
