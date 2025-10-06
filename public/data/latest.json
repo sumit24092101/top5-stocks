@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-05T03:47:35.416876Z",
+  "as_of_ist": "2025-10-06T03:47:40.576915Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 173.21,
-      "ret5": 0.0347,
-      "vol_surge": 2.71,
+      "ticker": "KOTAKBANK.NS",
+      "close": 2101.9,
+      "ret5": 0.0554,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.2086
+      "score": 0.0491
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1196.0,
+      "ret5": 0.0564,
+      "vol_surge": 0.06,
+      "rsi14": 50.0,
+      "score": 0.0489
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 716.1,
-      "ret5": 0.0642,
-      "vol_surge": 2.08,
+      "close": 707.6,
+      "ret5": 0.0522,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.1899
-    },
-    {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 8679.5,
-      "ret5": -0.0026,
-      "vol_surge": 2.25,
-      "rsi14": 50.0,
-      "score": 0.1479
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 759.2,
-      "ret5": -0.0068,
-      "vol_surge": 2.18,
-      "rsi14": 50.0,
-      "score": 0.1398
+      "score": 0.0465
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5550.5,
-      "ret5": 0.0418,
-      "vol_surge": 1.55,
+      "close": 5535.0,
+      "ret5": 0.0442,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.1371
+      "score": 0.0365
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "close": 288.2,
+      "ret5": 0.0271,
+      "vol_surge": 0.15,
+      "rsi14": 50.0,
+      "score": 0.0314
     }
   ]
 }
