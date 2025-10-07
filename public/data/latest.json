@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-06T03:47:40.576915Z",
+  "as_of_ist": "2025-10-07T03:46:31.481396Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "KOTAKBANK.NS",
-      "close": 2101.9,
-      "ret5": 0.0554,
-      "vol_surge": 0.07,
+      "close": 2137.0,
+      "ret5": 0.0724,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0491
+      "score": 0.0593
     },
     {
       "ticker": "AXISBANK.NS",
-      "close": 1196.0,
-      "ret5": 0.0564,
-      "vol_surge": 0.06,
+      "close": 1202.9,
+      "ret5": 0.063,
+      "vol_surge": 0.01,
       "rsi14": 50.0,
-      "score": 0.0489
+      "score": 0.0514
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 707.6,
-      "ret5": 0.0522,
-      "vol_surge": 0.07,
-      "rsi14": 50.0,
-      "score": 0.0465
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5535.0,
-      "ret5": 0.0442,
+      "close": 709.95,
+      "ret5": 0.0437,
       "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0365
+      "score": 0.036
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 683.0,
+      "ret5": 0.0415,
+      "vol_surge": 0.01,
+      "rsi14": 50.0,
+      "score": 0.0337
     },
     {
       "ticker": "POWERGRID.NS",
-      "close": 288.2,
-      "ret5": 0.0271,
-      "vol_surge": 0.15,
+      "close": 289.45,
+      "ret5": 0.0328,
+      "vol_surge": 0.08,
       "rsi14": 50.0,
-      "score": 0.0314
+      "score": 0.0313
     }
   ]
 }
