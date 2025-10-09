@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-08T03:46:10.701235Z",
+  "as_of_ist": "2025-10-09T03:47:34.812865Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DIVISLAB.NS",
-      "close": 6124.5,
-      "ret5": 0.0765,
-      "vol_surge": 0.06,
+      "close": 6191.5,
+      "ret5": 0.0843,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.0653
+      "score": 0.0697
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 3538.0,
-      "ret5": 0.0381,
-      "vol_surge": 0.27,
+      "ticker": "HCLTECH.NS",
+      "close": 1467.8,
+      "ret5": 0.0564,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0485
+      "score": 0.0479
     },
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1936.8,
-      "ret5": 0.0371,
-      "vol_surge": 0.02,
+      "ticker": "TCS.NS",
+      "close": 3030.7,
+      "ret5": 0.04,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0311
+      "score": 0.0353
     },
     {
-      "ticker": "IOC.NS",
-      "close": 154.57,
-      "ret5": 0.0325,
-      "vol_surge": 0.02,
+      "ticker": "TATASTEEL.NS",
+      "close": 173.93,
+      "ret5": 0.0383,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0271
+      "score": 0.0353
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5605.0,
-      "ret5": 0.0318,
-      "vol_surge": 0.01,
+      "ticker": "INFY.NS",
+      "close": 1502.1,
+      "ret5": 0.0389,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0258
+      "score": 0.0341
     }
   ]
 }
