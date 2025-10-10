@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-09T03:47:34.812865Z",
+  "as_of_ist": "2025-10-10T03:47:07.670935Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6191.5,
-      "ret5": 0.0843,
-      "vol_surge": 0.03,
+      "ticker": "TCS.NS",
+      "close": 3037.4,
+      "ret5": 0.0467,
+      "vol_surge": 0.3,
       "rsi14": 50.0,
-      "score": 0.0697
+      "score": 0.0574
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1467.8,
-      "ret5": 0.0564,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0479
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 3030.7,
-      "ret5": 0.04,
+      "close": 1479.6,
+      "ret5": 0.0618,
       "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0353
+      "score": 0.0529
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 173.93,
-      "ret5": 0.0383,
-      "vol_surge": 0.07,
+      "ticker": "DIVISLAB.NS",
+      "close": 6115.5,
+      "ret5": 0.0425,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.0353
+      "score": 0.0359
     },
     {
       "ticker": "INFY.NS",
-      "close": 1502.1,
-      "ret5": 0.0389,
-      "vol_surge": 0.04,
+      "close": 1506.7,
+      "ret5": 0.0415,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0341
+      "score": 0.0346
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1455.9,
+      "ret5": 0.0395,
+      "vol_surge": 0.02,
+      "rsi14": 50.0,
+      "score": 0.0332
     }
   ]
 }
