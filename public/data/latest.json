@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-10T03:47:07.670935Z",
+  "as_of_ist": "2025-10-11T03:42:41.093932Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TCS.NS",
-      "close": 3037.4,
-      "ret5": 0.0467,
-      "vol_surge": 0.3,
+      "ticker": "DIVISLAB.NS",
+      "close": 6474.5,
+      "ret5": 0.1037,
+      "vol_surge": 3.31,
       "rsi14": 50.0,
-      "score": 0.0574
+      "score": 0.283
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 3028.3,
+      "ret5": 0.0436,
+      "vol_surge": 2.79,
+      "rsi14": 50.0,
+      "score": 0.221
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1479.6,
-      "ret5": 0.0618,
-      "vol_surge": 0.05,
+      "close": 1495.5,
+      "ret5": 0.0732,
+      "vol_surge": 0.87,
       "rsi14": 50.0,
-      "score": 0.0529
+      "score": 0.1168
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6115.5,
-      "ret5": 0.0425,
-      "vol_surge": 0.03,
+      "ticker": "CIPLA.NS",
+      "close": 1561.8,
+      "ret5": 0.0291,
+      "vol_surge": 1.29,
       "rsi14": 50.0,
-      "score": 0.0359
+      "score": 0.1094
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1506.7,
-      "ret5": 0.0415,
-      "vol_surge": 0.02,
+      "ticker": "SBIN.NS",
+      "close": 880.65,
+      "ret5": 0.0154,
+      "vol_surge": 1.34,
       "rsi14": 50.0,
-      "score": 0.0346
-    },
-    {
-      "ticker": "TECHM.NS",
-      "close": 1455.9,
-      "ret5": 0.0395,
-      "vol_surge": 0.02,
-      "rsi14": 50.0,
-      "score": 0.0332
+      "score": 0.1016
     }
   ]
 }
