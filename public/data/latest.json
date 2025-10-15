@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-14T03:47:24.675601Z",
+  "as_of_ist": "2025-10-15T03:49:51.679894Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATAMOTORS.NS",
-      "close": 660.75,
-      "ret5": -0.0728,
-      "vol_surge": 2.13,
+      "ticker": "DIVISLAB.NS",
+      "close": 6579.0,
+      "ret5": 0.0749,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0836
+      "score": 0.0611
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9166.5,
+      "ret5": 0.0426,
+      "vol_surge": 0.05,
+      "rsi14": 50.0,
+      "score": 0.0372
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "close": 1559.2,
+      "ret5": 0.0432,
+      "vol_surge": 0.03,
+      "rsi14": 50.0,
+      "score": 0.0367
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1520.0,
-      "ret5": 0.0604,
-      "vol_surge": 0.26,
+      "close": 1504.1,
+      "ret5": 0.035,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.066
+      "score": 0.0307
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6549.0,
-      "ret5": 0.0728,
+      "ticker": "SBILIFE.NS",
+      "close": 1832.4,
+      "ret5": 0.0336,
       "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0593
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1431.1,
-      "ret5": 0.0226,
-      "vol_surge": 0.56,
-      "rsi14": 50.0,
-      "score": 0.0557
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1503.6,
-      "ret5": 0.0309,
-      "vol_surge": 0.02,
-      "rsi14": 50.0,
-      "score": 0.0258
+      "score": 0.028
     }
   ]
 }
