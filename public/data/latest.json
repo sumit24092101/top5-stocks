@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-15T03:49:51.679894Z",
+  "as_of_ist": "2025-10-16T03:50:07.015377Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DIVISLAB.NS",
-      "close": 6579.0,
-      "ret5": 0.0749,
+      "close": 6560.0,
+      "ret5": 0.0698,
       "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0611
+      "score": 0.0569
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 9166.5,
-      "ret5": 0.0426,
-      "vol_surge": 0.05,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1466.4,
+      "ret5": 0.0507,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0372
+      "score": 0.0453
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1559.2,
-      "ret5": 0.0432,
-      "vol_surge": 0.03,
+      "ticker": "AXISBANK.NS",
+      "close": 1197.9,
+      "ret5": 0.0261,
+      "vol_surge": 0.35,
+      "rsi14": 50.0,
+      "score": 0.0441
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1062.6,
+      "ret5": 0.0376,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
       "score": 0.0367
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1504.1,
-      "ret5": 0.035,
+      "ticker": "NESTLEIND.NS",
+      "close": 1226.1,
+      "ret5": 0.0322,
       "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0307
-    },
-    {
-      "ticker": "SBILIFE.NS",
-      "close": 1832.4,
-      "ret5": 0.0336,
-      "vol_surge": 0.02,
-      "rsi14": 50.0,
-      "score": 0.028
+      "score": 0.0284
     }
   ]
 }
