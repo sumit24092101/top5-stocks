@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-16T03:50:07.015377Z",
+  "as_of_ist": "2025-10-17T03:47:55.440860Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6560.0,
-      "ret5": 0.0698,
-      "vol_surge": 0.02,
+      "ticker": "NESTLEIND.NS",
+      "close": 1308.0,
+      "ret5": 0.0905,
+      "vol_surge": 0.27,
       "rsi14": 50.0,
-      "score": 0.0569
+      "score": 0.0904
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2492.6,
+      "ret5": 0.0651,
+      "vol_surge": 0.31,
+      "rsi14": 50.0,
+      "score": 0.0728
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2097.2,
+      "ret5": 0.0464,
+      "vol_surge": 0.03,
+      "rsi14": 50.0,
+      "score": 0.0389
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1466.4,
-      "ret5": 0.0507,
-      "vol_surge": 0.07,
+      "close": 1468.5,
+      "ret5": 0.0419,
+      "vol_surge": 0.03,
       "rsi14": 50.0,
-      "score": 0.0453
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1197.9,
-      "ret5": 0.0261,
-      "vol_surge": 0.35,
-      "rsi14": 50.0,
-      "score": 0.0441
+      "score": 0.0357
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": 1062.6,
-      "ret5": 0.0376,
-      "vol_surge": 0.1,
+      "close": 1063.2,
+      "ret5": 0.0384,
+      "vol_surge": 0.02,
       "rsi14": 50.0,
-      "score": 0.0367
-    },
-    {
-      "ticker": "NESTLEIND.NS",
-      "close": 1226.1,
-      "ret5": 0.0322,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0284
+      "score": 0.0322
     }
   ]
 }
