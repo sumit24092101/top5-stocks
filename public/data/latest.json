@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-17T03:47:55.440860Z",
+  "as_of_ist": "2025-10-18T03:44:29.358569Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "NESTLEIND.NS",
-      "close": 1308.0,
-      "ret5": 0.0905,
-      "vol_surge": 0.27,
-      "rsi14": 50.0,
-      "score": 0.0904
-    },
-    {
       "ticker": "ASIANPAINT.NS",
-      "close": 2492.6,
-      "ret5": 0.0651,
-      "vol_surge": 0.31,
+      "close": 2507.8,
+      "ret5": 0.0716,
+      "vol_surge": 3.43,
       "rsi14": 50.0,
-      "score": 0.0728
+      "score": 0.2573
     },
     {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2097.2,
-      "ret5": 0.0464,
-      "vol_surge": 0.03,
+      "ticker": "NESTLEIND.NS",
+      "close": 1289.5,
+      "ret5": 0.075,
+      "vol_surge": 1.87,
       "rsi14": 50.0,
-      "score": 0.0389
+      "score": 0.1846
     },
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1468.5,
-      "ret5": 0.0419,
-      "vol_surge": 0.03,
+      "ticker": "WIPRO.NS",
+      "close": 240.9,
+      "ret5": -0.0314,
+      "vol_surge": 4.04,
       "rsi14": 50.0,
-      "score": 0.0357
+      "score": 0.1749
     },
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1063.2,
-      "ret5": 0.0384,
-      "vol_surge": 0.02,
+      "ticker": "M&M.NS",
+      "close": 3647.2,
+      "ret5": 0.0557,
+      "vol_surge": 1.59,
       "rsi14": 50.0,
-      "score": 0.0322
+      "score": 0.1503
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1166.0,
+      "ret5": 0.0351,
+      "vol_surge": 1.65,
+      "rsi14": 50.0,
+      "score": 0.1384
     }
   ]
 }
