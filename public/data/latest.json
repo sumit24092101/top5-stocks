@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-24T03:47:40.843324Z",
+  "as_of_ist": "2025-10-25T03:48:47.020493Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATAMOTORS.NS",
-      "close": 405.85,
-      "ret5": 0.0384,
-      "vol_surge": 0.72,
+      "ticker": "ONGC.NS",
+      "close": 254.96,
+      "ret5": 0.0266,
+      "vol_surge": 1.79,
       "rsi14": 50.0,
-      "score": 0.0788
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1529.1,
-      "ret5": 0.0391,
-      "vol_surge": 0.09,
-      "rsi14": 50.0,
-      "score": 0.0371
+      "score": 0.1409
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1597.3,
-      "ret5": 0.0178,
-      "vol_surge": 0.33,
+      "close": 1584.4,
+      "ret5": 0.0096,
+      "vol_surge": 1.97,
       "rsi14": 50.0,
-      "score": 0.0361
+      "score": 0.1391
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1248.0,
-      "ret5": 0.0432,
-      "vol_surge": 0.01,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2516.4,
+      "ret5": -0.0176,
+      "vol_surge": 2.11,
       "rsi14": 50.0,
-      "score": 0.0356
+      "score": 0.1266
     },
     {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2178.3,
-      "ret5": 0.0421,
-      "vol_surge": 0.01,
+      "ticker": "INFY.NS",
+      "close": 1525.4,
+      "ret5": 0.0366,
+      "vol_surge": 1.11,
       "rsi14": 50.0,
-      "score": 0.0347
+      "score": 0.1032
+    },
+    {
+      "ticker": "ITC.NS",
+      "close": 416.8,
+      "ret5": 0.0288,
+      "vol_surge": 1.0,
+      "rsi14": 50.0,
+      "score": 0.0896
     }
   ]
 }
