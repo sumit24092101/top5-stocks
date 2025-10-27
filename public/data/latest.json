@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-26T03:52:03.970068Z",
+  "as_of_ist": "2025-10-27T04:03:14.826834Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ONGC.NS",
-      "close": 254.96,
-      "ret5": 0.0266,
-      "vol_surge": 1.79,
+      "ticker": "SBILIFE.NS",
+      "close": 1897.6,
+      "ret5": 0.029,
+      "vol_surge": 1.05,
       "rsi14": 50.0,
-      "score": 0.1409
-    },
-    {
-      "ticker": "CIPLA.NS",
-      "close": 1584.4,
-      "ret5": 0.0096,
-      "vol_surge": 1.97,
-      "rsi14": 50.0,
-      "score": 0.1391
-    },
-    {
-      "ticker": "HINDUNILVR.NS",
-      "close": 2516.4,
-      "ret5": -0.0176,
-      "vol_surge": 2.11,
-      "rsi14": 50.0,
-      "score": 0.1266
+      "score": 0.0929
     },
     {
       "ticker": "INFY.NS",
-      "close": 1525.4,
-      "ret5": 0.0366,
-      "vol_surge": 1.11,
+      "close": 1507.2,
+      "ret5": 0.0619,
+      "vol_surge": 0.14,
       "rsi14": 50.0,
-      "score": 0.1032
+      "score": 0.0591
     },
     {
-      "ticker": "ITC.NS",
-      "close": 416.8,
-      "ret5": 0.0288,
-      "vol_surge": 1.0,
+      "ticker": "RELIANCE.NS",
+      "close": 1470.7,
+      "ret5": 0.038,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
-      "score": 0.0896
+      "score": 0.0369
+    },
+    {
+      "ticker": "TATAMOTORS.NS",
+      "close": 403.3,
+      "ret5": 0.0164,
+      "vol_surge": 0.33,
+      "rsi14": 50.0,
+      "score": 0.035
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1244.9,
+      "ret5": 0.0372,
+      "vol_surge": 0.08,
+      "rsi14": 50.0,
+      "score": 0.0348
     }
   ]
 }
