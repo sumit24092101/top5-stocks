@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-10-27T04:03:14.826834Z",
+  "as_of_ist": "2025-10-28T03:52:06.308938Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SBILIFE.NS",
-      "close": 1897.6,
-      "ret5": 0.029,
-      "vol_surge": 1.05,
+      "ticker": "TATAMOTORS.NS",
+      "close": 410.05,
+      "ret5": 0.0339,
+      "vol_surge": 0.58,
       "rsi14": 50.0,
-      "score": 0.0929
+      "score": 0.0657
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 675.7,
+      "ret5": -0.0075,
+      "vol_surge": 1.02,
+      "rsi14": 50.0,
+      "score": 0.0622
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 156.01,
+      "ret5": 0.014,
+      "vol_surge": 0.59,
+      "rsi14": 50.0,
+      "score": 0.0505
     },
     {
       "ticker": "INFY.NS",
-      "close": 1507.2,
-      "ret5": 0.0619,
-      "vol_surge": 0.14,
+      "close": 1504.1,
+      "ret5": 0.0453,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0591
+      "score": 0.0407
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1470.7,
-      "ret5": 0.038,
-      "vol_surge": 0.1,
+      "ticker": "SBILIFE.NS",
+      "close": 1908.7,
+      "ret5": 0.0375,
+      "vol_surge": 0.12,
       "rsi14": 50.0,
-      "score": 0.0369
-    },
-    {
-      "ticker": "TATAMOTORS.NS",
-      "close": 403.3,
-      "ret5": 0.0164,
-      "vol_surge": 0.33,
-      "rsi14": 50.0,
-      "score": 0.035
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1244.9,
-      "ret5": 0.0372,
-      "vol_surge": 0.08,
-      "rsi14": 50.0,
-      "score": 0.0348
+      "score": 0.0377
     }
   ]
 }
