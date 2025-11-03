@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-02T03:56:26.444072Z",
+  "as_of_ist": "2025-11-03T04:01:04.924762Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "UPL.NS",
-      "close": 720.1,
-      "ret5": 0.0715,
-      "vol_surge": 2.15,
+      "ticker": "BPCL.NS",
+      "close": 360.45,
+      "ret5": 0.0509,
+      "vol_surge": 0.55,
       "rsi14": 50.0,
-      "score": 0.2005
+      "score": 0.0772
     },
     {
       "ticker": "IOC.NS",
-      "close": 165.9,
-      "ret5": 0.1033,
-      "vol_surge": 1.67,
+      "close": 167.35,
+      "ret5": 0.0783,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.1939
+      "score": 0.0743
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7007.0,
-      "ret5": 0.0244,
-      "vol_surge": 1.89,
+      "ticker": "UPL.NS",
+      "close": 726.2,
+      "ret5": 0.0682,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.1456
+      "score": 0.0632
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 16186.0,
-      "ret5": -0.0054,
-      "vol_surge": 2.19,
+      "ticker": "TATAMOTORS.NS",
+      "close": 410.0,
+      "ret5": 0.0166,
+      "vol_surge": 0.48,
       "rsi14": 50.0,
-      "score": 0.1419
+      "score": 0.0455
     },
     {
-      "ticker": "NTPC.NS",
-      "close": 336.95,
-      "ret5": -0.0078,
-      "vol_surge": 2.04,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1207.5,
+      "ret5": 0.0495,
+      "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.13
+      "score": 0.0422
     }
   ]
 }
