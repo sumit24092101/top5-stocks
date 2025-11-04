@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-03T04:01:04.924762Z",
+  "as_of_ist": "2025-11-04T03:53:07.267542Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "BPCL.NS",
-      "close": 360.45,
-      "ret5": 0.0509,
-      "vol_surge": 0.55,
+      "close": 372.05,
+      "ret5": 0.0922,
+      "vol_surge": 0.16,
       "rsi14": 50.0,
-      "score": 0.0772
+      "score": 0.0842
     },
     {
       "ticker": "IOC.NS",
-      "close": 167.35,
-      "ret5": 0.0783,
-      "vol_surge": 0.17,
+      "close": 168.8,
+      "ret5": 0.0924,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.0743
+      "score": 0.0811
     },
     {
-      "ticker": "UPL.NS",
-      "close": 726.2,
-      "ret5": 0.0682,
-      "vol_surge": 0.13,
+      "ticker": "TATACONSUM.NS",
+      "close": 1161.7,
+      "ret5": -0.0062,
+      "vol_surge": 0.86,
       "rsi14": 50.0,
-      "score": 0.0632
+      "score": 0.0525
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 410.0,
-      "ret5": 0.0166,
-      "vol_surge": 0.48,
+      "close": 417.0,
+      "ret5": 0.0169,
+      "vol_surge": 0.57,
       "rsi14": 50.0,
-      "score": 0.0455
+      "score": 0.0517
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1207.5,
-      "ret5": 0.0495,
-      "vol_surge": 0.04,
+      "ticker": "BHARTIARTL.NS",
+      "close": 2129.5,
+      "ret5": 0.0188,
+      "vol_surge": 0.49,
       "rsi14": 50.0,
-      "score": 0.0422
+      "score": 0.0474
     }
   ]
 }
