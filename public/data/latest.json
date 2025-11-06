@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-05T03:54:59.442201Z",
+  "as_of_ist": "2025-11-06T03:58:20.215261Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "BRITANNIA.NS",
+      "close": 6112.5,
+      "ret5": 0.0444,
+      "vol_surge": 1.01,
+      "rsi14": 50.0,
+      "score": 0.1028
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2595.0,
+      "ret5": 0.0222,
+      "vol_surge": 1.19,
+      "rsi14": 50.0,
+      "score": 0.0972
+    },
+    {
       "ticker": "BPCL.NS",
-      "close": 373.0,
-      "ret5": 0.095,
-      "vol_surge": 1.45,
+      "close": 372.9,
+      "ret5": 0.0712,
+      "vol_surge": 0.22,
       "rsi14": 50.0,
-      "score": 0.1728
+      "score": 0.0713
     },
     {
-      "ticker": "IOC.NS",
-      "close": 169.05,
-      "ret5": 0.094,
-      "vol_surge": 1.46,
+      "ticker": "M&M.NS",
+      "close": 3650.7,
+      "ret5": 0.0328,
+      "vol_surge": 0.43,
       "rsi14": 50.0,
-      "score": 0.1723
+      "score": 0.0546
     },
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 2110.0,
-      "ret5": 0.0095,
-      "vol_surge": 2.42,
+      "ticker": "DIVISLAB.NS",
+      "close": 6821.0,
+      "ret5": 0.0475,
+      "vol_surge": 0.16,
       "rsi14": 50.0,
-      "score": 0.1689
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 3810.0,
-      "ret5": 0.025,
-      "vol_surge": 2.16,
-      "rsi14": 50.0,
-      "score": 0.1638
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5303.5,
-      "ret5": -0.0546,
-      "vol_surge": 3.56,
-      "rsi14": 50.0,
-      "score": 0.1564
+      "score": 0.0485
     }
   ]
 }
