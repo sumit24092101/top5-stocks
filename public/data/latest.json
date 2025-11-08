@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-07T03:54:22.647167Z",
+  "as_of_ist": "2025-11-08T03:49:10.173793Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 2023.0,
-      "ret5": -0.0153,
-      "vol_surge": 7.4,
+      "ticker": "BRITANNIA.NS",
+      "close": 6157.5,
+      "ret5": 0.055,
+      "vol_surge": 2.38,
       "rsi14": 50.0,
-      "score": 0.1877
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2600.1,
-      "ret5": 0.0356,
-      "vol_surge": 0.07,
-      "rsi14": 50.0,
-      "score": 0.033
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 361.0,
-      "ret5": 0.0328,
-      "vol_surge": 0.08,
-      "rsi14": 50.0,
-      "score": 0.0318
-    },
-    {
-      "ticker": "M&M.NS",
-      "close": 3590.7,
-      "ret5": 0.0297,
-      "vol_surge": 0.09,
-      "rsi14": 50.0,
-      "score": 0.0298
+      "score": 0.2027
     },
     {
       "ticker": "UPL.NS",
-      "close": 730.2,
-      "ret5": 0.014,
-      "vol_surge": 0.19,
+      "close": 747.95,
+      "ret5": 0.0387,
+      "vol_surge": 2.37,
       "rsi14": 50.0,
-      "score": 0.0239
+      "score": 0.1889
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 2001.2,
+      "ret5": -0.0259,
+      "vol_surge": 8.45,
+      "rsi14": 50.0,
+      "score": 0.1792
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": 2369.4,
+      "ret5": -0.045,
+      "vol_surge": 2.49,
+      "rsi14": 50.0,
+      "score": 0.1301
+    },
+    {
+      "ticker": "BPCL.NS",
+      "close": 367.15,
+      "ret5": 0.0504,
+      "vol_surge": 1.32,
+      "rsi14": 50.0,
+      "score": 0.1287
     }
   ]
 }
