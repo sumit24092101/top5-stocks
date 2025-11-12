@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-11T03:57:03.057121Z",
+  "as_of_ist": "2025-11-12T03:55:11.735109Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 5772.5,
-      "ret5": -0.0204,
-      "vol_surge": 1.45,
-      "rsi14": 50.0,
-      "score": 0.0801
-    },
-    {
       "ticker": "ASIANPAINT.NS",
-      "close": 2637.2,
-      "ret5": 0.0605,
-      "vol_surge": 0.06,
+      "close": 2651.0,
+      "ret5": 0.0661,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0522
+      "score": 0.056
     },
     {
       "ticker": "INFY.NS",
-      "close": 1517.4,
-      "ret5": 0.0337,
-      "vol_surge": 0.17,
+      "close": 1547.9,
+      "ret5": 0.0545,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.0385
+      "score": 0.0508
     },
     {
       "ticker": "M&M.NS",
-      "close": 3706.8,
-      "ret5": 0.0351,
-      "vol_surge": 0.12,
+      "close": 3770.2,
+      "ret5": 0.0528,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0359
+      "score": 0.0481
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 410.45,
-      "ret5": -0.0157,
-      "vol_surge": 0.58,
+      "close": 407.6,
+      "ret5": 0.0027,
+      "vol_surge": 0.66,
       "rsi14": 50.0,
-      "score": 0.0263
+      "score": 0.0462
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 761.8,
+      "ret5": 0.0416,
+      "vol_surge": 0.13,
+      "rsi14": 50.0,
+      "score": 0.0418
     }
   ]
 }
