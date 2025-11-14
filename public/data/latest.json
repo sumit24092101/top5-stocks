@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-13T03:58:40.327481Z",
+  "as_of_ist": "2025-11-14T03:56:31.778769Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ASIANPAINT.NS",
-      "close": 2865.0,
-      "ret5": 0.1007,
-      "vol_surge": 1.4,
+      "close": 2885.1,
+      "ret5": 0.1038,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.1742
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2508.7,
-      "ret5": 0.084,
-      "vol_surge": 0.39,
-      "rsi14": 50.0,
-      "score": 0.0931
+      "score": 0.0941
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 402.15,
-      "ret5": -0.0107,
-      "vol_surge": 1.25,
+      "close": 397.95,
+      "ret5": -0.0243,
+      "vol_surge": 1.36,
       "rsi14": 50.0,
-      "score": 0.0749
+      "score": 0.0715
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 182.33,
-      "ret5": 0.0285,
-      "vol_surge": 0.73,
+      "ticker": "ADANIENT.NS",
+      "close": 2492.0,
+      "ret5": 0.0517,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.0718
+      "score": 0.0567
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 781.4,
-      "ret5": 0.0616,
-      "vol_surge": 0.08,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5563.5,
+      "ret5": 0.0505,
+      "vol_surge": 0.2,
       "rsi14": 50.0,
-      "score": 0.0546
+      "score": 0.0534
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1588.3,
+      "ret5": 0.0502,
+      "vol_surge": 0.03,
+      "rsi14": 50.0,
+      "score": 0.0421
     }
   ]
 }
