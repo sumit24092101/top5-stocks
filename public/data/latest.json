@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-18T03:55:29.470040Z",
+  "as_of_ist": "2025-11-19T03:55:08.477171Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATAMOTORS.NS",
-      "close": 372.7,
-      "ret5": -0.092,
-      "vol_surge": 3.1,
-      "rsi14": 50.0,
-      "score": 0.1264
-    },
-    {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5835.0,
-      "ret5": 0.0771,
-      "vol_surge": 0.2,
+      "close": 5881.5,
+      "ret5": 0.0628,
+      "vol_surge": 0.22,
       "rsi14": 50.0,
-      "score": 0.0748
+      "score": 0.0648
     },
     {
       "ticker": "ASIANPAINT.NS",
-      "close": 2877.4,
-      "ret5": 0.0846,
-      "vol_surge": 0.06,
+      "close": 2910.7,
+      "ret5": 0.0525,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0714
+      "score": 0.0483
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2464.5,
-      "ret5": 0.0741,
-      "vol_surge": 0.05,
+      "ticker": "TATAMOTORS.NS",
+      "close": 371.3,
+      "ret5": -0.0891,
+      "vol_surge": 1.62,
       "rsi14": 50.0,
-      "score": 0.0626
+      "score": 0.0368
     },
     {
       "ticker": "BHARTIARTL.NS",
-      "close": 2127.5,
-      "ret5": 0.0417,
+      "close": 2149.7,
+      "ret5": 0.0366,
+      "vol_surge": 0.11,
+      "rsi14": 50.0,
+      "score": 0.0363
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1263.0,
+      "ret5": 0.0339,
       "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.0371
+      "score": 0.0308
     }
   ]
 }
