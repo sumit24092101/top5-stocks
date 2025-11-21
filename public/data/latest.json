@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-20T03:53:55.690696Z",
+  "as_of_ist": "2025-11-21T03:53:49.315353Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5993.5,
-      "ret5": 0.088,
-      "vol_surge": 0.22,
+      "close": 6020.0,
+      "ret5": 0.0869,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
-      "score": 0.0854
+      "score": 0.0761
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1281.6,
-      "ret5": 0.046,
-      "vol_surge": 0.11,
+      "ticker": "EICHERMOT.NS",
+      "close": 7156.5,
+      "ret5": 0.0689,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.0441
+      "score": 0.064
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 3167.1,
+      "ret5": 0.0197,
+      "vol_surge": 0.2,
+      "rsi14": 50.0,
+      "score": 0.029
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "close": 2096.4,
+      "ret5": 0.008,
+      "vol_surge": 0.32,
+      "rsi14": 50.0,
+      "score": 0.028
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1652.2,
-      "ret5": 0.0336,
-      "vol_surge": 0.17,
+      "close": 1637.5,
+      "ret5": 0.0269,
+      "vol_surge": 0.08,
       "rsi14": 50.0,
-      "score": 0.0383
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 983.9,
-      "ret5": 0.0313,
-      "vol_surge": 0.06,
-      "rsi14": 50.0,
-      "score": 0.0293
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 2156.6,
-      "ret5": 0.031,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0273
+      "score": 0.0271
     }
   ]
 }
