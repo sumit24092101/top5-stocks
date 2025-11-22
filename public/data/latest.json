@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-21T03:53:49.315353Z",
+  "as_of_ist": "2025-11-22T03:50:15.376574Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 6020.0,
-      "ret5": 0.0869,
-      "vol_surge": 0.1,
+      "ticker": "KOTAKBANK.NS",
+      "close": 2087.8,
+      "ret5": 0.0039,
+      "vol_surge": 2.67,
       "rsi14": 50.0,
-      "score": 0.0761
+      "score": 0.1809
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1183.1,
+      "ret5": 0.0219,
+      "vol_surge": 1.99,
+      "rsi14": 50.0,
+      "score": 0.1501
     },
     {
       "ticker": "EICHERMOT.NS",
-      "close": 7156.5,
-      "ret5": 0.0689,
-      "vol_surge": 0.13,
+      "close": 7134.5,
+      "ret5": 0.0656,
+      "vol_surge": 1.32,
       "rsi14": 50.0,
-      "score": 0.064
+      "score": 0.1405
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "close": 6002.5,
+      "ret5": 0.0838,
+      "vol_surge": 0.98,
+      "rsi14": 50.0,
+      "score": 0.1325
     },
     {
       "ticker": "TCS.NS",
-      "close": 3167.1,
-      "ret5": 0.0197,
-      "vol_surge": 0.2,
+      "close": 3150.6,
+      "ret5": 0.0144,
+      "vol_surge": 1.7,
       "rsi14": 50.0,
-      "score": 0.029
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "close": 2096.4,
-      "ret5": 0.008,
-      "vol_surge": 0.32,
-      "rsi14": 50.0,
-      "score": 0.028
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1637.5,
-      "ret5": 0.0269,
-      "vol_surge": 0.08,
-      "rsi14": 50.0,
-      "score": 0.0271
+      "score": 0.1246
     }
   ]
 }
