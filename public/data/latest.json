@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-25T03:58:55.206397Z",
+  "as_of_ist": "2025-11-26T03:58:42.641936Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7213.0,
-      "ret5": 0.0585,
-      "vol_surge": 0.09,
+      "ticker": "BHARTIARTL.NS",
+      "close": 2115.9,
+      "ret5": -0.0203,
+      "vol_surge": 3.1,
       "rsi14": 50.0,
-      "score": 0.0527
+      "score": 0.1837
     },
     {
       "ticker": "TECHM.NS",
-      "close": 1487.3,
-      "ret5": 0.0459,
-      "vol_surge": 0.05,
+      "close": 1502.4,
+      "ret5": 0.0478,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0401
+      "score": 0.0441
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7208.5,
+      "ret5": 0.0452,
+      "vol_surge": 0.08,
+      "rsi14": 50.0,
+      "score": 0.0413
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1516.0,
+      "ret5": 0.0214,
+      "vol_surge": 0.21,
+      "rsi14": 50.0,
+      "score": 0.0312
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 358.3,
-      "ret5": -0.0386,
-      "vol_surge": 1.06,
+      "close": 352.45,
+      "ret5": -0.0508,
+      "vol_surge": 1.05,
       "rsi14": 50.0,
-      "score": 0.0399
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 6019.0,
-      "ret5": 0.0378,
-      "vol_surge": 0.07,
-      "rsi14": 50.0,
-      "score": 0.035
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1539.1,
-      "ret5": 0.0355,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.031
+      "score": 0.0291
     }
   ]
 }
