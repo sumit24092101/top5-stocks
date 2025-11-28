@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-27T03:55:09.677853Z",
+  "as_of_ist": "2025-11-28T03:55:09.819977Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 359.25,
-      "ret5": -0.0044,
-      "vol_surge": 1.07,
+      "close": 357.8,
+      "ret5": -0.0056,
+      "vol_surge": 0.72,
       "rsi14": 50.0,
-      "score": 0.0678
+      "score": 0.0437
     },
     {
       "ticker": "TECHM.NS",
-      "close": 1524.5,
-      "ret5": 0.047,
+      "close": 1515.4,
+      "ret5": 0.0369,
       "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0405
+      "score": 0.032
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 9235.5,
-      "ret5": 0.0285,
+      "ticker": "BAJFINANCE.NS",
+      "close": 1034.0,
+      "ret5": 0.0298,
+      "vol_surge": 0.07,
+      "rsi14": 50.0,
+      "score": 0.0286
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "close": 250.02,
+      "ret5": 0.0226,
       "vol_surge": 0.12,
       "rsi14": 50.0,
-      "score": 0.0308
+      "score": 0.0263
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 6173.5,
-      "ret5": 0.029,
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2106.3,
+      "ret5": 0.0263,
       "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0259
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 780.7,
-      "ret5": 0.0243,
-      "vol_surge": 0.06,
-      "rsi14": 50.0,
-      "score": 0.0233
+      "score": 0.0235
     }
   ]
 }
