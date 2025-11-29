@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-11-28T03:55:09.819977Z",
+  "as_of_ist": "2025-11-29T03:54:44.535204Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATAMOTORS.NS",
-      "close": 357.8,
-      "ret5": -0.0056,
-      "vol_surge": 0.72,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1516.9,
+      "ret5": 0.0251,
+      "vol_surge": 1.26,
       "rsi14": 50.0,
-      "score": 0.0437
+      "score": 0.104
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1515.4,
-      "ret5": 0.0369,
-      "vol_surge": 0.04,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9073.5,
+      "ret5": 0.0204,
+      "vol_surge": 1.1,
       "rsi14": 50.0,
-      "score": 0.032
+      "score": 0.0894
     },
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1034.0,
-      "ret5": 0.0298,
-      "vol_surge": 0.07,
+      "ticker": "M&M.NS",
+      "close": 3757.3,
+      "ret5": 0.0021,
+      "vol_surge": 1.26,
       "rsi14": 50.0,
-      "score": 0.0286
+      "score": 0.0858
     },
     {
-      "ticker": "WIPRO.NS",
-      "close": 250.02,
-      "ret5": 0.0226,
-      "vol_surge": 0.12,
+      "ticker": "SUNPHARMA.NS",
+      "close": 1831.6,
+      "ret5": 0.0292,
+      "vol_surge": 0.93,
       "rsi14": 50.0,
-      "score": 0.0263
+      "score": 0.0851
     },
     {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2106.3,
-      "ret5": 0.0263,
-      "vol_surge": 0.04,
+      "ticker": "KOTAKBANK.NS",
+      "close": 2124.4,
+      "ret5": 0.0175,
+      "vol_surge": 1.04,
       "rsi14": 50.0,
-      "score": 0.0235
+      "score": 0.0834
     }
   ]
 }
