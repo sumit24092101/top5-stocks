@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-01T04:34:22.825747Z",
+  "as_of_ist": "2025-12-02T04:03:10.066222Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1168.8,
-      "ret5": 0.0568,
-      "vol_surge": 0.48,
+      "ticker": "TATAMOTORS.NS",
+      "close": 363.8,
+      "ret5": 0.0154,
+      "vol_surge": 1.01,
       "rsi14": 50.0,
-      "score": 0.0776
+      "score": 0.0795
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1165.2,
+      "ret5": 0.0478,
+      "vol_surge": 0.22,
+      "rsi14": 50.0,
+      "score": 0.0529
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1027.9,
+      "ret5": 0.0423,
+      "vol_surge": 0.13,
+      "rsi14": 50.0,
+      "score": 0.0427
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 6314.0,
-      "ret5": 0.0555,
-      "vol_surge": 0.39,
+      "close": 6287.0,
+      "ret5": 0.0338,
+      "vol_surge": 0.18,
       "rsi14": 50.0,
-      "score": 0.0704
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1540.3,
-      "ret5": 0.0366,
-      "vol_surge": 0.59,
-      "rsi14": 50.0,
-      "score": 0.0684
-    },
-    {
-      "ticker": "TATAMOTORS.NS",
-      "close": 356.8,
-      "ret5": -0.015,
-      "vol_surge": 0.88,
-      "rsi14": 50.0,
-      "score": 0.0465
+      "score": 0.0393
     },
     {
       "ticker": "KOTAKBANK.NS",
-      "close": 2155.4,
-      "ret5": 0.0326,
-      "vol_surge": 0.26,
+      "close": 2151.5,
+      "ret5": 0.0394,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.0436
+      "score": 0.0391
     }
   ]
 }
