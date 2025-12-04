@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-03T04:01:32.119012Z",
+  "as_of_ist": "2025-12-04T04:03:43.589420Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 361.75,
-      "ret5": 0.0264,
-      "vol_surge": 0.68,
+      "close": 356.85,
+      "ret5": -0.0067,
+      "vol_surge": 0.73,
       "rsi14": 50.0,
-      "score": 0.0665
+      "score": 0.0432
     },
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1290.2,
-      "ret5": 0.0338,
-      "vol_surge": 0.41,
+      "ticker": "TCS.NS",
+      "close": 3221.5,
+      "ret5": 0.0271,
+      "vol_surge": 0.24,
       "rsi14": 50.0,
-      "score": 0.0544
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2949.2,
-      "ret5": 0.0262,
-      "vol_surge": 0.08,
-      "rsi14": 50.0,
-      "score": 0.0265
-    },
-    {
-      "ticker": "WIPRO.NS",
-      "close": 253.37,
-      "ret5": 0.0127,
-      "vol_surge": 0.19,
-      "rsi14": 50.0,
-      "score": 0.0228
+      "score": 0.0377
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 6278.5,
-      "ret5": 0.0231,
-      "vol_surge": 0.05,
+      "close": 6317.5,
+      "ret5": 0.0271,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.0218
+      "score": 0.0332
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "close": 256.35,
+      "ret5": 0.0272,
+      "vol_surge": 0.17,
+      "rsi14": 50.0,
+      "score": 0.0331
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2965.5,
+      "ret5": 0.03,
+      "vol_surge": 0.11,
+      "rsi14": 50.0,
+      "score": 0.0311
     }
   ]
 }
