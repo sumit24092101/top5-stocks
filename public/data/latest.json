@@ -1,45 +1,45 @@
 {
-  "as_of_ist": "2025-12-04T04:03:43.589420Z",
+  "as_of_ist": "2025-12-05T04:02:11.304910Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "HINDUNILVR.NS",
+      "close": 2464.1,
+      "ret5": 0.0051,
+      "vol_surge": 1.54,
+      "rsi14": 50.0,
+      "score": 0.1066
+    },
+    {
       "ticker": "TATAMOTORS.NS",
-      "close": 356.85,
-      "ret5": -0.0067,
-      "vol_surge": 0.73,
+      "close": 356.45,
+      "ret5": -0.0038,
+      "vol_surge": 0.7,
       "rsi14": 50.0,
-      "score": 0.0432
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 3221.5,
-      "ret5": 0.0271,
-      "vol_surge": 0.24,
-      "rsi14": 50.0,
-      "score": 0.0377
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 6317.5,
-      "ret5": 0.0271,
-      "vol_surge": 0.17,
-      "rsi14": 50.0,
-      "score": 0.0332
+      "score": 0.0434
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 256.35,
-      "ret5": 0.0272,
-      "vol_surge": 0.17,
+      "close": 258.79,
+      "ret5": 0.0371,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
-      "score": 0.0331
+      "score": 0.0364
     },
     {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2965.5,
-      "ret5": 0.03,
-      "vol_surge": 0.11,
+      "ticker": "SHREECEM.NS",
+      "close": 26350.0,
+      "ret5": -0.0151,
+      "vol_surge": 0.72,
+      "rsi14": 50.0,
+      "score": 0.0361
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 3241.7,
+      "ret5": 0.0335,
+      "vol_surge": 0.06,
       "rsi14": 50.0,
       "score": 0.0311
     }
