@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-05T04:02:11.304910Z",
+  "as_of_ist": "2025-12-06T03:52:28.604922Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": 2464.1,
-      "ret5": 0.0051,
-      "vol_surge": 1.54,
-      "rsi14": 50.0,
-      "score": 0.1066
-    },
-    {
-      "ticker": "TATAMOTORS.NS",
-      "close": 356.45,
-      "ret5": -0.0038,
-      "vol_surge": 0.7,
-      "rsi14": 50.0,
-      "score": 0.0434
-    },
-    {
-      "ticker": "WIPRO.NS",
-      "close": 258.79,
-      "ret5": 0.0371,
-      "vol_surge": 0.1,
-      "rsi14": 50.0,
-      "score": 0.0364
-    },
-    {
-      "ticker": "SHREECEM.NS",
-      "close": 26350.0,
-      "ret5": -0.0151,
-      "vol_surge": 0.72,
-      "rsi14": 50.0,
-      "score": 0.0361
-    },
-    {
       "ticker": "TCS.NS",
-      "close": 3241.7,
-      "ret5": 0.0335,
-      "vol_surge": 0.06,
+      "close": 3238.2,
+      "ret5": 0.0321,
+      "vol_surge": 1.68,
       "rsi14": 50.0,
-      "score": 0.0311
+      "score": 0.1376
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1048.0,
+      "ret5": 0.0101,
+      "vol_surge": 1.63,
+      "rsi14": 50.0,
+      "score": 0.1166
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1683.0,
+      "ret5": 0.0362,
+      "vol_surge": 1.25,
+      "rsi14": 50.0,
+      "score": 0.1123
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 971.5,
+      "ret5": -0.0077,
+      "vol_surge": 1.76,
+      "rsi14": 50.0,
+      "score": 0.1111
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "close": 2338.6,
+      "ret5": -0.0519,
+      "vol_surge": 2.19,
+      "rsi14": 50.0,
+      "score": 0.1044
     }
   ]
 }
