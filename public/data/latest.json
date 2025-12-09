@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-08T04:07:11.289684Z",
+  "as_of_ist": "2025-12-09T04:01:22.820941Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SHREECEM.NS",
-      "close": 26230.0,
-      "ret5": -0.007,
-      "vol_surge": 0.98,
-      "rsi14": 50.0,
-      "score": 0.0595
-    },
-    {
       "ticker": "WIPRO.NS",
-      "close": 261.66,
-      "ret5": 0.0455,
-      "vol_surge": 0.21,
-      "rsi14": 50.0,
-      "score": 0.0503
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1624.0,
-      "ret5": 0.0384,
+      "close": 258.81,
+      "ret5": 0.0345,
       "vol_surge": 0.12,
       "rsi14": 50.0,
-      "score": 0.0384
+      "score": 0.0355
     },
     {
       "ticker": "TECHM.NS",
-      "close": 1583.7,
-      "ret5": 0.0354,
-      "vol_surge": 0.14,
+      "close": 1575.3,
+      "ret5": 0.0251,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0374
+      "score": 0.0261
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1673.3,
+      "ret5": 0.0231,
+      "vol_surge": 0.08,
+      "rsi14": 50.0,
+      "score": 0.0236
     },
     {
       "ticker": "TCS.NS",
-      "close": 3248.3,
-      "ret5": 0.0367,
-      "vol_surge": 0.08,
+      "close": 3205.2,
+      "ret5": 0.0222,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0349
+      "score": 0.0221
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1597.1,
+      "ret5": 0.0231,
+      "vol_surge": 0.05,
+      "rsi14": 50.0,
+      "score": 0.0217
     }
   ]
 }
