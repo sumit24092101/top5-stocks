@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-10T04:06:51.893572Z",
+  "as_of_ist": "2025-12-11T04:09:02.051040Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2263.5,
-      "ret5": 0.0337,
-      "vol_surge": 0.11,
+      "ticker": "EICHERMOT.NS",
+      "close": 7263.5,
+      "ret5": 0.023,
+      "vol_surge": 0.25,
       "rsi14": 50.0,
-      "score": 0.034
+      "score": 0.0348
     },
     {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2093.3,
-      "ret5": 0.0231,
-      "vol_surge": 0.12,
+      "ticker": "SBIN.NS",
+      "close": 959.95,
+      "ret5": 0.0125,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0263
+      "score": 0.0162
     },
     {
-      "ticker": "GRASIM.NS",
-      "close": 2764.2,
-      "ret5": 0.0161,
-      "vol_surge": 0.13,
+      "ticker": "TATAMOTORS.NS",
+      "close": 343.4,
+      "ret5": -0.0377,
+      "vol_surge": 0.67,
       "rsi14": 50.0,
-      "score": 0.0219
+      "score": 0.0148
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 259.31,
-      "ret5": 0.0181,
-      "vol_surge": 0.09,
+      "close": 258.44,
+      "ret5": 0.0059,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
-      "score": 0.0204
+      "score": 0.0112
     },
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 5912.5,
-      "ret5": 0.0151,
-      "vol_surge": 0.09,
+      "ticker": "MARUTI.NS",
+      "close": 16107.0,
+      "ret5": 0.0071,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.018
+      "score": 0.0102
     }
   ]
 }
