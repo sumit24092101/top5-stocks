@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-12T04:08:31.999997Z",
+  "as_of_ist": "2025-12-13T03:59:16.508539Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 169.93,
-      "ret5": 0.0169,
-      "vol_surge": 0.34,
+      "ticker": "GRASIM.NS",
+      "close": 2836.7,
+      "ret5": 0.0327,
+      "vol_surge": 1.97,
       "rsi14": 50.0,
-      "score": 0.0362
+      "score": 0.1577
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 171.89,
+      "ret5": 0.0286,
+      "vol_surge": 1.82,
+      "rsi14": 50.0,
+      "score": 0.1445
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "close": 11723.0,
+      "ret5": 0.0109,
+      "vol_surge": 1.66,
+      "rsi14": 50.0,
+      "score": 0.1195
     },
     {
       "ticker": "LT.NS",
-      "close": 4097.6,
-      "ret5": 0.0147,
-      "vol_surge": 0.35,
+      "close": 4074.1,
+      "ret5": 0.0089,
+      "vol_surge": 1.55,
       "rsi14": 50.0,
-      "score": 0.0349
+      "score": 0.1107
     },
     {
-      "ticker": "GRASIM.NS",
-      "close": 2811.1,
-      "ret5": 0.0233,
-      "vol_surge": 0.15,
+      "ticker": "UPL.NS",
+      "close": 748.35,
+      "ret5": -0.0142,
+      "vol_surge": 1.65,
       "rsi14": 50.0,
-      "score": 0.0285
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "close": 2199.0,
-      "ret5": 0.0205,
-      "vol_surge": 0.11,
-      "rsi14": 50.0,
-      "score": 0.0238
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2292.8,
-      "ret5": 0.0121,
-      "vol_surge": 0.15,
-      "rsi14": 50.0,
-      "score": 0.0198
+      "score": 0.099
     }
   ]
 }
