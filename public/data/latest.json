@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-14T04:11:28.226984Z",
+  "as_of_ist": "2025-12-15T04:26:18.590867Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "GRASIM.NS",
-      "close": 2836.7,
-      "ret5": 0.0327,
-      "vol_surge": 1.97,
+      "ticker": "IOC.NS",
+      "close": 166.48,
+      "ret5": 0.027,
+      "vol_surge": 1.22,
       "rsi14": 50.0,
-      "score": 0.1577
+      "score": 0.103
     },
     {
       "ticker": "TATASTEEL.NS",
-      "close": 171.89,
-      "ret5": 0.0286,
-      "vol_surge": 1.82,
+      "close": 171.85,
+      "ret5": 0.0513,
+      "vol_surge": 0.2,
       "rsi14": 50.0,
-      "score": 0.1445
+      "score": 0.0543
     },
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 11723.0,
-      "ret5": 0.0109,
-      "vol_surge": 1.66,
+      "ticker": "BPCL.NS",
+      "close": 368.3,
+      "ret5": 0.0301,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.1195
+      "score": 0.0356
     },
     {
-      "ticker": "LT.NS",
-      "close": 4074.1,
-      "ret5": 0.0089,
-      "vol_surge": 1.55,
+      "ticker": "GRASIM.NS",
+      "close": 2835.0,
+      "ret5": 0.0331,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.1107
+      "score": 0.0337
     },
     {
-      "ticker": "UPL.NS",
-      "close": 748.35,
-      "ret5": -0.0142,
-      "vol_surge": 1.65,
+      "ticker": "ADANIENT.NS",
+      "close": 2280.4,
+      "ret5": 0.029,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.099
+      "score": 0.0293
     }
   ]
 }
