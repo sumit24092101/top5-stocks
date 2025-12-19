@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-18T04:06:59.932596Z",
+  "as_of_ist": "2025-12-19T04:08:21.931169Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 346.35,
-      "ret5": 0.0086,
-      "vol_surge": 0.73,
+      "close": 345.8,
+      "ret5": -0.0025,
+      "vol_surge": 1.6,
       "rsi14": 50.0,
-      "score": 0.0555
+      "score": 0.1047
     },
     {
-      "ticker": "IOC.NS",
-      "close": 162.41,
-      "ret5": 0.0349,
-      "vol_surge": 0.22,
+      "ticker": "DIVISLAB.NS",
+      "close": 6568.0,
+      "ret5": 0.022,
+      "vol_surge": 1.1,
       "rsi14": 50.0,
-      "score": 0.0425
+      "score": 0.0908
     },
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 6094.5,
-      "ret5": 0.0423,
-      "vol_surge": 0.11,
+      "ticker": "INFY.NS",
+      "close": 1645.1,
+      "ret5": 0.0293,
+      "vol_surge": 0.3,
       "rsi14": 50.0,
-      "score": 0.0413
+      "score": 0.0435
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 364.85,
-      "ret5": 0.0386,
-      "vol_surge": 0.06,
+      "ticker": "TCS.NS",
+      "close": 3312.1,
+      "ret5": 0.0284,
+      "vol_surge": 0.19,
       "rsi14": 50.0,
-      "score": 0.0346
+      "score": 0.0353
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 264.6,
-      "ret5": 0.0206,
-      "vol_surge": 0.24,
+      "close": 265.5,
+      "ret5": 0.0188,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.0326
+      "score": 0.0303
     }
   ]
 }
