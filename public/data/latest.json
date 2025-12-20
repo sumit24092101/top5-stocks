@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-19T04:08:21.931169Z",
+  "as_of_ist": "2025-12-20T03:59:16.261496Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 345.8,
-      "ret5": -0.0025,
-      "vol_surge": 1.6,
+      "close": 352.65,
+      "ret5": 0.015,
+      "vol_surge": 5.79,
       "rsi14": 50.0,
-      "score": 0.1047
+      "score": 0.212
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 6568.0,
-      "ret5": 0.022,
-      "vol_surge": 1.1,
+      "close": 6478.5,
+      "ret5": 0.0081,
+      "vol_surge": 3.35,
       "rsi14": 50.0,
-      "score": 0.0908
+      "score": 0.2065
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2799.9,
+      "ret5": 0.0127,
+      "vol_surge": 2.84,
+      "rsi14": 50.0,
+      "score": 0.1995
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 751.55,
+      "ret5": 0.0043,
+      "vol_surge": 2.52,
+      "rsi14": 50.0,
+      "score": 0.1713
     },
     {
       "ticker": "INFY.NS",
-      "close": 1645.1,
-      "ret5": 0.0293,
-      "vol_surge": 0.3,
+      "close": 1638.7,
+      "ret5": 0.0253,
+      "vol_surge": 1.66,
       "rsi14": 50.0,
-      "score": 0.0435
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 3312.1,
-      "ret5": 0.0284,
-      "vol_surge": 0.19,
-      "rsi14": 50.0,
-      "score": 0.0353
-    },
-    {
-      "ticker": "WIPRO.NS",
-      "close": 265.5,
-      "ret5": 0.0188,
-      "vol_surge": 0.23,
-      "rsi14": 50.0,
-      "score": 0.0303
+      "score": 0.1311
     }
   ]
 }
