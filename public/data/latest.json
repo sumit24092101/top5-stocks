@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2025-12-21T04:12:36.709471Z",
+  "as_of_ist": "2025-12-22T04:26:32.464168Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -12,36 +12,36 @@
       "score": 0.212
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6478.5,
-      "ret5": 0.0081,
-      "vol_surge": 3.35,
-      "rsi14": 50.0,
-      "score": 0.2065
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2799.9,
-      "ret5": 0.0127,
-      "vol_surge": 2.84,
-      "rsi14": 50.0,
-      "score": 0.1995
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 751.55,
-      "ret5": 0.0043,
-      "vol_surge": 2.52,
-      "rsi14": 50.0,
-      "score": 0.1713
-    },
-    {
       "ticker": "INFY.NS",
-      "close": 1638.7,
-      "ret5": 0.0253,
-      "vol_surge": 1.66,
+      "close": 1677.0,
+      "ret5": 0.0437,
+      "vol_surge": 0.73,
       "rsi14": 50.0,
-      "score": 0.1311
+      "score": 0.0836
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "close": 269.36,
+      "ret5": 0.0291,
+      "vol_surge": 0.4,
+      "rsi14": 50.0,
+      "score": 0.0503
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 6520.0,
+      "ret5": 0.0272,
+      "vol_surge": 0.3,
+      "rsi14": 50.0,
+      "score": 0.0417
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 2128.4,
+      "ret5": 0.0284,
+      "vol_surge": 0.23,
+      "rsi14": 50.0,
+      "score": 0.0382
     }
   ]
 }
