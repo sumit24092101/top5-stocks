@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-23T04:11:51.657888Z",
+  "as_of_ist": "2025-12-24T04:09:47.154485Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "COALINDIA.NS",
-      "close": 394.7,
-      "ret5": 0.0343,
-      "vol_surge": 0.94,
+      "close": 409.15,
+      "ret5": 0.0634,
+      "vol_surge": 1.58,
       "rsi14": 50.0,
-      "score": 0.0903
+      "score": 0.1564
     },
     {
       "ticker": "TATAMOTORS.NS",
-      "close": 359.15,
-      "ret5": 0.0346,
-      "vol_surge": 0.85,
+      "close": 363.25,
+      "ret5": 0.0515,
+      "vol_surge": 0.94,
       "rsi14": 50.0,
-      "score": 0.0843
+      "score": 0.1038
     },
     {
-      "ticker": "WIPRO.NS",
-      "close": 271.19,
-      "ret5": 0.0462,
-      "vol_surge": 0.23,
+      "ticker": "UPL.NS",
+      "close": 781.7,
+      "ret5": 0.0474,
+      "vol_surge": 0.05,
       "rsi14": 50.0,
-      "score": 0.0525
+      "score": 0.0412
     },
     {
-      "ticker": "ONGC.NS",
-      "close": 236.9,
-      "ret5": 0.0202,
-      "vol_surge": 0.38,
+      "ticker": "DIVISLAB.NS",
+      "close": 6528.5,
+      "ret5": 0.0374,
+      "vol_surge": 0.08,
       "rsi14": 50.0,
-      "score": 0.0417
+      "score": 0.0355
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1658.5,
-      "ret5": 0.0412,
-      "vol_surge": 0.13,
+      "ticker": "BAJFINANCE.NS",
+      "close": 1026.3,
+      "ret5": 0.0267,
+      "vol_surge": 0.18,
       "rsi14": 50.0,
-      "score": 0.0414
+      "score": 0.0331
     }
   ]
 }
