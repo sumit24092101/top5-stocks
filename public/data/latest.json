@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-24T04:09:47.154485Z",
+  "as_of_ist": "2025-12-25T04:11:38.590863Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "COALINDIA.NS",
-      "close": 409.15,
-      "ret5": 0.0634,
-      "vol_surge": 1.58,
+      "close": 402.4,
+      "ret5": 0.0459,
+      "vol_surge": 3.53,
       "rsi14": 50.0,
-      "score": 0.1564
-    },
-    {
-      "ticker": "TATAMOTORS.NS",
-      "close": 363.25,
-      "ret5": 0.0515,
-      "vol_surge": 0.94,
-      "rsi14": 50.0,
-      "score": 0.1038
+      "score": 0.2367
     },
     {
       "ticker": "UPL.NS",
-      "close": 781.7,
-      "ret5": 0.0474,
-      "vol_surge": 0.05,
+      "close": 773.05,
+      "ret5": 0.0358,
+      "vol_surge": 1.44,
       "rsi14": 50.0,
-      "score": 0.0412
+      "score": 0.1243
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2036.6,
+      "ret5": 0.0076,
+      "vol_surge": 1.64,
+      "rsi14": 50.0,
+      "score": 0.1153
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 6528.5,
-      "ret5": 0.0374,
-      "vol_surge": 0.08,
+      "close": 6494.0,
+      "ret5": 0.0319,
+      "vol_surge": 1.08,
       "rsi14": 50.0,
-      "score": 0.0355
+      "score": 0.0975
     },
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1026.3,
-      "ret5": 0.0267,
-      "vol_surge": 0.18,
+      "ticker": "TATAMOTORS.NS",
+      "close": 359.2,
+      "ret5": 0.0371,
+      "vol_surge": 0.74,
       "rsi14": 50.0,
-      "score": 0.0331
+      "score": 0.0789
     }
   ]
 }
