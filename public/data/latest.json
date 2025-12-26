@@ -1,40 +1,8 @@
 {
-  "as_of_ist": "2025-12-25T04:11:38.590863Z",
+  "as_of_ist": "2025-12-26T04:11:54.732559Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 402.4,
-      "ret5": 0.0459,
-      "vol_surge": 3.53,
-      "rsi14": 50.0,
-      "score": 0.2367
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 773.05,
-      "ret5": 0.0358,
-      "vol_surge": 1.44,
-      "rsi14": 50.0,
-      "score": 0.1243
-    },
-    {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2036.6,
-      "ret5": 0.0076,
-      "vol_surge": 1.64,
-      "rsi14": 50.0,
-      "score": 0.1153
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 6494.0,
-      "ret5": 0.0319,
-      "vol_surge": 1.08,
-      "rsi14": 50.0,
-      "score": 0.0975
-    },
     {
       "ticker": "TATAMOTORS.NS",
       "close": 359.2,
@@ -42,6 +10,38 @@
       "vol_surge": 0.74,
       "rsi14": 50.0,
       "score": 0.0789
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 406.75,
+      "ret5": 0.0557,
+      "vol_surge": 0.31,
+      "rsi14": 50.0,
+      "score": 0.0651
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 779.05,
+      "ret5": 0.0465,
+      "vol_surge": 0.03,
+      "rsi14": 50.0,
+      "score": 0.0391
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "close": 268.25,
+      "ret5": 0.0399,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0343
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7354.0,
+      "ret5": 0.0348,
+      "vol_surge": 0.08,
+      "rsi14": 50.0,
+      "score": 0.0329
     }
   ]
 }
