@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-28T04:30:45.975933Z",
+  "as_of_ist": "2025-12-29T04:34:24.612708Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "NESTLEIND.NS",
-      "close": 1272.6,
-      "ret5": 0.0317,
-      "vol_surge": 1.8,
+      "ticker": "TATASTEEL.NS",
+      "close": 172.99,
+      "ret5": 0.0255,
+      "vol_surge": 0.68,
       "rsi14": 50.0,
-      "score": 0.1452
-    },
-    {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2017.6,
-      "ret5": -0.0043,
-      "vol_surge": 2.06,
-      "rsi14": 50.0,
-      "score": 0.1339
+      "score": 0.0657
     },
     {
       "ticker": "TITAN.NS",
-      "close": 3992.0,
-      "ret5": 0.0185,
-      "vol_surge": 1.63,
+      "close": 4015.7,
+      "ret5": 0.0218,
+      "vol_surge": 0.48,
       "rsi14": 50.0,
-      "score": 0.1235
+      "score": 0.0495
     },
     {
       "ticker": "COALINDIA.NS",
-      "close": 402.15,
-      "ret5": 0.0437,
-      "vol_surge": 1.07,
+      "close": 400.75,
+      "ret5": 0.0393,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.1062
+      "score": 0.0471
     },
     {
-      "ticker": "SHREECEM.NS",
-      "close": 26420.0,
-      "ret5": 0.0302,
-      "vol_surge": 1.2,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1104.9,
+      "ret5": 0.0234,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.1042
+      "score": 0.0444
+    },
+    {
+      "ticker": "NTPC.NS",
+      "close": 325.45,
+      "ret5": 0.0173,
+      "vol_surge": 0.38,
+      "rsi14": 50.0,
+      "score": 0.0393
     }
   ]
 }
