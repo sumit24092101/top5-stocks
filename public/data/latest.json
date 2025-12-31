@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2025-12-30T04:12:52.885395Z",
+  "as_of_ist": "2025-12-31T04:12:28.384424Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 1189.9,
-      "ret5": 0.0036,
-      "vol_surge": 0.3,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1162.7,
+      "ret5": 0.0654,
+      "vol_surge": 1.41,
       "rsi14": 50.0,
-      "score": 0.0228
+      "score": 0.1465
     },
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 11749.0,
-      "ret5": 0.0188,
+      "ticker": "TATASTEEL.NS",
+      "close": 179.34,
+      "ret5": 0.0545,
+      "vol_surge": 0.61,
+      "rsi14": 50.0,
+      "score": 0.0845
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 793.95,
+      "ret5": 0.0275,
+      "vol_surge": 0.24,
+      "rsi14": 50.0,
+      "score": 0.0378
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9323.0,
+      "ret5": 0.0167,
+      "vol_surge": 0.28,
+      "rsi14": 50.0,
+      "score": 0.0318
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 4014.3,
+      "ret5": 0.0269,
       "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0209
-    },
-    {
-      "ticker": "NESTLEIND.NS",
-      "close": 1278.2,
-      "ret5": 0.0173,
-      "vol_surge": 0.07,
-      "rsi14": 50.0,
-      "score": 0.0188
-    },
-    {
-      "ticker": "SHREECEM.NS",
-      "close": 26225.0,
-      "ret5": 0.02,
-      "vol_surge": 0.04,
-      "rsi14": 50.0,
-      "score": 0.0184
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1234.3,
-      "ret5": 0.0076,
-      "vol_surge": 0.16,
-      "rsi14": 50.0,
-      "score": 0.0165
+      "score": 0.0274
     }
   ]
 }
