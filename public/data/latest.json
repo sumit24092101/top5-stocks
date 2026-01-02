@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-01T04:33:14.516438Z",
+  "as_of_ist": "2026-01-02T04:25:51.805080Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ITC.NS",
-      "close": 380.6,
-      "ret5": -0.0639,
-      "vol_surge": 6.45,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9507.0,
+      "ret5": 0.0488,
+      "vol_surge": 0.8,
       "rsi14": 50.0,
-      "score": 0.1488
+      "score": 0.0926
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1168.5,
-      "ret5": 0.0707,
-      "vol_surge": 0.16,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 6012.0,
+      "ret5": 0.0665,
+      "vol_surge": 0.57,
       "rsi14": 50.0,
-      "score": 0.0671
+      "score": 0.0914
     },
     {
       "ticker": "TATASTEEL.NS",
-      "close": 181.33,
-      "ret5": 0.0662,
-      "vol_surge": 0.21,
+      "close": 183.03,
+      "ret5": 0.0822,
+      "vol_surge": 0.19,
       "rsi14": 50.0,
-      "score": 0.0669
+      "score": 0.0783
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 383.85,
-      "ret5": 0.0491,
-      "vol_surge": 0.4,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1178.2,
+      "ret5": 0.0766,
+      "vol_surge": 0.1,
       "rsi14": 50.0,
-      "score": 0.066
+      "score": 0.0682
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2278.9,
-      "ret5": 0.0253,
-      "vol_surge": 0.53,
+      "ticker": "M&M.NS",
+      "close": 3801.8,
+      "ret5": 0.0493,
+      "vol_surge": 0.29,
       "rsi14": 50.0,
-      "score": 0.0553
+      "score": 0.059
     }
   ]
 }
