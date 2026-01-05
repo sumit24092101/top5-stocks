@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-04T04:33:50.932976Z",
+  "as_of_ist": "2026-01-05T04:40:59.879819Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "NTPC.NS",
-      "close": 352.1,
-      "ret5": 0.0864,
-      "vol_surge": 2.95,
-      "rsi14": 50.0,
-      "score": 0.2657
-    },
-    {
       "ticker": "COALINDIA.NS",
-      "close": 427.9,
-      "ret5": 0.064,
-      "vol_surge": 5.33,
+      "close": 425.1,
+      "ret5": 0.061,
+      "vol_surge": 1.01,
       "rsi14": 50.0,
-      "score": 0.2512
+      "score": 0.1164
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 9502.5,
-      "ret5": 0.0483,
-      "vol_surge": 2.44,
+      "ticker": "NTPC.NS",
+      "close": 354.05,
+      "ret5": 0.0877,
+      "vol_surge": 0.59,
       "rsi14": 50.0,
-      "score": 0.201
+      "score": 0.1097
     },
     {
-      "ticker": "UPL.NS",
-      "close": 804.65,
-      "ret5": 0.0395,
-      "vol_surge": 1.68,
+      "ticker": "ONGC.NS",
+      "close": 237.57,
+      "ret5": 0.0117,
+      "vol_surge": 1.44,
       "rsi14": 50.0,
-      "score": 0.1433
+      "score": 0.1056
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5933.0,
-      "ret5": 0.0525,
-      "vol_surge": 1.42,
+      "ticker": "TATASTEEL.NS",
+      "close": 186.08,
+      "ret5": 0.08,
+      "vol_surge": 0.55,
       "rsi14": 50.0,
-      "score": 0.1367
+      "score": 0.1009
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1187.0,
+      "ret5": 0.0864,
+      "vol_surge": 0.27,
+      "rsi14": 50.0,
+      "score": 0.0873
     }
   ]
 }
