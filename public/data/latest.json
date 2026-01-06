@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-05T04:40:59.879819Z",
+  "as_of_ist": "2026-01-06T04:14:14.317066Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "COALINDIA.NS",
-      "close": 425.1,
-      "ret5": 0.061,
-      "vol_surge": 1.01,
+      "ticker": "ICICIBANK.NS",
+      "close": 1403.1,
+      "ret5": 0.0451,
+      "vol_surge": 0.72,
       "rsi14": 50.0,
-      "score": 0.1164
+      "score": 0.0843
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1299.0,
+      "ret5": 0.0425,
+      "vol_surge": 0.65,
+      "rsi14": 50.0,
+      "score": 0.0773
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 428.6,
+      "ret5": 0.0769,
+      "vol_surge": 0.2,
+      "rsi14": 50.0,
+      "score": 0.0752
     },
     {
       "ticker": "NTPC.NS",
-      "close": 354.05,
-      "ret5": 0.0877,
-      "vol_surge": 0.59,
+      "close": 350.7,
+      "ret5": 0.0794,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.1097
-    },
-    {
-      "ticker": "ONGC.NS",
-      "close": 237.57,
-      "ret5": 0.0117,
-      "vol_surge": 1.44,
-      "rsi14": 50.0,
-      "score": 0.1056
-    },
-    {
-      "ticker": "TATASTEEL.NS",
-      "close": 186.08,
-      "ret5": 0.08,
-      "vol_surge": 0.55,
-      "rsi14": 50.0,
-      "score": 0.1009
+      "score": 0.0696
     },
     {
       "ticker": "JSWSTEEL.NS",
-      "close": 1187.0,
-      "ret5": 0.0864,
-      "vol_surge": 0.27,
+      "close": 1189.3,
+      "ret5": 0.0699,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.0873
+      "score": 0.0671
     }
   ]
 }
