@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-07T04:25:05.471788Z",
+  "as_of_ist": "2026-01-08T04:14:00.675209Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TITAN.NS",
-      "close": 4271.7,
-      "ret5": 0.0544,
-      "vol_surge": 1.84,
+      "ticker": "ICICIBANK.NS",
+      "close": 1438.8,
+      "ret5": 0.0753,
+      "vol_surge": 0.35,
       "rsi14": 50.0,
-      "score": 0.1658
+      "score": 0.0837
     },
     {
       "ticker": "COALINDIA.NS",
-      "close": 426.4,
-      "ret5": 0.0687,
-      "vol_surge": 0.22,
+      "close": 431.5,
+      "ret5": 0.0775,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.0693
+      "score": 0.0709
     },
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 6257.5,
-      "ret5": 0.0376,
-      "vol_surge": 0.59,
+      "ticker": "TITAN.NS",
+      "close": 4289.7,
+      "ret5": 0.0594,
+      "vol_surge": 0.19,
       "rsi14": 50.0,
-      "score": 0.0691
+      "score": 0.0602
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 6687.0,
-      "ret5": 0.0461,
-      "vol_surge": 0.43,
+      "close": 6675.0,
+      "ret5": 0.0522,
+      "vol_surge": 0.16,
       "rsi14": 50.0,
-      "score": 0.0655
+      "score": 0.0523
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1414.0,
-      "ret5": 0.0529,
-      "vol_surge": 0.33,
+      "ticker": "SBILIFE.NS",
+      "close": 2090.0,
+      "ret5": 0.0243,
+      "vol_surge": 0.45,
       "rsi14": 50.0,
-      "score": 0.0646
+      "score": 0.0495
     }
   ]
 }
