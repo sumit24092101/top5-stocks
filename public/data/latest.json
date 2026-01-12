@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-11T04:32:45.619754Z",
+  "as_of_ist": "2026-01-12T04:35:23.383433Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "HCLTECH.NS",
-      "close": 1661.4,
-      "ret5": 0.0129,
-      "vol_surge": 1.69,
+      "close": 1659.1,
+      "ret5": 0.032,
+      "vol_surge": 0.34,
       "rsi14": 50.0,
-      "score": 0.123
+      "score": 0.0483
     },
     {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2825.5,
-      "ret5": 0.0191,
-      "vol_surge": 1.56,
+      "ticker": "DIVISLAB.NS",
+      "close": 6415.5,
+      "ret5": 0.0082,
+      "vol_surge": 0.41,
       "rsi14": 50.0,
-      "score": 0.1192
+      "score": 0.0338
     },
     {
       "ticker": "ICICIBANK.NS",
-      "close": 1404.3,
-      "ret5": 0.0361,
-      "vol_surge": 1.32,
+      "close": 1403.5,
+      "ret5": 0.0233,
+      "vol_surge": 0.22,
       "rsi14": 50.0,
-      "score": 0.1171
+      "score": 0.0337
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2153.7,
-      "ret5": -0.0553,
-      "vol_surge": 2.22,
+      "ticker": "SBILIFE.NS",
+      "close": 2092.4,
+      "ret5": 0.0081,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.1036
+      "score": 0.0318
     },
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 11937.0,
-      "ret5": 0.0032,
-      "vol_surge": 1.43,
+      "ticker": "ASIANPAINT.NS",
+      "close": 2845.0,
+      "ret5": 0.0104,
+      "vol_surge": 0.31,
       "rsi14": 50.0,
-      "score": 0.0981
+      "score": 0.0292
     }
   ]
 }
