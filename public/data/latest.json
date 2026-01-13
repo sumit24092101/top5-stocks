@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-12T04:35:23.383433Z",
+  "as_of_ist": "2026-01-13T04:24:25.096904Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "HCLTECH.NS",
-      "close": 1659.1,
-      "ret5": 0.032,
-      "vol_surge": 0.34,
+      "close": 1640.1,
+      "ret5": 0.0147,
+      "vol_surge": 1.48,
       "rsi14": 50.0,
-      "score": 0.0483
+      "score": 0.1102
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6415.5,
-      "ret5": 0.0082,
-      "vol_surge": 0.41,
+      "ticker": "TCS.NS",
+      "close": 3241.9,
+      "ret5": -0.0043,
+      "vol_surge": 0.66,
       "rsi14": 50.0,
-      "score": 0.0338
+      "score": 0.0406
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1403.5,
-      "ret5": 0.0233,
-      "vol_surge": 0.22,
-      "rsi14": 50.0,
-      "score": 0.0337
-    },
-    {
-      "ticker": "SBILIFE.NS",
-      "close": 2092.4,
-      "ret5": 0.0081,
+      "ticker": "SBIN.NS",
+      "close": 1024.55,
+      "ret5": 0.0055,
       "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.0318
+      "score": 0.0295
     },
     {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2845.0,
-      "ret5": 0.0104,
-      "vol_surge": 0.31,
+      "ticker": "TITAN.NS",
+      "close": 4222.6,
+      "ret5": 0.0269,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0292
+      "score": 0.0273
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1597.0,
+      "ret5": -0.003,
+      "vol_surge": 0.41,
+      "rsi14": 50.0,
+      "score": 0.0251
     }
   ]
 }
