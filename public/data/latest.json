@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-13T04:24:25.096904Z",
+  "as_of_ist": "2026-01-14T04:33:22.679107Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1640.1,
-      "ret5": 0.0147,
-      "vol_surge": 1.48,
+      "ticker": "ONGC.NS",
+      "close": 248.11,
+      "ret5": 0.0379,
+      "vol_surge": 1.13,
       "rsi14": 50.0,
-      "score": 0.1102
+      "score": 0.1058
     },
     {
-      "ticker": "TCS.NS",
-      "close": 3241.9,
-      "ret5": -0.0043,
+      "ticker": "COALINDIA.NS",
+      "close": 439.5,
+      "ret5": 0.0182,
       "vol_surge": 0.66,
       "rsi14": 50.0,
-      "score": 0.0406
+      "score": 0.0583
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 185.75,
+      "ret5": 0.0106,
+      "vol_surge": 0.37,
+      "rsi14": 50.0,
+      "score": 0.0331
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "close": 1425.0,
+      "ret5": -0.0019,
+      "vol_surge": 0.44,
+      "rsi14": 50.0,
+      "score": 0.0276
     },
     {
       "ticker": "SBIN.NS",
-      "close": 1024.55,
-      "ret5": 0.0055,
-      "vol_surge": 0.38,
+      "close": 1026.0,
+      "ret5": 0.0187,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.0295
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 4222.6,
-      "ret5": 0.0269,
-      "vol_surge": 0.09,
-      "rsi14": 50.0,
-      "score": 0.0273
-    },
-    {
-      "ticker": "TECHM.NS",
-      "close": 1597.0,
-      "ret5": -0.003,
-      "vol_surge": 0.41,
-      "rsi14": 50.0,
-      "score": 0.0251
+      "score": 0.0238
     }
   ]
 }
