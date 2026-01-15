@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-14T04:33:22.679107Z",
+  "as_of_ist": "2026-01-15T04:26:44.084045Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 248.11,
-      "ret5": 0.0379,
-      "vol_surge": 1.13,
+      "close": 247.98,
+      "ret5": 0.0373,
+      "vol_surge": 3.36,
       "rsi14": 50.0,
-      "score": 0.1058
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 439.5,
-      "ret5": 0.0182,
-      "vol_surge": 0.66,
-      "rsi14": 50.0,
-      "score": 0.0583
+      "score": 0.2299
     },
     {
       "ticker": "TATASTEEL.NS",
-      "close": 185.75,
-      "ret5": 0.0106,
-      "vol_surge": 0.37,
+      "close": 189.35,
+      "ret5": 0.0302,
+      "vol_surge": 2.09,
       "rsi14": 50.0,
-      "score": 0.0331
+      "score": 0.1632
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1425.0,
-      "ret5": -0.0019,
-      "vol_surge": 0.44,
+      "ticker": "DRREDDY.NS",
+      "close": 1191.5,
+      "ret5": -0.0413,
+      "vol_surge": 2.62,
       "rsi14": 50.0,
-      "score": 0.0276
+      "score": 0.1414
     },
     {
-      "ticker": "SBIN.NS",
-      "close": 1026.0,
-      "ret5": 0.0187,
-      "vol_surge": 0.13,
+      "ticker": "NTPC.NS",
+      "close": 349.0,
+      "ret5": 0.0004,
+      "vol_surge": 2.11,
       "rsi14": 50.0,
-      "score": 0.0238
+      "score": 0.1407
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "close": 12242.0,
+      "ret5": 0.0048,
+      "vol_surge": 2.0,
+      "rsi14": 50.0,
+      "score": 0.137
     }
   ]
 }
