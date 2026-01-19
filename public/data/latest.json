@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-18T04:28:14.415866Z",
+  "as_of_ist": "2026-01-19T04:36:27.287720Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TECHM.NS",
-      "close": 1670.5,
-      "ret5": 0.0587,
-      "vol_surge": 2.98,
+      "close": 1724.9,
+      "ret5": 0.0902,
+      "vol_surge": 2.91,
       "rsi14": 50.0,
-      "score": 0.2458
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1689.8,
-      "ret5": 0.0469,
-      "vol_surge": 2.98,
-      "rsi14": 50.0,
-      "score": 0.2362
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 732.55,
-      "ret5": -0.0231,
-      "vol_surge": 3.68,
-      "rsi14": 50.0,
-      "score": 0.1815
-    },
-    {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 12378.0,
-      "ret5": 0.0369,
-      "vol_surge": 2.12,
-      "rsi14": 50.0,
-      "score": 0.1708
+      "score": 0.2662
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 267.45,
-      "ret5": 0.021,
-      "vol_surge": 2.0,
+      "close": 248.2,
+      "ret5": -0.0566,
+      "vol_surge": 4.59,
       "rsi14": 50.0,
-      "score": 0.1504
+      "score": 0.1547
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1303.1,
+      "ret5": 0.0227,
+      "vol_surge": 0.7,
+      "rsi14": 50.0,
+      "score": 0.0647
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1668.0,
+      "ret5": 0.0452,
+      "vol_surge": 0.16,
+      "rsi14": 50.0,
+      "score": 0.0466
+    },
+    {
+      "ticker": "ONGC.NS",
+      "close": 245.86,
+      "ret5": 0.0431,
+      "vol_surge": 0.16,
+      "rsi14": 50.0,
+      "score": 0.0454
     }
   ]
 }
