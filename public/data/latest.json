@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-20T04:30:23.436055Z",
+  "as_of_ist": "2026-01-21T04:30:24.683352Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TECHM.NS",
-      "close": 1685.2,
-      "ret5": 0.0436,
-      "vol_surge": 0.18,
+      "close": 1676.4,
+      "ret5": 0.0553,
+      "vol_surge": 0.34,
       "rsi14": 50.0,
-      "score": 0.0468
+      "score": 0.0672
     },
     {
       "ticker": "INFY.NS",
-      "close": 1673.5,
-      "ret5": 0.0466,
-      "vol_surge": 0.08,
+      "close": 1643.3,
+      "ret5": 0.0272,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.0429
+      "score": 0.0372
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1302.9,
-      "ret5": 0.0324,
-      "vol_surge": 0.22,
+      "ticker": "KOTAKBANK.NS",
+      "close": 424.9,
+      "ret5": 0.0093,
+      "vol_surge": 0.42,
       "rsi14": 50.0,
-      "score": 0.0403
+      "score": 0.0354
     },
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 12344.0,
-      "ret5": 0.0249,
-      "vol_surge": 0.18,
+      "ticker": "DRREDDY.NS",
+      "close": 1172.5,
+      "ret5": -0.0118,
+      "vol_surge": 0.64,
       "rsi14": 50.0,
-      "score": 0.0318
+      "score": 0.0335
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 185.9,
-      "ret5": 0.0182,
-      "vol_surge": 0.24,
+      "ticker": "HDFCBANK.NS",
+      "close": 926.25,
+      "ret5": 0.0009,
+      "vol_surge": 0.37,
       "rsi14": 50.0,
-      "score": 0.0305
+      "score": 0.0254
     }
   ]
 }
