@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-23T04:28:21.299028Z",
+  "as_of_ist": "2026-01-24T04:10:49.115389Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DRREDDY.NS",
-      "close": 1245.0,
-      "ret5": 0.0591,
-      "vol_surge": 0.86,
+      "close": 1235.6,
+      "ret5": 0.0511,
+      "vol_surge": 2.18,
       "rsi14": 50.0,
-      "score": 0.1044
+      "score": 0.1865
     },
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": 2411.7,
-      "ret5": 0.0217,
-      "vol_surge": 0.15,
+      "ticker": "CIPLA.NS",
+      "close": 1315.0,
+      "ret5": -0.059,
+      "vol_surge": 3.11,
       "rsi14": 50.0,
-      "score": 0.0273
+      "score": 0.1528
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1701.8,
-      "ret5": 0.0187,
-      "vol_surge": 0.17,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1308.4,
+      "ret5": -0.0798,
+      "vol_surge": 3.62,
       "rsi14": 50.0,
-      "score": 0.0266
+      "score": 0.1361
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 191.28,
-      "ret5": 0.0163,
-      "vol_surge": 0.19,
+      "ticker": "POWERGRID.NS",
+      "close": 254.15,
+      "ret5": -0.0122,
+      "vol_surge": 1.64,
       "rsi14": 50.0,
-      "score": 0.0255
+      "score": 0.0992
     },
     {
       "ticker": "ULTRACEMCO.NS",
-      "close": 12483.0,
-      "ret5": 0.0085,
-      "vol_surge": 0.21,
+      "close": 12369.0,
+      "ret5": -0.0007,
+      "vol_surge": 1.43,
       "rsi14": 50.0,
-      "score": 0.0209
+      "score": 0.0947
     }
   ]
 }
