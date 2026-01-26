@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-25T04:36:03.518342Z",
+  "as_of_ist": "2026-01-26T04:39:18.294385Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DRREDDY.NS",
-      "close": 1235.6,
-      "ret5": 0.0511,
+      "close": 1238.4,
+      "ret5": 0.0535,
       "vol_surge": 2.18,
       "rsi14": 50.0,
-      "score": 0.1865
+      "score": 0.1884
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1315.0,
-      "ret5": -0.059,
+      "close": 1322.3,
+      "ret5": -0.0538,
       "vol_surge": 3.11,
       "rsi14": 50.0,
-      "score": 0.1528
+      "score": 0.157
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1308.4,
-      "ret5": -0.0798,
+      "close": 1314.9,
+      "ret5": -0.0753,
       "vol_surge": 3.62,
       "rsi14": 50.0,
-      "score": 0.1361
+      "score": 0.1398
     },
     {
       "ticker": "POWERGRID.NS",
-      "close": 254.15,
-      "ret5": -0.0122,
+      "close": 253.95,
+      "ret5": -0.013,
       "vol_surge": 1.64,
       "rsi14": 50.0,
-      "score": 0.0992
+      "score": 0.0986
     },
     {
       "ticker": "ULTRACEMCO.NS",
-      "close": 12369.0,
-      "ret5": -0.0007,
+      "close": 12346.0,
+      "ret5": -0.0026,
       "vol_surge": 1.43,
       "rsi14": 50.0,
-      "score": 0.0947
+      "score": 0.0932
     }
   ]
 }
