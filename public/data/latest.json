@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-27T04:31:57.246317Z",
+  "as_of_ist": "2026-01-28T04:30:59.647142Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1317.6,
-      "ret5": 0.0077,
-      "vol_surge": 1.44,
+      "ticker": "ONGC.NS",
+      "close": 265.59,
+      "ret5": 0.1048,
+      "vol_surge": 1.59,
       "rsi14": 50.0,
-      "score": 0.1024
+      "score": 0.1901
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1344.8,
+      "ret5": 0.0397,
+      "vol_surge": 1.18,
+      "rsi14": 50.0,
+      "score": 0.1104
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 192.93,
+      "ret5": 0.051,
+      "vol_surge": 0.36,
+      "rsi14": 50.0,
+      "score": 0.0645
     },
     {
       "ticker": "ULTRACEMCO.NS",
-      "close": 12668.0,
-      "ret5": 0.0302,
-      "vol_surge": 1.08,
+      "close": 12718.0,
+      "ret5": 0.0546,
+      "vol_surge": 0.27,
       "rsi14": 50.0,
-      "score": 0.0959
+      "score": 0.0618
     },
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1248.0,
-      "ret5": 0.0692,
-      "vol_surge": 0.33,
+      "ticker": "GRASIM.NS",
+      "close": 2871.9,
+      "ret5": 0.0583,
+      "vol_surge": 0.16,
       "rsi14": 50.0,
-      "score": 0.0773
-    },
-    {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1212.2,
-      "ret5": 0.0237,
-      "vol_surge": 0.55,
-      "rsi14": 50.0,
-      "score": 0.0558
-    },
-    {
-      "ticker": "BRITANNIA.NS",
-      "close": 5883.5,
-      "ret5": -0.0101,
-      "vol_surge": 0.77,
-      "rsi14": 50.0,
-      "score": 0.0433
+      "score": 0.0575
     }
   ]
 }
