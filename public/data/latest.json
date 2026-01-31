@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-01-30T04:55:01.940514Z",
+  "as_of_ist": "2026-01-31T04:47:25.324130Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ONGC.NS",
-      "close": 268.84,
-      "ret5": 0.1018,
-      "vol_surge": 0.51,
+      "ticker": "NESTLEIND.NS",
+      "close": 1332.4,
+      "ret5": 0.0202,
+      "vol_surge": 4.31,
       "rsi14": 50.0,
-      "score": 0.1151
+      "score": 0.2162
+    },
+    {
+      "ticker": "ONGC.NS",
+      "close": 268.96,
+      "ret5": 0.1022,
+      "vol_surge": 1.4,
+      "rsi14": 50.0,
+      "score": 0.175
     },
     {
       "ticker": "AXISBANK.NS",
-      "close": 1369.6,
-      "ret5": 0.0578,
-      "vol_surge": 0.33,
+      "close": 1370.4,
+      "ret5": 0.0584,
+      "vol_surge": 1.83,
       "rsi14": 50.0,
-      "score": 0.0683
+      "score": 0.1688
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1369.8,
-      "ret5": 0.0181,
-      "vol_surge": 0.77,
+      "ticker": "NTPC.NS",
+      "close": 356.0,
+      "ret5": 0.0396,
+      "vol_surge": 1.92,
       "rsi14": 50.0,
-      "score": 0.0655
+      "score": 0.1599
     },
     {
       "ticker": "BPCL.NS",
-      "close": 365.55,
-      "ret5": 0.0322,
-      "vol_surge": 0.54,
+      "close": 364.5,
+      "ret5": 0.0292,
+      "vol_surge": 1.86,
       "rsi14": 50.0,
-      "score": 0.0619
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 443.25,
-      "ret5": 0.0474,
-      "vol_surge": 0.22,
-      "rsi14": 50.0,
-      "score": 0.0527
+      "score": 0.1476
     }
   ]
 }
