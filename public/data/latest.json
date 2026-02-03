@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-02T05:12:45.208206Z",
+  "as_of_ist": "2026-02-03T05:02:28.281333Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BPCL.NS",
-      "close": 363.1,
-      "ret5": 0.0693,
-      "vol_surge": 0.7,
+      "ticker": "ADANIENT.NS",
+      "close": 2206.1,
+      "ret5": 0.1258,
+      "vol_surge": 2.05,
       "rsi14": 50.0,
-      "score": 0.1019
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 3885.9,
-      "ret5": 0.038,
-      "vol_surge": 0.65,
-      "rsi14": 50.0,
-      "score": 0.0738
+      "score": 0.2373
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1373.6,
-      "ret5": 0.0498,
-      "vol_surge": 0.49,
+      "close": 1505.5,
+      "ret5": 0.1038,
+      "vol_surge": 2.16,
       "rsi14": 50.0,
-      "score": 0.0728
+      "score": 0.2273
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 1967.0,
-      "ret5": 0.0551,
-      "vol_surge": 0.32,
+      "ticker": "POWERGRID.NS",
+      "close": 280.5,
+      "ret5": 0.1028,
+      "vol_surge": 1.18,
       "rsi14": 50.0,
-      "score": 0.0653
+      "score": 0.1606
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1328.9,
-      "ret5": 0.0564,
-      "vol_surge": 0.21,
+      "ticker": "LT.NS",
+      "close": 4082.4,
+      "ret5": 0.0778,
+      "vol_surge": 0.69,
       "rsi14": 50.0,
-      "score": 0.0591
+      "score": 0.1085
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "close": 1451.8,
+      "ret5": 0.0516,
+      "vol_surge": 0.93,
+      "rsi14": 50.0,
+      "score": 0.1034
     }
   ]
 }
