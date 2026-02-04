@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-03T05:02:28.281333Z",
+  "as_of_ist": "2026-02-04T04:55:19.242276Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2206.1,
-      "ret5": 0.1258,
-      "vol_surge": 2.05,
+      "ticker": "IOC.NS",
+      "close": 173.46,
+      "ret5": 0.0652,
+      "vol_surge": 1.15,
       "rsi14": 50.0,
-      "score": 0.2373
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1505.5,
-      "ret5": 0.1038,
-      "vol_surge": 2.16,
-      "rsi14": 50.0,
-      "score": 0.2273
+      "score": 0.129
     },
     {
       "ticker": "POWERGRID.NS",
-      "close": 280.5,
-      "ret5": 0.1028,
-      "vol_surge": 1.18,
+      "close": 288.65,
+      "ret5": 0.111,
+      "vol_surge": 0.57,
       "rsi14": 50.0,
-      "score": 0.1606
+      "score": 0.1271
     },
     {
-      "ticker": "LT.NS",
-      "close": 4082.4,
-      "ret5": 0.0778,
-      "vol_surge": 0.69,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1532.2,
+      "ret5": 0.1088,
+      "vol_surge": 0.44,
       "rsi14": 50.0,
-      "score": 0.1085
+      "score": 0.1164
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1451.8,
-      "ret5": 0.0516,
-      "vol_surge": 0.93,
+      "ticker": "ADANIENT.NS",
+      "close": 2212.0,
+      "ret5": 0.1089,
+      "vol_surge": 0.41,
       "rsi14": 50.0,
-      "score": 0.1034
+      "score": 0.1142
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 961.7,
+      "ret5": 0.0284,
+      "vol_surge": 1.24,
+      "rsi14": 50.0,
+      "score": 0.1055
     }
   ]
 }
