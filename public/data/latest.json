@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-05T05:04:28.444630Z",
+  "as_of_ist": "2026-02-06T05:02:09.916832Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "IOC.NS",
-      "close": 173.33,
-      "ret5": 0.0628,
-      "vol_surge": 0.94,
+      "close": 176.2,
+      "ret5": 0.0794,
+      "vol_surge": 1.3,
       "rsi14": 50.0,
-      "score": 0.1126
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1563.1,
-      "ret5": 0.1025,
-      "vol_surge": 0.28,
-      "rsi14": 50.0,
-      "score": 0.1008
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2228.5,
-      "ret5": 0.1037,
-      "vol_surge": 0.18,
-      "rsi14": 50.0,
-      "score": 0.0947
+      "score": 0.1502
     },
     {
       "ticker": "POWERGRID.NS",
-      "close": 286.8,
-      "ret5": 0.101,
-      "vol_surge": 0.17,
+      "close": 291.55,
+      "ret5": 0.1366,
+      "vol_surge": 0.44,
       "rsi14": 50.0,
-      "score": 0.0924
+      "score": 0.1384
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 381.7,
-      "ret5": 0.0695,
-      "vol_surge": 0.49,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1551.8,
+      "ret5": 0.093,
+      "vol_surge": 0.88,
+      "rsi14": 50.0,
+      "score": 0.1331
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5798.0,
+      "ret5": 0.0477,
+      "vol_surge": 0.76,
       "rsi14": 50.0,
       "score": 0.0885
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": 2220.1,
+      "ret5": 0.0988,
+      "vol_surge": 0.14,
+      "rsi14": 50.0,
+      "score": 0.0884
     }
   ]
 }
