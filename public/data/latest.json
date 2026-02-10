@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-09T05:16:19.563423Z",
+  "as_of_ist": "2026-02-10T05:16:24.332766Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SBIN.NS",
-      "close": 1135.7,
-      "ret5": 0.104,
-      "vol_surge": 1.84,
-      "rsi14": 50.0,
-      "score": 0.206
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2286.4,
-      "ret5": 0.1458,
-      "vol_surge": 0.38,
-      "rsi14": 50.0,
-      "score": 0.1421
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1565.8,
-      "ret5": 0.116,
-      "vol_surge": 0.28,
-      "rsi14": 50.0,
-      "score": 0.1114
-    },
-    {
       "ticker": "TATASTEEL.NS",
-      "close": 200.19,
-      "ret5": 0.062,
-      "vol_surge": 0.67,
+      "close": 208.05,
+      "ret5": 0.0784,
+      "vol_surge": 1.4,
       "rsi14": 50.0,
-      "score": 0.0939
+      "score": 0.1558
     },
     {
       "ticker": "TITAN.NS",
-      "close": 4226.0,
-      "ret5": 0.069,
-      "vol_surge": 0.48,
+      "close": 4276.4,
+      "ret5": 0.0511,
+      "vol_surge": 0.87,
       "rsi14": 50.0,
-      "score": 0.087
+      "score": 0.0988
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 1141.1,
+      "ret5": 0.0723,
+      "vol_surge": 0.41,
+      "rsi14": 50.0,
+      "score": 0.085
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 177.09,
+      "ret5": 0.0567,
+      "vol_surge": 0.53,
+      "rsi14": 50.0,
+      "score": 0.0808
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "close": 290.75,
+      "ret5": 0.0382,
+      "vol_surge": 0.43,
+      "rsi14": 50.0,
+      "score": 0.0591
     }
   ]
 }
