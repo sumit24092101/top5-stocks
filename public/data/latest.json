@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-10T05:16:24.332766Z",
+  "as_of_ist": "2026-02-11T05:15:38.365136Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 208.05,
-      "ret5": 0.0784,
-      "vol_surge": 1.4,
+      "ticker": "EICHERMOT.NS",
+      "close": 7773.0,
+      "ret5": 0.0681,
+      "vol_surge": 2.79,
       "rsi14": 50.0,
-      "score": 0.1558
+      "score": 0.2404
     },
     {
       "ticker": "TITAN.NS",
-      "close": 4276.4,
-      "ret5": 0.0511,
-      "vol_surge": 0.87,
+      "close": 4300.0,
+      "ret5": 0.0376,
+      "vol_surge": 1.72,
       "rsi14": 50.0,
-      "score": 0.0988
+      "score": 0.1447
     },
     {
       "ticker": "SBIN.NS",
-      "close": 1141.1,
-      "ret5": 0.0723,
-      "vol_surge": 0.41,
+      "close": 1165.9,
+      "ret5": 0.0915,
+      "vol_surge": 0.51,
       "rsi14": 50.0,
-      "score": 0.085
+      "score": 0.107
     },
     {
-      "ticker": "IOC.NS",
-      "close": 177.09,
-      "ret5": 0.0567,
-      "vol_surge": 0.53,
+      "ticker": "BRITANNIA.NS",
+      "close": 6078.0,
+      "ret5": 0.0338,
+      "vol_surge": 0.96,
       "rsi14": 50.0,
-      "score": 0.0808
+      "score": 0.0912
     },
     {
-      "ticker": "POWERGRID.NS",
-      "close": 290.75,
-      "ret5": 0.0382,
-      "vol_surge": 0.43,
+      "ticker": "TATASTEEL.NS",
+      "close": 207.29,
+      "ret5": 0.0608,
+      "vol_surge": 0.44,
       "rsi14": 50.0,
-      "score": 0.0591
+      "score": 0.0778
     }
   ]
 }
