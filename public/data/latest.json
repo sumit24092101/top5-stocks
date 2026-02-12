@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-11T05:15:38.365136Z",
+  "as_of_ist": "2026-02-12T05:13:23.265209Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7773.0,
-      "ret5": 0.0681,
-      "vol_surge": 2.79,
-      "rsi14": 50.0,
-      "score": 0.2404
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 4300.0,
-      "ret5": 0.0376,
-      "vol_surge": 1.72,
-      "rsi14": 50.0,
-      "score": 0.1447
-    },
-    {
       "ticker": "SBIN.NS",
-      "close": 1165.9,
-      "ret5": 0.0915,
-      "vol_surge": 0.51,
+      "close": 1199.5,
+      "ret5": 0.1174,
+      "vol_surge": 1.0,
       "rsi14": 50.0,
-      "score": 0.107
+      "score": 0.1606
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7852.5,
+      "ret5": 0.0892,
+      "vol_surge": 0.83,
+      "rsi14": 50.0,
+      "score": 0.1264
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 6256.5,
+      "ret5": 0.0187,
+      "vol_surge": 1.17,
+      "rsi14": 50.0,
+      "score": 0.0928
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "close": 2419.1,
+      "ret5": 0.0275,
+      "vol_surge": 0.87,
+      "rsi14": 50.0,
+      "score": 0.0802
     },
     {
       "ticker": "BRITANNIA.NS",
-      "close": 6078.0,
-      "ret5": 0.0338,
-      "vol_surge": 0.96,
+      "close": 6092.0,
+      "ret5": 0.0377,
+      "vol_surge": 0.61,
       "rsi14": 50.0,
-      "score": 0.0912
-    },
-    {
-      "ticker": "TATASTEEL.NS",
-      "close": 207.29,
-      "ret5": 0.0608,
-      "vol_surge": 0.44,
-      "rsi14": 50.0,
-      "score": 0.0778
+      "score": 0.0706
     }
   ]
 }
