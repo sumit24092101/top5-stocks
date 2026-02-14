@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-13T05:08:44.922663Z",
+  "as_of_ist": "2026-02-14T04:55:47.707121Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SBIN.NS",
-      "close": 1195.4,
-      "ret5": 0.121,
-      "vol_surge": 0.43,
-      "rsi14": 50.0,
-      "score": 0.1256
-    },
-    {
       "ticker": "EICHERMOT.NS",
-      "close": 7961.0,
-      "ret5": 0.1092,
-      "vol_surge": 0.3,
+      "close": 8065.0,
+      "ret5": 0.1237,
+      "vol_surge": 1.65,
       "rsi14": 50.0,
-      "score": 0.1071
+      "score": 0.2092
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": 1012.5,
-      "ret5": 0.0314,
-      "vol_surge": 0.58,
+      "close": 1024.75,
+      "ret5": 0.0439,
+      "vol_surge": 2.24,
       "rsi14": 50.0,
-      "score": 0.0639
+      "score": 0.1844
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 204.97,
-      "ret5": 0.0401,
-      "vol_surge": 0.23,
+      "ticker": "SBIN.NS",
+      "close": 1198.6,
+      "ret5": 0.124,
+      "vol_surge": 1.21,
       "rsi14": 50.0,
-      "score": 0.0474
+      "score": 0.1798
     },
     {
-      "ticker": "LT.NS",
-      "close": 4173.4,
-      "ret5": 0.0259,
-      "vol_surge": 0.21,
+      "ticker": "INFY.NS",
+      "close": 1369.1,
+      "ret5": -0.0916,
+      "vol_surge": 3.69,
       "rsi14": 50.0,
-      "score": 0.0344
+      "score": 0.1267
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1534.4,
+      "ret5": -0.0528,
+      "vol_surge": 2.33,
+      "rsi14": 50.0,
+      "score": 0.1131
     }
   ]
 }
