@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-15T05:08:05.301512Z",
+  "as_of_ist": "2026-02-16T05:15:09.856737Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "EICHERMOT.NS",
-      "close": 8065.0,
-      "ret5": 0.1237,
-      "vol_surge": 1.65,
+      "close": 8042.0,
+      "ret5": 0.1176,
+      "vol_surge": 0.4,
       "rsi14": 50.0,
-      "score": 0.2092
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1024.75,
-      "ret5": 0.0439,
-      "vol_surge": 2.24,
-      "rsi14": 50.0,
-      "score": 0.1844
+      "score": 0.1208
     },
     {
       "ticker": "SBIN.NS",
-      "close": 1198.6,
-      "ret5": 0.124,
-      "vol_surge": 1.21,
+      "close": 1188.6,
+      "ret5": 0.0372,
+      "vol_surge": 0.29,
       "rsi14": 50.0,
-      "score": 0.1798
+      "score": 0.0489
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1369.1,
-      "ret5": -0.0916,
-      "vol_surge": 3.69,
+      "ticker": "BAJFINANCE.NS",
+      "close": 1025.05,
+      "ret5": 0.0426,
+      "vol_surge": 0.2,
       "rsi14": 50.0,
-      "score": 0.1267
+      "score": 0.0477
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1534.4,
-      "ret5": -0.0528,
-      "vol_surge": 2.33,
+      "ticker": "POWERGRID.NS",
+      "close": 296.0,
+      "ret5": 0.0216,
+      "vol_surge": 0.32,
       "rsi14": 50.0,
-      "score": 0.1131
+      "score": 0.0387
+    },
+    {
+      "ticker": "ONGC.NS",
+      "close": 271.5,
+      "ret5": 0.0184,
+      "vol_surge": 0.24,
+      "rsi14": 50.0,
+      "score": 0.0308
     }
   ]
 }
