@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-16T05:15:09.856737Z",
+  "as_of_ist": "2026-02-17T05:08:51.642926Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 8042.0,
-      "ret5": 0.1176,
-      "vol_surge": 0.4,
+      "ticker": "SBIN.NS",
+      "close": 1224.6,
+      "ret5": 0.0704,
+      "vol_surge": 0.39,
       "rsi14": 50.0,
-      "score": 0.1208
+      "score": 0.0825
     },
     {
-      "ticker": "SBIN.NS",
-      "close": 1188.6,
-      "ret5": 0.0372,
-      "vol_surge": 0.29,
+      "ticker": "EICHERMOT.NS",
+      "close": 7963.0,
+      "ret5": 0.0914,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0489
+      "score": 0.079
+    },
+    {
+      "ticker": "ITC.NS",
+      "close": 325.2,
+      "ret5": 0.0118,
+      "vol_surge": 0.84,
+      "rsi14": 50.0,
+      "score": 0.0656
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": 1025.05,
-      "ret5": 0.0426,
-      "vol_surge": 0.2,
+      "close": 1012.4,
+      "ret5": 0.0485,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0477
+      "score": 0.0435
     },
     {
-      "ticker": "POWERGRID.NS",
-      "close": 296.0,
-      "ret5": 0.0216,
-      "vol_surge": 0.32,
+      "ticker": "BRITANNIA.NS",
+      "close": 6116.5,
+      "ret5": 0.0414,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0387
-    },
-    {
-      "ticker": "ONGC.NS",
-      "close": 271.5,
-      "ret5": 0.0184,
-      "vol_surge": 0.24,
-      "rsi14": 50.0,
-      "score": 0.0308
+      "score": 0.0375
     }
   ]
 }
