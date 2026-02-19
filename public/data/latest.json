@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-18T05:09:54.607558Z",
+  "as_of_ist": "2026-02-19T05:09:00.205572Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ITC.NS",
-      "close": 327.85,
-      "ret5": 0.0302,
-      "vol_surge": 0.51,
+      "close": 330.0,
+      "ret5": 0.0395,
+      "vol_surge": 0.28,
       "rsi14": 50.0,
-      "score": 0.0582
+      "score": 0.0503
     },
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1018.6,
-      "ret5": 0.0512,
-      "vol_surge": 0.09,
+      "ticker": "HDFCLIFE.NS",
+      "close": 731.2,
+      "ret5": 0.0406,
+      "vol_surge": 0.14,
       "rsi14": 50.0,
-      "score": 0.0467
+      "score": 0.0415
     },
     {
-      "ticker": "SBIN.NS",
-      "close": 1218.6,
-      "ret5": 0.0302,
+      "ticker": "SHREECEM.NS",
+      "close": 27020.0,
+      "ret5": 0.0258,
       "vol_surge": 0.26,
       "rsi14": 50.0,
-      "score": 0.0412
+      "score": 0.0378
     },
     {
       "ticker": "LT.NS",
-      "close": 4284.2,
-      "ret5": 0.0273,
-      "vol_surge": 0.25,
+      "close": 4316.0,
+      "ret5": 0.0311,
+      "vol_surge": 0.18,
       "rsi14": 50.0,
-      "score": 0.0386
+      "score": 0.0371
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 208.44,
-      "ret5": 0.0041,
-      "vol_surge": 0.49,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9915.0,
+      "ret5": 0.0076,
+      "vol_surge": 0.39,
       "rsi14": 50.0,
-      "score": 0.0357
+      "score": 0.0321
     }
   ]
 }
