@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-19T05:09:00.205572Z",
+  "as_of_ist": "2026-02-20T05:03:10.730014Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ITC.NS",
-      "close": 330.0,
-      "ret5": 0.0395,
-      "vol_surge": 0.28,
+      "ticker": "ONGC.NS",
+      "close": 277.65,
+      "ret5": 0.0628,
+      "vol_surge": 0.67,
       "rsi14": 50.0,
-      "score": 0.0503
+      "score": 0.0947
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 425.05,
+      "ret5": 0.0531,
+      "vol_surge": 0.36,
+      "rsi14": 50.0,
+      "score": 0.0664
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 753.1,
+      "ret5": 0.0398,
+      "vol_surge": 0.26,
+      "rsi14": 50.0,
+      "score": 0.0494
     },
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 731.2,
-      "ret5": 0.0406,
-      "vol_surge": 0.14,
+      "close": 732.4,
+      "ret5": 0.0511,
+      "vol_surge": 0.11,
       "rsi14": 50.0,
-      "score": 0.0415
-    },
-    {
-      "ticker": "SHREECEM.NS",
-      "close": 27020.0,
-      "ret5": 0.0258,
-      "vol_surge": 0.26,
-      "rsi14": 50.0,
-      "score": 0.0378
+      "score": 0.048
     },
     {
       "ticker": "LT.NS",
-      "close": 4316.0,
-      "ret5": 0.0311,
+      "close": 4333.2,
+      "ret5": 0.0382,
       "vol_surge": 0.18,
       "rsi14": 50.0,
-      "score": 0.0371
-    },
-    {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 9915.0,
-      "ret5": 0.0076,
-      "vol_surge": 0.39,
-      "rsi14": 50.0,
-      "score": 0.0321
+      "score": 0.0427
     }
   ]
 }
