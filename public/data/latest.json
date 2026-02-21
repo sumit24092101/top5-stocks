@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-20T05:03:10.730014Z",
+  "as_of_ist": "2026-02-21T04:51:26.320176Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 277.65,
-      "ret5": 0.0628,
-      "vol_surge": 0.67,
+      "close": 278.65,
+      "ret5": 0.0666,
+      "vol_surge": 1.39,
       "rsi14": 50.0,
-      "score": 0.0947
+      "score": 0.1459
     },
     {
-      "ticker": "COALINDIA.NS",
-      "close": 425.05,
-      "ret5": 0.0531,
-      "vol_surge": 0.36,
+      "ticker": "NTPC.NS",
+      "close": 372.95,
+      "ret5": 0.0274,
+      "vol_surge": 1.53,
       "rsi14": 50.0,
-      "score": 0.0664
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 753.1,
-      "ret5": 0.0398,
-      "vol_surge": 0.26,
-      "rsi14": 50.0,
-      "score": 0.0494
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 732.4,
-      "ret5": 0.0511,
-      "vol_surge": 0.11,
-      "rsi14": 50.0,
-      "score": 0.048
+      "score": 0.124
     },
     {
       "ticker": "LT.NS",
-      "close": 4333.2,
-      "ret5": 0.0382,
-      "vol_surge": 0.18,
+      "close": 4380.6,
+      "ret5": 0.0495,
+      "vol_surge": 1.19,
       "rsi14": 50.0,
-      "score": 0.0427
+      "score": 0.119
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 423.55,
+      "ret5": 0.0494,
+      "vol_surge": 1.06,
+      "rsi14": 50.0,
+      "score": 0.1104
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 752.35,
+      "ret5": 0.0387,
+      "vol_surge": 0.9,
+      "rsi14": 50.0,
+      "score": 0.0911
     }
   ]
 }
