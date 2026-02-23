@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-22T05:03:42.275315Z",
+  "as_of_ist": "2026-02-23T05:14:02.103447Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ONGC.NS",
-      "close": 278.65,
-      "ret5": 0.0666,
-      "vol_surge": 1.39,
+      "ticker": "UPL.NS",
+      "close": 649.6,
+      "ret5": -0.1147,
+      "vol_surge": 2.83,
       "rsi14": 50.0,
-      "score": 0.1459
+      "score": 0.0968
     },
     {
-      "ticker": "NTPC.NS",
-      "close": 372.95,
-      "ret5": 0.0274,
-      "vol_surge": 1.53,
+      "ticker": "HDFCLIFE.NS",
+      "close": 742.3,
+      "ret5": 0.0546,
+      "vol_surge": 0.21,
       "rsi14": 50.0,
-      "score": 0.124
+      "score": 0.0577
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "close": 2113.9,
+      "ret5": 0.035,
+      "vol_surge": 0.38,
+      "rsi14": 50.0,
+      "score": 0.0531
     },
     {
       "ticker": "LT.NS",
-      "close": 4380.6,
-      "ret5": 0.0495,
-      "vol_surge": 1.19,
+      "close": 4397.1,
+      "ret5": 0.0466,
+      "vol_surge": 0.22,
       "rsi14": 50.0,
-      "score": 0.119
+      "score": 0.0518
     },
     {
-      "ticker": "COALINDIA.NS",
-      "close": 423.55,
-      "ret5": 0.0494,
-      "vol_surge": 1.06,
+      "ticker": "AXISBANK.NS",
+      "close": 1398.0,
+      "ret5": 0.0292,
+      "vol_surge": 0.31,
       "rsi14": 50.0,
-      "score": 0.1104
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 752.35,
-      "ret5": 0.0387,
-      "vol_surge": 0.9,
-      "rsi14": 50.0,
-      "score": 0.0911
+      "score": 0.0442
     }
   ]
 }
