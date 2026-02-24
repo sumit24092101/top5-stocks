@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-23T05:14:02.103447Z",
+  "as_of_ist": "2026-02-24T05:08:36.133423Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "UPL.NS",
-      "close": 649.6,
-      "ret5": -0.1147,
-      "vol_surge": 2.83,
-      "rsi14": 50.0,
-      "score": 0.0968
-    },
-    {
       "ticker": "HDFCLIFE.NS",
-      "close": 742.3,
-      "ret5": 0.0546,
-      "vol_surge": 0.21,
+      "close": 737.95,
+      "ret5": 0.0456,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.0577
-    },
-    {
-      "ticker": "SBILIFE.NS",
-      "close": 2113.9,
-      "ret5": 0.035,
-      "vol_surge": 0.38,
-      "rsi14": 50.0,
-      "score": 0.0531
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 4397.1,
-      "ret5": 0.0466,
-      "vol_surge": 0.22,
-      "rsi14": 50.0,
-      "score": 0.0518
+      "score": 0.0454
     },
     {
       "ticker": "AXISBANK.NS",
-      "close": 1398.0,
-      "ret5": 0.0292,
-      "vol_surge": 0.31,
+      "close": 1389.5,
+      "ret5": 0.0238,
+      "vol_surge": 0.34,
       "rsi14": 50.0,
-      "score": 0.0442
+      "score": 0.0419
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 178.96,
+      "ret5": 0.0179,
+      "vol_surge": 0.41,
+      "rsi14": 50.0,
+      "score": 0.0417
+    },
+    {
+      "ticker": "NTPC.NS",
+      "close": 375.3,
+      "ret5": 0.0187,
+      "vol_surge": 0.34,
+      "rsi14": 50.0,
+      "score": 0.0378
+    },
+    {
+      "ticker": "LT.NS",
+      "close": 4391.5,
+      "ret5": 0.0261,
+      "vol_surge": 0.24,
+      "rsi14": 50.0,
+      "score": 0.0372
     }
   ]
 }
