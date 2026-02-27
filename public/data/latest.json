@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-26T05:07:49.321245Z",
+  "as_of_ist": "2026-02-27T05:00:31.704660Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5779.0,
-      "ret5": 0.0673,
-      "vol_surge": 0.35,
-      "rsi14": 50.0,
-      "score": 0.0773
-    },
-    {
       "ticker": "IOC.NS",
-      "close": 183.89,
-      "ret5": 0.055,
-      "vol_surge": 0.31,
+      "close": 188.63,
+      "ret5": 0.0854,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.0645
+      "score": 0.0935
     },
     {
-      "ticker": "NTPC.NS",
-      "close": 384.95,
-      "ret5": 0.0599,
+      "ticker": "BPCL.NS",
+      "close": 386.9,
+      "ret5": 0.0562,
+      "vol_surge": 0.28,
+      "rsi14": 50.0,
+      "score": 0.0639
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5736.0,
+      "ret5": 0.0496,
+      "vol_surge": 0.2,
+      "rsi14": 50.0,
+      "score": 0.0531
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 8071.0,
+      "ret5": 0.0169,
+      "vol_surge": 0.43,
+      "rsi14": 50.0,
+      "score": 0.0421
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "close": 1774.4,
+      "ret5": 0.029,
       "vol_surge": 0.25,
       "rsi14": 50.0,
-      "score": 0.0643
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 434.6,
-      "ret5": 0.0443,
-      "vol_surge": 0.39,
-      "rsi14": 50.0,
-      "score": 0.0616
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 6509.5,
-      "ret5": 0.0337,
-      "vol_surge": 0.44,
-      "rsi14": 50.0,
-      "score": 0.0563
+      "score": 0.0401
     }
   ]
 }
