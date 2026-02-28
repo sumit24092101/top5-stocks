@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-02-27T05:00:31.704660Z",
+  "as_of_ist": "2026-02-28T04:39:37.092811Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "IOC.NS",
-      "close": 188.63,
-      "ret5": 0.0854,
-      "vol_surge": 0.38,
+      "ticker": "DRREDDY.NS",
+      "close": 1286.3,
+      "ret5": 0.0046,
+      "vol_surge": 2.5,
       "rsi14": 50.0,
-      "score": 0.0935
+      "score": 0.1705
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 187.47,
+      "ret5": 0.0787,
+      "vol_surge": 1.35,
+      "rsi14": 50.0,
+      "score": 0.1529
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1141.0,
+      "ret5": -0.0131,
+      "vol_surge": 2.27,
+      "rsi14": 50.0,
+      "score": 0.1408
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2376.2,
+      "ret5": -0.0214,
+      "vol_surge": 2.31,
+      "rsi14": 50.0,
+      "score": 0.137
     },
     {
       "ticker": "BPCL.NS",
-      "close": 386.9,
-      "ret5": 0.0562,
-      "vol_surge": 0.28,
+      "close": 385.4,
+      "ret5": 0.0521,
+      "vol_surge": 1.42,
       "rsi14": 50.0,
-      "score": 0.0639
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5736.0,
-      "ret5": 0.0496,
-      "vol_surge": 0.2,
-      "rsi14": 50.0,
-      "score": 0.0531
-    },
-    {
-      "ticker": "EICHERMOT.NS",
-      "close": 8071.0,
-      "ret5": 0.0169,
-      "vol_surge": 0.43,
-      "rsi14": 50.0,
-      "score": 0.0421
-    },
-    {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1774.4,
-      "ret5": 0.029,
-      "vol_surge": 0.25,
-      "rsi14": 50.0,
-      "score": 0.0401
+      "score": 0.1363
     }
   ]
 }
