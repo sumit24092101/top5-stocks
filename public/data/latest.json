@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-02T05:02:42.301771Z",
+  "as_of_ist": "2026-03-03T05:01:06.729520Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 279.05,
-      "ret5": 0.0123,
-      "vol_surge": 1.7,
+      "close": 282.2,
+      "ret5": 0.0238,
+      "vol_surge": 3.23,
       "rsi14": 50.0,
-      "score": 0.123
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 179.68,
-      "ret5": 0.0182,
-      "vol_surge": 0.93,
-      "rsi14": 50.0,
-      "score": 0.0768
+      "score": 0.219
     },
     {
       "ticker": "BPCL.NS",
-      "close": 373.0,
-      "ret5": 0.0024,
-      "vol_surge": 0.86,
+      "close": 374.8,
+      "ret5": 0.0073,
+      "vol_surge": 2.3,
       "rsi14": 50.0,
-      "score": 0.0593
+      "score": 0.159
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5643.5,
-      "ret5": 0.0282,
-      "vol_surge": 0.33,
+      "ticker": "SUNPHARMA.NS",
+      "close": 1752.5,
+      "ret5": 0.0117,
+      "vol_surge": 1.72,
       "rsi14": 50.0,
-      "score": 0.0443
+      "score": 0.1242
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1258.4,
-      "ret5": 0.0144,
-      "vol_surge": 0.4,
+      "ticker": "LT.NS",
+      "close": 4066.7,
+      "ret5": -0.0795,
+      "vol_surge": 2.81,
       "rsi14": 50.0,
-      "score": 0.0381
+      "score": 0.1235
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 179.11,
+      "ret5": 0.015,
+      "vol_surge": 1.66,
+      "rsi14": 50.0,
+      "score": 0.1227
     }
   ]
 }
