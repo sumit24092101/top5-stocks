@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-03T05:01:06.729520Z",
+  "as_of_ist": "2026-03-04T04:54:26.825348Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 282.2,
+      "close": 281.5,
+      "ret5": 0.0181,
+      "vol_surge": 1.12,
+      "rsi14": 50.0,
+      "score": 0.0889
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 437.0,
+      "ret5": 0.014,
+      "vol_surge": 1.09,
+      "rsi14": 50.0,
+      "score": 0.0839
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1874.4,
+      "ret5": -0.0343,
+      "vol_surge": 1.03,
+      "rsi14": 50.0,
+      "score": 0.0411
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1309.6,
+      "ret5": 0.0267,
+      "vol_surge": 0.26,
+      "rsi14": 50.0,
+      "score": 0.0387
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1371.1,
       "ret5": 0.0238,
-      "vol_surge": 3.23,
+      "vol_surge": 0.26,
       "rsi14": 50.0,
-      "score": 0.219
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 374.8,
-      "ret5": 0.0073,
-      "vol_surge": 2.3,
-      "rsi14": 50.0,
-      "score": 0.159
-    },
-    {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1752.5,
-      "ret5": 0.0117,
-      "vol_surge": 1.72,
-      "rsi14": 50.0,
-      "score": 0.1242
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 4066.7,
-      "ret5": -0.0795,
-      "vol_surge": 2.81,
-      "rsi14": 50.0,
-      "score": 0.1235
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 179.11,
-      "ret5": 0.015,
-      "vol_surge": 1.66,
-      "rsi14": 50.0,
-      "score": 0.1227
+      "score": 0.0366
     }
   ]
 }
