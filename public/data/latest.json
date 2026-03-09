@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-08T04:56:25.366596Z",
+  "as_of_ist": "2026-03-09T05:08:11.300081Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1799.4,
-      "ret5": 0.0077,
-      "vol_surge": 1.74,
+      "ticker": "COALINDIA.NS",
+      "close": 443.55,
+      "ret5": 0.03,
+      "vol_surge": 0.88,
       "rsi14": 50.0,
-      "score": 0.1223
+      "score": 0.0825
     },
     {
-      "ticker": "GRASIM.NS",
-      "close": 2718.4,
-      "ret5": -0.0507,
-      "vol_surge": 2.14,
+      "ticker": "ONGC.NS",
+      "close": 274.6,
+      "ret5": -0.0182,
+      "vol_surge": 1.12,
       "rsi14": 50.0,
-      "score": 0.1024
+      "score": 0.0603
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "close": 1777.5,
+      "ret5": 0.0233,
+      "vol_surge": 0.61,
+      "rsi14": 50.0,
+      "score": 0.0592
     },
     {
       "ticker": "RELIANCE.NS",
-      "close": 1404.8,
-      "ret5": -0.0014,
-      "vol_surge": 1.5,
+      "close": 1402.7,
+      "ret5": 0.0063,
+      "vol_surge": 0.8,
       "rsi14": 50.0,
-      "score": 0.0992
+      "score": 0.0583
     },
     {
-      "ticker": "COALINDIA.NS",
-      "close": 440.45,
-      "ret5": 0.016,
-      "vol_surge": 1.21,
+      "ticker": "DRREDDY.NS",
+      "close": 1285.3,
+      "ret5": -0.0008,
+      "vol_surge": 0.57,
       "rsi14": 50.0,
-      "score": 0.0935
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1315.8,
-      "ret5": -0.0571,
-      "vol_surge": 2.08,
-      "rsi14": 50.0,
-      "score": 0.0932
+      "score": 0.0376
     }
   ]
 }
