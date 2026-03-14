@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-13T04:58:54.147918Z",
+  "as_of_ist": "2026-03-14T04:56:35.060138Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "COALINDIA.NS",
-      "close": 466.45,
-      "ret5": 0.059,
-      "vol_surge": 0.67,
+      "close": 467.0,
+      "ret5": 0.0603,
+      "vol_surge": 1.74,
       "rsi14": 50.0,
-      "score": 0.0921
+      "score": 0.1641
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1083.6,
+      "ret5": -0.0296,
+      "vol_surge": 2.82,
+      "rsi14": 50.0,
+      "score": 0.164
     },
     {
       "ticker": "NTPC.NS",
-      "close": 388.3,
-      "ret5": 0.0202,
-      "vol_surge": 0.63,
+      "close": 384.45,
+      "ret5": 0.0101,
+      "vol_surge": 2.11,
       "rsi14": 50.0,
-      "score": 0.0585
-    },
-    {
-      "ticker": "POWERGRID.NS",
-      "close": 303.5,
-      "ret5": 0.0145,
-      "vol_surge": 0.41,
-      "rsi14": 50.0,
-      "score": 0.0388
+      "score": 0.1487
     },
     {
       "ticker": "BRITANNIA.NS",
-      "close": 5846.0,
-      "ret5": -0.0229,
-      "vol_surge": 0.8,
+      "close": 5808.5,
+      "ret5": -0.0292,
+      "vol_surge": 2.4,
       "rsi14": 50.0,
-      "score": 0.035
+      "score": 0.1365
     },
     {
-      "ticker": "WIPRO.NS",
-      "close": 201.22,
-      "ret5": 0.0298,
-      "vol_surge": 0.15,
+      "ticker": "POWERGRID.NS",
+      "close": 300.95,
+      "ret5": 0.006,
+      "vol_surge": 1.49,
       "rsi14": 50.0,
-      "score": 0.0336
+      "score": 0.1041
     }
   ]
 }
