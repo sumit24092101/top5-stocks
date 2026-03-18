@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-17T05:08:56.680731Z",
+  "as_of_ist": "2026-03-18T05:13:01.233762Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "COALINDIA.NS",
-      "close": 463.2,
-      "ret5": 0.0584,
-      "vol_surge": 0.25,
+      "ticker": "TECHM.NS",
+      "close": 1391.7,
+      "ret5": 0.0429,
+      "vol_surge": 0.32,
       "rsi14": 50.0,
-      "score": 0.0631
+      "score": 0.0556
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 191.78,
-      "ret5": 0.004,
-      "vol_surge": 0.38,
-      "rsi14": 50.0,
-      "score": 0.0286
-    },
-    {
-      "ticker": "SBILIFE.NS",
-      "close": 1920.1,
-      "ret5": 0.004,
-      "vol_surge": 0.34,
-      "rsi14": 50.0,
-      "score": 0.0261
-    },
-    {
-      "ticker": "NTPC.NS",
-      "close": 382.75,
-      "ret5": 0.0173,
-      "vol_surge": 0.14,
-      "rsi14": 50.0,
-      "score": 0.0234
-    },
-    {
-      "ticker": "ITC.NS",
-      "close": 305.65,
-      "ret5": -0.0011,
+      "ticker": "ADANIENT.NS",
+      "close": 2005.7,
+      "ret5": 0.0157,
       "vol_surge": 0.36,
       "rsi14": 50.0,
-      "score": 0.023
+      "score": 0.0369
+    },
+    {
+      "ticker": "M&M.NS",
+      "close": 3209.4,
+      "ret5": 0.013,
+      "vol_surge": 0.39,
+      "rsi14": 50.0,
+      "score": 0.0362
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1857.0,
+      "ret5": 0.0277,
+      "vol_surge": 0.15,
+      "rsi14": 50.0,
+      "score": 0.0323
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1372.0,
+      "ret5": 0.0161,
+      "vol_surge": 0.25,
+      "rsi14": 50.0,
+      "score": 0.0297
     }
   ]
 }
