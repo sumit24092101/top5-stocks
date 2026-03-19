@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-18T05:13:01.233762Z",
+  "as_of_ist": "2026-03-19T05:09:50.527097Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TECHM.NS",
-      "close": 1391.7,
-      "ret5": 0.0429,
-      "vol_surge": 0.32,
+      "ticker": "HDFCBANK.NS",
+      "close": 804.95,
+      "ret5": -0.0334,
+      "vol_surge": 2.48,
       "rsi14": 50.0,
-      "score": 0.0556
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2005.7,
-      "ret5": 0.0157,
-      "vol_surge": 0.36,
-      "rsi14": 50.0,
-      "score": 0.0369
+      "score": 0.1387
     },
     {
       "ticker": "M&M.NS",
-      "close": 3209.4,
-      "ret5": 0.013,
-      "vol_surge": 0.39,
+      "close": 3136.4,
+      "ret5": 0.0347,
+      "vol_surge": 0.2,
       "rsi14": 50.0,
-      "score": 0.0362
+      "score": 0.041
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "close": 2644.4,
+      "ret5": -0.0107,
+      "vol_surge": 0.72,
+      "rsi14": 50.0,
+      "score": 0.0392
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1217.6,
+      "ret5": -0.0137,
+      "vol_surge": 0.61,
+      "rsi14": 50.0,
+      "score": 0.0295
     },
     {
       "ticker": "BHARTIARTL.NS",
-      "close": 1857.0,
-      "ret5": 0.0277,
-      "vol_surge": 0.15,
+      "close": 1850.9,
+      "ret5": 0.0275,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.0323
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1372.0,
-      "ret5": 0.0161,
-      "vol_surge": 0.25,
-      "rsi14": 50.0,
-      "score": 0.0297
+      "score": 0.0283
     }
   ]
 }
