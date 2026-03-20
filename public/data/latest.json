@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-19T05:09:50.527097Z",
+  "as_of_ist": "2026-03-20T05:02:23.692005Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 804.95,
-      "ret5": -0.0334,
-      "vol_surge": 2.48,
+      "ticker": "TATASTEEL.NS",
+      "close": 197.98,
+      "ret5": 0.0789,
+      "vol_surge": 0.35,
       "rsi14": 50.0,
-      "score": 0.1387
+      "score": 0.0867
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1171.7,
+      "ret5": 0.0468,
+      "vol_surge": 0.27,
+      "rsi14": 50.0,
+      "score": 0.0556
     },
     {
       "ticker": "M&M.NS",
-      "close": 3136.4,
-      "ret5": 0.0347,
-      "vol_surge": 0.2,
+      "close": 3054.9,
+      "ret5": 0.0422,
+      "vol_surge": 0.24,
       "rsi14": 50.0,
-      "score": 0.041
+      "score": 0.0496
     },
     {
-      "ticker": "GRASIM.NS",
-      "close": 2644.4,
-      "ret5": -0.0107,
-      "vol_surge": 0.72,
+      "ticker": "TECHM.NS",
+      "close": 1386.3,
+      "ret5": 0.0401,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.0392
+      "score": 0.0473
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1217.6,
-      "ret5": -0.0137,
-      "vol_surge": 0.61,
+      "ticker": "RELIANCE.NS",
+      "close": 1426.9,
+      "ret5": 0.0335,
+      "vol_surge": 0.27,
       "rsi14": 50.0,
-      "score": 0.0295
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1850.9,
-      "ret5": 0.0275,
-      "vol_surge": 0.09,
-      "rsi14": 50.0,
-      "score": 0.0283
+      "score": 0.0448
     }
   ]
 }
