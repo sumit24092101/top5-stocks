@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-22T05:07:42.124389Z",
+  "as_of_ist": "2026-03-23T05:19:32.133663Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ITC.NS",
-      "close": 299.95,
-      "ret5": -0.005,
-      "vol_surge": 2.82,
+      "ticker": "TECHM.NS",
+      "close": 1391.5,
+      "ret5": 0.0388,
+      "vol_surge": 0.27,
       "rsi14": 50.0,
-      "score": 0.1837
+      "score": 0.0493
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1169.6,
-      "ret5": 0.0449,
-      "vol_surge": 2.09,
+      "ticker": "ONGC.NS",
+      "close": 267.0,
+      "ret5": 0.0251,
+      "vol_surge": 0.4,
       "rsi14": 50.0,
-      "score": 0.175
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5275.5,
-      "ret5": 0.0133,
-      "vol_surge": 2.07,
-      "rsi14": 50.0,
-      "score": 0.1485
+      "score": 0.0466
     },
     {
       "ticker": "TATASTEEL.NS",
-      "close": 196.77,
-      "ret5": 0.0723,
-      "vol_surge": 1.33,
+      "close": 188.07,
+      "ret5": 0.006,
+      "vol_surge": 0.53,
       "rsi14": 50.0,
-      "score": 0.1466
+      "score": 0.0404
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1255.9,
-      "ret5": 0.0061,
-      "vol_surge": 2.07,
+      "ticker": "HCLTECH.NS",
+      "close": 1347.6,
+      "ret5": 0.0143,
+      "vol_surge": 0.41,
       "rsi14": 50.0,
-      "score": 0.143
+      "score": 0.0388
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2401.3,
+      "ret5": -0.0033,
+      "vol_surge": 0.42,
+      "rsi14": 50.0,
+      "score": 0.0251
     }
   ]
 }
