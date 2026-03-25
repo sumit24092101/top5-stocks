@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-24T05:10:22.995152Z",
+  "as_of_ist": "2026-03-25T05:11:21.760424Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TECHM.NS",
-      "close": 1401.0,
-      "ret5": 0.0441,
-      "vol_surge": 0.52,
+      "close": 1416.8,
+      "ret5": 0.0228,
+      "vol_surge": 0.85,
       "rsi14": 50.0,
-      "score": 0.0699
+      "score": 0.0752
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1371.0,
-      "ret5": 0.0378,
-      "vol_surge": 0.27,
+      "close": 1382.1,
+      "ret5": 0.0183,
+      "vol_surge": 0.42,
       "rsi14": 50.0,
-      "score": 0.048
+      "score": 0.0425
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1268.4,
-      "ret5": 0.0288,
-      "vol_surge": 0.24,
+      "ticker": "LT.NS",
+      "close": 3616.7,
+      "ret5": 0.0024,
+      "vol_surge": 0.43,
       "rsi14": 50.0,
-      "score": 0.0388
+      "score": 0.0307
     },
     {
-      "ticker": "ONGC.NS",
-      "close": 270.45,
-      "ret5": 0.0215,
-      "vol_surge": 0.23,
+      "ticker": "BAJFINANCE.NS",
+      "close": 877.65,
+      "ret5": -0.0028,
+      "vol_surge": 0.48,
       "rsi14": 50.0,
-      "score": 0.0327
+      "score": 0.03
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1409.0,
-      "ret5": 0.0082,
-      "vol_surge": 0.19,
+      "ticker": "EICHERMOT.NS",
+      "close": 7050.0,
+      "ret5": 0.0032,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.0195
+      "score": 0.0279
     }
   ]
 }
