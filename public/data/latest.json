@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-25T05:11:21.760424Z",
+  "as_of_ist": "2026-03-26T05:19:56.823023Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "TECHM.NS",
-      "close": 1416.8,
-      "ret5": 0.0228,
-      "vol_surge": 0.85,
+      "close": 1408.5,
+      "ret5": 0.0168,
+      "vol_surge": 2.24,
       "rsi14": 50.0,
-      "score": 0.0752
+      "score": 0.1625
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1382.1,
-      "ret5": 0.0183,
-      "vol_surge": 0.42,
+      "ticker": "KOTAKBANK.NS",
+      "close": 371.1,
+      "ret5": -0.0115,
+      "vol_surge": 2.08,
       "rsi14": 50.0,
-      "score": 0.0425
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 3616.7,
-      "ret5": 0.0024,
-      "vol_surge": 0.43,
-      "rsi14": 50.0,
-      "score": 0.0307
+      "score": 0.1293
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": 877.65,
-      "ret5": -0.0028,
-      "vol_surge": 0.48,
+      "close": 882.75,
+      "ret5": 0.003,
+      "vol_surge": 1.57,
       "rsi14": 50.0,
-      "score": 0.03
+      "score": 0.1073
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7050.0,
-      "ret5": 0.0032,
-      "vol_surge": 0.38,
+      "ticker": "HCLTECH.NS",
+      "close": 1381.3,
+      "ret5": 0.0178,
+      "vol_surge": 1.29,
       "rsi14": 50.0,
-      "score": 0.0279
+      "score": 0.1001
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2377.4,
+      "ret5": -0.026,
+      "vol_surge": 1.63,
+      "rsi14": 50.0,
+      "score": 0.0877
     }
   ]
 }
