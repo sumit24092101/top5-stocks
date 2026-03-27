@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-26T05:19:56.823023Z",
+  "as_of_ist": "2026-03-27T05:21:26.519497Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TECHM.NS",
-      "close": 1408.5,
-      "ret5": 0.0168,
-      "vol_surge": 2.24,
-      "rsi14": 50.0,
-      "score": 0.1625
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "close": 371.1,
-      "ret5": -0.0115,
-      "vol_surge": 2.08,
-      "rsi14": 50.0,
-      "score": 0.1293
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": 882.75,
-      "ret5": 0.003,
-      "vol_surge": 1.57,
-      "rsi14": 50.0,
-      "score": 0.1073
-    },
-    {
       "ticker": "HCLTECH.NS",
-      "close": 1381.3,
-      "ret5": 0.0178,
-      "vol_surge": 1.29,
+      "close": 1383.9,
+      "ret5": 0.055,
+      "vol_surge": 0.64,
       "rsi14": 50.0,
-      "score": 0.1001
+      "score": 0.0869
     },
     {
-      "ticker": "TCS.NS",
-      "close": 2377.4,
-      "ret5": -0.026,
-      "vol_surge": 1.63,
+      "ticker": "BPCL.NS",
+      "close": 283.0,
+      "ret5": -0.0105,
+      "vol_surge": 1.09,
       "rsi14": 50.0,
-      "score": 0.0877
+      "score": 0.0642
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1399.6,
+      "ret5": 0.044,
+      "vol_surge": 0.37,
+      "rsi14": 50.0,
+      "score": 0.06
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1275.5,
+      "ret5": 0.0448,
+      "vol_surge": 0.3,
+      "rsi14": 50.0,
+      "score": 0.0555
+    },
+    {
+      "ticker": "ONGC.NS",
+      "close": 276.8,
+      "ret5": 0.0286,
+      "vol_surge": 0.48,
+      "rsi14": 50.0,
+      "score": 0.0548
     }
   ]
 }
