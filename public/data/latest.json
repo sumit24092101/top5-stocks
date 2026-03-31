@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-30T05:36:54.692864Z",
+  "as_of_ist": "2026-03-31T05:23:51.817409Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 285.4,
-      "ret5": 0.0754,
-      "vol_surge": 0.79,
+      "close": 284.65,
+      "ret5": 0.0725,
+      "vol_surge": 1.51,
       "rsi14": 50.0,
-      "score": 0.1131
+      "score": 0.1587
     },
     {
-      "ticker": "TCS.NS",
-      "close": 2362.9,
-      "ret5": -0.0116,
-      "vol_surge": 0.81,
+      "ticker": "SHREECEM.NS",
+      "close": 23020.0,
+      "ret5": -0.0219,
+      "vol_surge": 2.13,
       "rsi14": 50.0,
-      "score": 0.0448
+      "score": 0.1243
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "close": 1161.3,
+      "ret5": -0.0354,
+      "vol_surge": 2.27,
+      "rsi14": 50.0,
+      "score": 0.1231
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1344.2,
-      "ret5": 0.0079,
-      "vol_surge": 0.57,
+      "close": 1341.6,
+      "ret5": 0.0059,
+      "vol_surge": 1.56,
       "rsi14": 50.0,
-      "score": 0.0442
+      "score": 0.1086
     },
     {
-      "ticker": "LT.NS",
-      "close": 3512.9,
-      "ret5": 0.0227,
-      "vol_surge": 0.31,
+      "ticker": "TCS.NS",
+      "close": 2358.9,
+      "ret5": -0.0133,
+      "vol_surge": 1.78,
       "rsi14": 50.0,
-      "score": 0.0391
-    },
-    {
-      "ticker": "WIPRO.NS",
-      "close": 190.53,
-      "ret5": -0.0019,
-      "vol_surge": 0.51,
-      "rsi14": 50.0,
-      "score": 0.0327
+      "score": 0.1079
     }
   ]
 }
