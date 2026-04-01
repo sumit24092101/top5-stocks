@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-03-31T05:23:51.817409Z",
+  "as_of_ist": "2026-04-01T05:34:32.738477Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 284.65,
-      "ret5": 0.0725,
-      "vol_surge": 1.51,
+      "close": 289.1,
+      "ret5": 0.0891,
+      "vol_surge": 0.6,
       "rsi14": 50.0,
-      "score": 0.1587
+      "score": 0.1116
     },
     {
-      "ticker": "SHREECEM.NS",
-      "close": 23020.0,
-      "ret5": -0.0219,
-      "vol_surge": 2.13,
+      "ticker": "LT.NS",
+      "close": 3616.9,
+      "ret5": 0.0821,
+      "vol_surge": 0.32,
       "rsi14": 50.0,
-      "score": 0.1243
+      "score": 0.0871
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1161.3,
-      "ret5": -0.0354,
-      "vol_surge": 2.27,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1377.6,
+      "ret5": 0.0568,
+      "vol_surge": 0.5,
       "rsi14": 50.0,
-      "score": 0.1231
+      "score": 0.0787
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1341.6,
-      "ret5": 0.0059,
-      "vol_surge": 1.56,
+      "ticker": "TITAN.NS",
+      "close": 4080.5,
+      "ret5": 0.059,
+      "vol_surge": 0.36,
       "rsi14": 50.0,
-      "score": 0.1086
+      "score": 0.071
     },
     {
-      "ticker": "TCS.NS",
-      "close": 2358.9,
-      "ret5": -0.0133,
-      "vol_surge": 1.78,
+      "ticker": "TATASTEEL.NS",
+      "close": 197.3,
+      "ret5": 0.0541,
+      "vol_surge": 0.37,
       "rsi14": 50.0,
-      "score": 0.1079
+      "score": 0.068
     }
   ]
 }
