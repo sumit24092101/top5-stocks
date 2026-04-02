@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-01T05:34:32.738477Z",
+  "as_of_ist": "2026-04-02T05:18:40.164179Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ONGC.NS",
-      "close": 289.1,
-      "ret5": 0.0891,
-      "vol_surge": 0.6,
-      "rsi14": 50.0,
-      "score": 0.1116
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 3616.9,
-      "ret5": 0.0821,
+      "close": 284.8,
+      "ret5": 0.0625,
       "vol_surge": 0.32,
-      "rsi14": 50.0,
-      "score": 0.0871
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1377.6,
-      "ret5": 0.0568,
-      "vol_surge": 0.5,
-      "rsi14": 50.0,
-      "score": 0.0787
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 4080.5,
-      "ret5": 0.059,
-      "vol_surge": 0.36,
       "rsi14": 50.0,
       "score": 0.071
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 197.3,
-      "ret5": 0.0541,
-      "vol_surge": 0.37,
+      "ticker": "TITAN.NS",
+      "close": 3974.9,
+      "ret5": 0.0193,
+      "vol_surge": 0.25,
       "rsi14": 50.0,
-      "score": 0.068
+      "score": 0.0323
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2413.6,
+      "ret5": 0.0062,
+      "vol_surge": 0.31,
+      "rsi14": 50.0,
+      "score": 0.0259
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1342.2,
+      "ret5": -0.0015,
+      "vol_surge": 0.35,
+      "rsi14": 50.0,
+      "score": 0.022
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 5736.5,
+      "ret5": -0.048,
+      "vol_surge": 0.88,
+      "rsi14": 50.0,
+      "score": 0.02
     }
   ]
 }
