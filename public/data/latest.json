@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-05T05:24:30.773307Z",
+  "as_of_ist": "2026-04-06T05:36:59.564799Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "WIPRO.NS",
+      "close": 196.93,
+      "ret5": 0.0417,
+      "vol_surge": 0.59,
+      "rsi14": 50.0,
+      "score": 0.0726
+    },
+    {
       "ticker": "TITAN.NS",
-      "close": 4097.2,
-      "ret5": 0.0507,
-      "vol_surge": 1.65,
+      "close": 4177.7,
+      "ret5": 0.0343,
+      "vol_surge": 0.56,
       "rsi14": 50.0,
-      "score": 0.1504
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1402.2,
-      "ret5": 0.021,
-      "vol_surge": 1.88,
-      "rsi14": 50.0,
-      "score": 0.1419
-    },
-    {
-      "ticker": "CIPLA.NS",
-      "close": 1192.4,
-      "ret5": -0.0221,
-      "vol_surge": 1.97,
-      "rsi14": 50.0,
-      "score": 0.1135
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 2450.7,
-      "ret5": 0.0216,
-      "vol_surge": 1.39,
-      "rsi14": 50.0,
-      "score": 0.1097
+      "score": 0.0649
     },
     {
       "ticker": "ONGC.NS",
-      "close": 287.2,
-      "ret5": 0.0714,
-      "vol_surge": 0.74,
+      "close": 282.25,
+      "ret5": 0.0446,
+      "vol_surge": 0.23,
       "rsi14": 50.0,
-      "score": 0.1068
+      "score": 0.0507
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1452.0,
+      "ret5": 0.0309,
+      "vol_surge": 0.39,
+      "rsi14": 50.0,
+      "score": 0.0504
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 458.1,
+      "ret5": 0.0325,
+      "vol_surge": 0.36,
+      "rsi14": 50.0,
+      "score": 0.0502
     }
   ]
 }
