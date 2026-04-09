@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-08T05:25:40.898885Z",
+  "as_of_ist": "2026-04-09T05:26:18.991200Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TITAN.NS",
-      "close": 4473.3,
-      "ret5": 0.1321,
-      "vol_surge": 1.98,
-      "rsi14": 50.0,
-      "score": 0.2376
-    },
-    {
       "ticker": "ADANIENT.NS",
-      "close": 2059.5,
-      "ret5": 0.171,
-      "vol_surge": 1.08,
+      "close": 2037.0,
+      "ret5": 0.1056,
+      "vol_surge": 0.33,
       "rsi14": 50.0,
-      "score": 0.2089
+      "score": 0.1068
     },
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1467.0,
-      "ret5": 0.1176,
-      "vol_surge": 1.53,
+      "ticker": "BAJFINANCE.NS",
+      "close": 908.45,
+      "ret5": 0.1115,
+      "vol_surge": 0.26,
       "rsi14": 50.0,
-      "score": 0.1963
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 3981.0,
-      "ret5": 0.1361,
-      "vol_surge": 0.88,
-      "rsi14": 50.0,
-      "score": 0.1677
+      "score": 0.1064
     },
     {
       "ticker": "AXISBANK.NS",
-      "close": 1321.9,
-      "ret5": 0.1383,
-      "vol_surge": 0.76,
+      "close": 1331.7,
+      "ret5": 0.1162,
+      "vol_surge": 0.19,
       "rsi14": 50.0,
-      "score": 0.1616
+      "score": 0.1054
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 4451.0,
+      "ret5": 0.0948,
+      "vol_surge": 0.27,
+      "rsi14": 50.0,
+      "score": 0.094
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 645.8,
+      "ret5": 0.0863,
+      "vol_surge": 0.37,
+      "rsi14": 50.0,
+      "score": 0.0935
     }
   ]
 }
