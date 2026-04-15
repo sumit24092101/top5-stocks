@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-14T05:35:38.126195Z",
+  "as_of_ist": "2026-04-15T05:35:55.603935Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ADANIENT.NS",
-      "close": 2129.0,
-      "ret5": 0.1192,
-      "vol_surge": 1.44,
+      "close": 2176.0,
+      "ret5": 0.1562,
+      "vol_surge": 0.4,
       "rsi14": 50.0,
-      "score": 0.1917
+      "score": 0.1517
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1351.1,
-      "ret5": 0.0972,
-      "vol_surge": 1.5,
+      "ticker": "BPCL.NS",
+      "close": 306.85,
+      "ret5": 0.106,
+      "vol_surge": 0.71,
       "rsi14": 50.0,
-      "score": 0.1779
+      "score": 0.1323
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7050.0,
-      "ret5": 0.0688,
-      "vol_surge": 1.61,
+      "ticker": "SHREECEM.NS",
+      "close": 24900.0,
+      "ret5": 0.0664,
+      "vol_surge": 1.06,
       "rsi14": 50.0,
-      "score": 0.1627
+      "score": 0.124
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 13076.0,
-      "ret5": 0.0306,
-      "vol_surge": 1.93,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9932.0,
+      "ret5": 0.0975,
+      "vol_surge": 0.67,
       "rsi14": 50.0,
-      "score": 0.1532
+      "score": 0.1229
     },
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 619.1,
-      "ret5": 0.0667,
-      "vol_surge": 1.31,
+      "close": 639.15,
+      "ret5": 0.0988,
+      "vol_surge": 0.57,
       "rsi14": 50.0,
-      "score": 0.1405
+      "score": 0.1171
     }
   ]
 }
