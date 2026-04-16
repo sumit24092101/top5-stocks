@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-15T05:35:55.603935Z",
+  "as_of_ist": "2026-04-16T05:41:09.123371Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "POWERGRID.NS",
+      "close": 314.05,
+      "ret5": 0.0651,
+      "vol_surge": 0.52,
+      "rsi14": 50.0,
+      "score": 0.0867
+    },
+    {
       "ticker": "ADANIENT.NS",
-      "close": 2176.0,
-      "ret5": 0.1562,
-      "vol_surge": 0.4,
+      "close": 2183.0,
+      "ret5": 0.0681,
+      "vol_surge": 0.43,
       "rsi14": 50.0,
-      "score": 0.1517
+      "score": 0.0833
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 306.85,
-      "ret5": 0.106,
-      "vol_surge": 0.71,
+      "ticker": "WIPRO.NS",
+      "close": 209.43,
+      "ret5": 0.0295,
+      "vol_surge": 0.87,
       "rsi14": 50.0,
-      "score": 0.1323
-    },
-    {
-      "ticker": "SHREECEM.NS",
-      "close": 24900.0,
-      "ret5": 0.0664,
-      "vol_surge": 1.06,
-      "rsi14": 50.0,
-      "score": 0.124
-    },
-    {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 9932.0,
-      "ret5": 0.0975,
-      "vol_surge": 0.67,
-      "rsi14": 50.0,
-      "score": 0.1229
+      "score": 0.0815
     },
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 639.15,
-      "ret5": 0.0988,
-      "vol_surge": 0.57,
+      "close": 642.3,
+      "ret5": 0.0735,
+      "vol_surge": 0.25,
       "rsi14": 50.0,
-      "score": 0.1171
+      "score": 0.0754
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 6267.5,
+      "ret5": 0.0655,
+      "vol_surge": 0.32,
+      "rsi14": 50.0,
+      "score": 0.0739
     }
   ]
 }
