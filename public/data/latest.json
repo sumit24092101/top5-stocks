@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-17T05:38:43.027596Z",
+  "as_of_ist": "2026-04-18T05:21:31.371633Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "WIPRO.NS",
-      "close": 204.35,
-      "ret5": 0.0073,
-      "vol_surge": 1.91,
+      "close": 204.32,
+      "ret5": 0.0071,
+      "vol_surge": 3.18,
       "rsi14": 50.0,
-      "score": 0.1331
+      "score": 0.2057
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1568.7,
-      "ret5": 0.0838,
-      "vol_surge": 0.58,
+      "close": 1573.4,
+      "ret5": 0.0871,
+      "vol_surge": 1.66,
       "rsi14": 50.0,
-      "score": 0.1054
+      "score": 0.1806
     },
     {
       "ticker": "HINDUNILVR.NS",
-      "close": 2226.0,
-      "ret5": 0.0435,
-      "vol_surge": 0.94,
+      "close": 2240.8,
+      "ret5": 0.0504,
+      "vol_surge": 2.08,
       "rsi14": 50.0,
-      "score": 0.0972
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2195.9,
-      "ret5": 0.0762,
-      "vol_surge": 0.48,
-      "rsi14": 50.0,
-      "score": 0.0929
+      "score": 0.1793
     },
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 613.0,
-      "ret5": 0.0369,
-      "vol_surge": 0.94,
+      "close": 616.45,
+      "ret5": 0.0427,
+      "vol_surge": 1.76,
       "rsi14": 50.0,
-      "score": 0.0925
+      "score": 0.1517
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "close": 1285.6,
+      "ret5": 0.0463,
+      "vol_surge": 1.43,
+      "rsi14": 50.0,
+      "score": 0.1325
     }
   ]
 }
