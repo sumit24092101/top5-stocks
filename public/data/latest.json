@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-20T06:00:01.134937Z",
+  "as_of_ist": "2026-04-21T05:38:32.752614Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "SBILIFE.NS",
+      "close": 1907.3,
+      "ret5": -0.0037,
+      "vol_surge": 1.93,
+      "rsi14": 50.0,
+      "score": 0.1259
+    },
+    {
       "ticker": "ADANIPORTS.NS",
-      "close": 1581.5,
-      "ret5": 0.072,
-      "vol_surge": 0.24,
+      "close": 1608.6,
+      "ret5": 0.0978,
+      "vol_surge": 0.58,
       "rsi14": 50.0,
-      "score": 0.0736
+      "score": 0.1169
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2227.0,
-      "ret5": 0.0672,
-      "vol_surge": 0.2,
+      "ticker": "ASIANPAINT.NS",
+      "close": 2575.0,
+      "ret5": 0.0946,
+      "vol_surge": 0.57,
       "rsi14": 50.0,
-      "score": 0.0671
+      "score": 0.1135
     },
     {
-      "ticker": "POWERGRID.NS",
-      "close": 320.1,
-      "ret5": 0.0573,
-      "vol_surge": 0.17,
+      "ticker": "NESTLEIND.NS",
+      "close": 1304.4,
+      "ret5": 0.0639,
+      "vol_surge": 0.6,
       "rsi14": 50.0,
-      "score": 0.057
+      "score": 0.0912
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1373.0,
-      "ret5": 0.0387,
-      "vol_surge": 0.38,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1291.3,
+      "ret5": 0.0723,
+      "vol_surge": 0.44,
       "rsi14": 50.0,
-      "score": 0.0565
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 1107.35,
-      "ret5": 0.0381,
-      "vol_surge": 0.32,
-      "rsi14": 50.0,
-      "score": 0.0515
+      "score": 0.0873
     }
   ]
 }
