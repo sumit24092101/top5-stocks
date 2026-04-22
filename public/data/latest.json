@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-21T05:38:32.752614Z",
+  "as_of_ist": "2026-04-22T05:37:33.877989Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SBILIFE.NS",
-      "close": 1907.3,
-      "ret5": -0.0037,
-      "vol_surge": 1.93,
-      "rsi14": 50.0,
-      "score": 0.1259
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1608.6,
-      "ret5": 0.0978,
-      "vol_surge": 0.58,
-      "rsi14": 50.0,
-      "score": 0.1169
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2575.0,
-      "ret5": 0.0946,
-      "vol_surge": 0.57,
-      "rsi14": 50.0,
-      "score": 0.1135
-    },
-    {
       "ticker": "NESTLEIND.NS",
-      "close": 1304.4,
-      "ret5": 0.0639,
-      "vol_surge": 0.6,
+      "close": 1415.1,
+      "ret5": 0.1261,
+      "vol_surge": 2.62,
       "rsi14": 50.0,
-      "score": 0.0912
+      "score": 0.2754
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1291.3,
-      "ret5": 0.0723,
-      "vol_surge": 0.44,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2367.2,
+      "ret5": 0.0971,
+      "vol_surge": 0.75,
       "rsi14": 50.0,
-      "score": 0.0873
+      "score": 0.1277
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1304.4,
+      "ret5": -0.1012,
+      "vol_surge": 3.79,
+      "rsi14": 50.0,
+      "score": 0.119
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1177.3,
+      "ret5": 0.0759,
+      "vol_surge": 0.77,
+      "rsi14": 50.0,
+      "score": 0.112
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": 2231.9,
+      "ret5": 0.0408,
+      "vol_surge": 0.43,
+      "rsi14": 50.0,
+      "score": 0.0611
     }
   ]
 }
