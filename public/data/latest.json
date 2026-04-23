@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-22T05:37:33.877989Z",
+  "as_of_ist": "2026-04-23T05:41:46.289275Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "NESTLEIND.NS",
-      "close": 1415.1,
-      "ret5": 0.1261,
-      "vol_surge": 2.62,
+      "ticker": "DRREDDY.NS",
+      "close": 1299.2,
+      "ret5": 0.0637,
+      "vol_surge": 2.36,
       "rsi14": 50.0,
-      "score": 0.2754
+      "score": 0.208
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "close": 1403.9,
+      "ret5": 0.1165,
+      "vol_surge": 0.62,
+      "rsi14": 50.0,
+      "score": 0.1343
     },
     {
       "ticker": "HINDUNILVR.NS",
-      "close": 2367.2,
-      "ret5": 0.0971,
-      "vol_surge": 0.75,
+      "close": 2362.4,
+      "ret5": 0.1044,
+      "vol_surge": 0.33,
       "rsi14": 50.0,
-      "score": 0.1277
+      "score": 0.1053
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1304.4,
-      "ret5": -0.1012,
-      "vol_surge": 3.79,
+      "ticker": "CIPLA.NS",
+      "close": 1276.3,
+      "ret5": 0.0372,
+      "vol_surge": 1.08,
       "rsi14": 50.0,
-      "score": 0.119
+      "score": 0.1015
     },
     {
       "ticker": "TATACONSUM.NS",
-      "close": 1177.3,
-      "ret5": 0.0759,
-      "vol_surge": 0.77,
+      "close": 1177.7,
+      "ret5": 0.0681,
+      "vol_surge": 0.22,
       "rsi14": 50.0,
-      "score": 0.112
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2231.9,
-      "ret5": 0.0408,
-      "vol_surge": 0.43,
-      "rsi14": 50.0,
-      "score": 0.0611
+      "score": 0.0691
     }
   ]
 }
