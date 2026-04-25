@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-24T05:53:56.420979Z",
+  "as_of_ist": "2026-04-25T05:26:34.287853Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "NESTLEIND.NS",
-      "close": 1415.1,
-      "ret5": 0.1007,
-      "vol_surge": 0.68,
+      "close": 1421.3,
+      "ret5": 0.1056,
+      "vol_surge": 1.46,
       "rsi14": 50.0,
-      "score": 0.1258
+      "score": 0.182
     },
     {
       "ticker": "DRREDDY.NS",
-      "close": 1324.0,
-      "ret5": 0.0715,
-      "vol_surge": 0.84,
+      "close": 1317.1,
+      "ret5": 0.0659,
+      "vol_surge": 1.82,
       "rsi14": 50.0,
-      "score": 0.1131
+      "score": 0.1738
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1287.0,
-      "ret5": 0.0372,
-      "vol_surge": 1.18,
+      "close": 1295.0,
+      "ret5": 0.0437,
+      "vol_surge": 2.03,
       "rsi14": 50.0,
-      "score": 0.1081
+      "score": 0.17
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "close": 1620.4,
+      "ret5": -0.0329,
+      "vol_surge": 2.52,
+      "rsi14": 50.0,
+      "score": 0.1418
     },
     {
       "ticker": "COALINDIA.NS",
-      "close": 455.75,
-      "ret5": 0.0387,
-      "vol_surge": 0.73,
+      "close": 456.0,
+      "ret5": 0.0393,
+      "vol_surge": 1.23,
       "rsi14": 50.0,
-      "score": 0.0795
-    },
-    {
-      "ticker": "TATACONSUM.NS",
-      "close": 1172.7,
-      "ret5": 0.0534,
-      "vol_surge": 0.39,
-      "rsi14": 50.0,
-      "score": 0.0685
+      "score": 0.1134
     }
   ]
 }
