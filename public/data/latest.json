@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-29T06:11:16.617576Z",
+  "as_of_ist": "2026-04-30T06:15:18.665057Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1346.2,
-      "ret5": 0.1062,
-      "vol_surge": 0.75,
+      "ticker": "BAJFINANCE.NS",
+      "close": 943.95,
+      "ret5": 0.0279,
+      "vol_surge": 1.83,
       "rsi14": 50.0,
-      "score": 0.1352
+      "score": 0.1441
     },
     {
       "ticker": "COALINDIA.NS",
-      "close": 482.45,
-      "ret5": 0.0862,
-      "vol_surge": 0.83,
+      "close": 485.55,
+      "ret5": 0.0774,
+      "vol_surge": 0.73,
       "rsi14": 50.0,
-      "score": 0.1244
+      "score": 0.1108
     },
     {
-      "ticker": "ONGC.NS",
-      "close": 304.8,
-      "ret5": 0.0746,
-      "vol_surge": 0.83,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 9750.0,
+      "ret5": 0.0209,
+      "vol_surge": 1.32,
       "rsi14": 50.0,
-      "score": 0.1148
+      "score": 0.1044
     },
     {
       "ticker": "ADANIENT.NS",
-      "close": 2396.3,
-      "ret5": 0.0599,
-      "vol_surge": 0.69,
+      "close": 2365.0,
+      "ret5": 0.0283,
+      "vol_surge": 0.73,
       "rsi14": 50.0,
-      "score": 0.094
+      "score": 0.071
     },
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1756.9,
-      "ret5": 0.0522,
-      "vol_surge": 0.65,
+      "ticker": "RELIANCE.NS",
+      "close": 1403.9,
+      "ret5": 0.045,
+      "vol_surge": 0.49,
       "rsi14": 50.0,
-      "score": 0.0851
+      "score": 0.069
     }
   ]
 }
