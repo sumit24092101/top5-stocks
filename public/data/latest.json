@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-04-30T06:15:18.665057Z",
+  "as_of_ist": "2026-05-01T06:25:29.044068Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 943.95,
-      "ret5": 0.0279,
-      "vol_surge": 1.83,
-      "rsi14": 50.0,
-      "score": 0.1441
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 485.55,
-      "ret5": 0.0774,
-      "vol_surge": 0.73,
-      "rsi14": 50.0,
-      "score": 0.1108
-    },
-    {
       "ticker": "BAJAJ-AUTO.NS",
-      "close": 9750.0,
-      "ret5": 0.0209,
-      "vol_surge": 1.32,
+      "close": 9994.0,
+      "ret5": 0.0464,
+      "vol_surge": 2.94,
       "rsi14": 50.0,
-      "score": 0.1044
+      "score": 0.2331
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2365.0,
-      "ret5": 0.0283,
-      "vol_surge": 0.73,
+      "ticker": "BAJFINANCE.NS",
+      "close": 937.0,
+      "ret5": 0.0203,
+      "vol_surge": 2.8,
       "rsi14": 50.0,
-      "score": 0.071
+      "score": 0.2032
     },
     {
       "ticker": "RELIANCE.NS",
-      "close": 1403.9,
-      "ret5": 0.045,
-      "vol_surge": 0.49,
+      "close": 1430.8,
+      "ret5": 0.0651,
+      "vol_surge": 1.38,
       "rsi14": 50.0,
-      "score": 0.069
+      "score": 0.1439
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 481.45,
+      "ret5": 0.0683,
+      "vol_surge": 1.25,
+      "rsi14": 50.0,
+      "score": 0.138
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1657.3,
+      "ret5": 0.0339,
+      "vol_surge": 1.65,
+      "rsi14": 50.0,
+      "score": 0.1373
     }
   ]
 }
