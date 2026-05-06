@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-05T06:01:38.829228Z",
+  "as_of_ist": "2026-05-06T06:16:46.064985Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1731.2,
-      "ret5": 0.0572,
-      "vol_surge": 0.7,
+      "ticker": "HDFCLIFE.NS",
+      "close": 603.6,
+      "ret5": 0.0155,
+      "vol_surge": 3.0,
       "rsi14": 50.0,
-      "score": 0.0922
+      "score": 0.2124
     },
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 5791.5,
-      "ret5": 0.0129,
-      "vol_surge": 1.09,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5055.0,
+      "ret5": -0.0116,
+      "vol_surge": 2.84,
       "rsi14": 50.0,
-      "score": 0.0832
+      "score": 0.18
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2478.0,
-      "ret5": 0.0673,
-      "vol_surge": 0.3,
+      "ticker": "M&M.NS",
+      "close": 3266.8,
+      "ret5": 0.0363,
+      "vol_surge": 1.24,
       "rsi14": 50.0,
-      "score": 0.074
+      "score": 0.1118
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1454.2,
-      "ret5": 0.047,
-      "vol_surge": 0.36,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 10261.5,
+      "ret5": 0.0807,
+      "vol_surge": 0.58,
       "rsi14": 50.0,
-      "score": 0.0619
+      "score": 0.103
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 13450.0,
-      "ret5": 0.0433,
-      "vol_surge": 0.33,
+      "ticker": "LT.NS",
+      "close": 3939.2,
+      "ret5": -0.0383,
+      "vol_surge": 1.56,
       "rsi14": 50.0,
-      "score": 0.0564
+      "score": 0.0736
     }
   ]
 }
