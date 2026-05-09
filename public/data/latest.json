@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-08T05:39:17.753034Z",
+  "as_of_ist": "2026-05-09T06:03:18.409205Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 5574.0,
-      "ret5": -0.0265,
-      "vol_surge": 3.13,
+      "ticker": "TITAN.NS",
+      "close": 4509.0,
+      "ret5": 0.0282,
+      "vol_surge": 4.1,
       "rsi14": 50.0,
-      "score": 0.1788
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1767.5,
-      "ret5": 0.0665,
-      "vol_surge": 0.89,
-      "rsi14": 50.0,
-      "score": 0.1126
+      "score": 0.2226
     },
     {
       "ticker": "ASIANPAINT.NS",
-      "close": 2594.5,
-      "ret5": 0.0614,
-      "vol_surge": 0.72,
+      "close": 2599.9,
+      "ret5": 0.0636,
+      "vol_surge": 2.05,
       "rsi14": 50.0,
-      "score": 0.0972
+      "score": 0.1878
     },
     {
-      "ticker": "M&M.NS",
-      "close": 3356.2,
-      "ret5": 0.0835,
-      "vol_surge": 0.27,
+      "ticker": "TATACONSUM.NS",
+      "close": 1176.2,
+      "ret5": 0.0276,
+      "vol_surge": 2.35,
       "rsi14": 50.0,
-      "score": 0.0846
+      "score": 0.1789
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 10725.5,
-      "ret5": 0.0732,
-      "vol_surge": 0.35,
+      "ticker": "BRITANNIA.NS",
+      "close": 5520.0,
+      "ret5": -0.036,
+      "vol_surge": 5.76,
       "rsi14": 50.0,
-      "score": 0.082
+      "score": 0.1712
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 1019.3,
+      "ret5": -0.046,
+      "vol_surge": 2.94,
+      "rsi14": 50.0,
+      "score": 0.1594
     }
   ]
 }
