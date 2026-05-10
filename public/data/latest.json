@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-05-09T06:03:18.409205Z",
+  "as_of_ist": "2026-05-10T06:22:37.833132Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
