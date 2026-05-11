@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-10T06:22:37.833132Z",
+  "as_of_ist": "2026-05-11T06:53:16.984465Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TITAN.NS",
-      "close": 4509.0,
-      "ret5": 0.0282,
-      "vol_surge": 4.1,
+      "ticker": "TATACONSUM.NS",
+      "close": 1247.0,
+      "ret5": 0.0746,
+      "vol_surge": 5.78,
       "rsi14": 50.0,
-      "score": 0.2226
+      "score": 0.2597
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 4228.5,
+      "ret5": -0.0308,
+      "vol_surge": 2.97,
+      "rsi14": 50.0,
+      "score": 0.1731
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 659.4,
+      "ret5": 0.0249,
+      "vol_surge": 0.93,
+      "rsi14": 50.0,
+      "score": 0.0818
     },
     {
       "ticker": "ASIANPAINT.NS",
-      "close": 2599.9,
-      "ret5": 0.0636,
-      "vol_surge": 2.05,
+      "close": 2572.1,
+      "ret5": 0.0507,
+      "vol_surge": 0.47,
       "rsi14": 50.0,
-      "score": 0.1878
+      "score": 0.0719
     },
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 1176.2,
-      "ret5": 0.0276,
-      "vol_surge": 2.35,
+      "ticker": "M&M.NS",
+      "close": 3260.5,
+      "ret5": 0.0496,
+      "vol_surge": 0.48,
       "rsi14": 50.0,
-      "score": 0.1789
-    },
-    {
-      "ticker": "BRITANNIA.NS",
-      "close": 5520.0,
-      "ret5": -0.036,
-      "vol_surge": 5.76,
-      "rsi14": 50.0,
-      "score": 0.1712
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 1019.3,
-      "ret5": -0.046,
-      "vol_surge": 2.94,
-      "rsi14": 50.0,
-      "score": 0.1594
+      "score": 0.0714
     }
   ]
 }
