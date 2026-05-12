@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-11T06:53:16.984465Z",
+  "as_of_ist": "2026-05-12T06:25:05.271211Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 1247.0,
-      "ret5": 0.0746,
-      "vol_surge": 5.78,
+      "ticker": "ONGC.NS",
+      "close": 297.7,
+      "ret5": 0.0267,
+      "vol_surge": 2.15,
       "rsi14": 50.0,
-      "score": 0.2597
+      "score": 0.1647
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 4228.5,
-      "ret5": -0.0308,
-      "vol_surge": 2.97,
+      "ticker": "TATACONSUM.NS",
+      "close": 1259.0,
+      "ret5": 0.0915,
+      "vol_surge": 0.89,
       "rsi14": 50.0,
-      "score": 0.1731
+      "score": 0.1322
     },
     {
       "ticker": "UPL.NS",
-      "close": 659.4,
-      "ret5": 0.0249,
-      "vol_surge": 0.93,
+      "close": 642.75,
+      "ret5": 0.0011,
+      "vol_surge": 1.26,
       "rsi14": 50.0,
-      "score": 0.0818
+      "score": 0.0846
     },
     {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2572.1,
-      "ret5": 0.0507,
-      "vol_surge": 0.47,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 10579.0,
+      "ret5": 0.0531,
+      "vol_surge": 0.41,
       "rsi14": 50.0,
-      "score": 0.0719
+      "score": 0.0701
     },
     {
-      "ticker": "M&M.NS",
-      "close": 3260.5,
-      "ret5": 0.0496,
-      "vol_surge": 0.48,
+      "ticker": "TATASTEEL.NS",
+      "close": 213.55,
+      "ret5": 0.0106,
+      "vol_surge": 0.64,
       "rsi14": 50.0,
-      "score": 0.0714
+      "score": 0.0509
     }
   ]
 }
