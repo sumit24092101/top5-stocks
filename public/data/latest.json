@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-14T06:35:58.261806Z",
+  "as_of_ist": "2026-05-15T06:45:04.338547Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ADANIENT.NS",
-      "close": 2665.1,
-      "ret5": 0.0602,
-      "vol_surge": 2.42,
+      "close": 2736.2,
+      "ret5": 0.0919,
+      "vol_surge": 1.73,
       "rsi14": 50.0,
-      "score": 0.2096
+      "score": 0.1887
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1416.0,
-      "ret5": 0.0394,
-      "vol_surge": 2.51,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1296.4,
+      "ret5": 0.0146,
+      "vol_surge": 1.42,
       "rsi14": 50.0,
-      "score": 0.1986
-    },
-    {
-      "ticker": "ONGC.NS",
-      "close": 300.5,
-      "ret5": 0.0585,
-      "vol_surge": 0.9,
-      "rsi14": 50.0,
-      "score": 0.1067
+      "score": 0.1066
     },
     {
       "ticker": "BHARTIARTL.NS",
-      "close": 1844.7,
-      "ret5": 0.0099,
-      "vol_surge": 1.23,
+      "close": 1904.2,
+      "ret5": 0.038,
+      "vol_surge": 0.93,
       "rsi14": 50.0,
-      "score": 0.0899
+      "score": 0.0926
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 221.4,
-      "ret5": 0.0199,
-      "vol_surge": 0.91,
+      "ticker": "ONGC.NS",
+      "close": 301.2,
+      "ret5": 0.0788,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.0764
+      "score": 0.0881
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1813.5,
+      "ret5": 0.0302,
+      "vol_surge": 0.88,
+      "rsi14": 50.0,
+      "score": 0.0827
     }
   ]
 }
