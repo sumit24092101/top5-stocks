@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-18T07:09:14.250366Z",
+  "as_of_ist": "2026-05-19T06:59:53.889379Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1946.9,
-      "ret5": 0.1063,
-      "vol_surge": 0.87,
+      "ticker": "ADANIENT.NS",
+      "close": 2743.8,
+      "ret5": 0.1408,
+      "vol_surge": 1.01,
       "rsi14": 50.0,
-      "score": 0.143
-    },
-    {
-      "ticker": "TATASTEEL.NS",
-      "close": 208.93,
-      "ret5": -0.0149,
-      "vol_surge": 1.87,
-      "rsi14": 50.0,
-      "score": 0.1131
-    },
-    {
-      "ticker": "CIPLA.NS",
-      "close": 1431.6,
-      "ret5": 0.0971,
-      "vol_surge": 0.49,
-      "rsi14": 50.0,
-      "score": 0.1104
+      "score": 0.1797
     },
     {
       "ticker": "TECHM.NS",
-      "close": 1427.2,
-      "ret5": -0.0207,
-      "vol_surge": 1.73,
+      "close": 1481.1,
+      "ret5": 0.0633,
+      "vol_surge": 1.75,
       "rsi14": 50.0,
-      "score": 0.0986
+      "score": 0.1676
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2674.8,
-      "ret5": 0.0698,
-      "vol_surge": 0.42,
+      "ticker": "TCS.NS",
+      "close": 2340.3,
+      "ret5": 0.0174,
+      "vol_surge": 1.95,
       "rsi14": 50.0,
-      "score": 0.084
+      "score": 0.144
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1186.8,
+      "ret5": 0.0408,
+      "vol_surge": 1.26,
+      "rsi14": 50.0,
+      "score": 0.1169
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "close": 1245.5,
+      "ret5": 0.0042,
+      "vol_surge": 1.64,
+      "rsi14": 50.0,
+      "score": 0.1128
     }
   ]
 }
