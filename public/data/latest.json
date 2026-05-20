@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-19T06:59:53.889379Z",
+  "as_of_ist": "2026-05-20T06:59:59.901229Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2743.8,
-      "ret5": 0.1408,
-      "vol_surge": 1.01,
+      "ticker": "DIVISLAB.NS",
+      "close": 6896.0,
+      "ret5": 0.0147,
+      "vol_surge": 1.66,
       "rsi14": 50.0,
-      "score": 0.1797
-    },
-    {
-      "ticker": "TECHM.NS",
-      "close": 1481.1,
-      "ret5": 0.0633,
-      "vol_surge": 1.75,
-      "rsi14": 50.0,
-      "score": 0.1676
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 2340.3,
-      "ret5": 0.0174,
-      "vol_surge": 1.95,
-      "rsi14": 50.0,
-      "score": 0.144
+      "score": 0.1224
     },
     {
       "ticker": "INFY.NS",
-      "close": 1186.8,
-      "ret5": 0.0408,
-      "vol_surge": 1.26,
+      "close": 1192.0,
+      "ret5": 0.0613,
+      "vol_surge": 0.59,
       "rsi14": 50.0,
-      "score": 0.1169
+      "score": 0.0887
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1245.5,
-      "ret5": 0.0042,
-      "vol_surge": 1.64,
+      "ticker": "ADANIENT.NS",
+      "close": 2706.4,
+      "ret5": 0.0834,
+      "vol_surge": 0.27,
       "rsi14": 50.0,
-      "score": 0.1128
+      "score": 0.0849
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1457.0,
+      "ret5": 0.0596,
+      "vol_surge": 0.54,
+      "rsi14": 50.0,
+      "score": 0.0839
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1904.5,
+      "ret5": 0.0644,
+      "vol_surge": 0.32,
+      "rsi14": 50.0,
+      "score": 0.0731
     }
   ]
 }
