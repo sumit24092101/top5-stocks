@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-21T07:04:44.078097Z",
+  "as_of_ist": "2026-05-22T07:00:30.965690Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "GRASIM.NS",
-      "close": 3113.6,
-      "ret5": 0.0595,
-      "vol_surge": 2.15,
-      "rsi14": 50.0,
-      "score": 0.1909
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1184.8,
-      "ret5": 0.082,
-      "vol_surge": 0.36,
-      "rsi14": 50.0,
-      "score": 0.0899
-    },
-    {
       "ticker": "WIPRO.NS",
-      "close": 199.1,
-      "ret5": 0.0574,
-      "vol_surge": 0.49,
+      "close": 204.11,
+      "ret5": 0.0743,
+      "vol_surge": 1.17,
       "rsi14": 50.0,
-      "score": 0.0786
+      "score": 0.1371
     },
     {
-      "ticker": "IOC.NS",
-      "close": 139.9,
-      "ret5": -0.0026,
-      "vol_surge": 1.1,
+      "ticker": "GRASIM.NS",
+      "close": 3156.3,
+      "ret5": 0.0758,
+      "vol_surge": 0.51,
+      "rsi14": 50.0,
+      "score": 0.0946
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2644.3,
+      "ret5": 0.0149,
+      "vol_surge": 0.89,
       "rsi14": 50.0,
       "score": 0.0714
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1420.9,
-      "ret5": 0.0577,
-      "vol_surge": 0.22,
+      "ticker": "INFY.NS",
+      "close": 1181.7,
+      "ret5": 0.056,
+      "vol_surge": 0.37,
       "rsi14": 50.0,
-      "score": 0.0609
+      "score": 0.0698
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 139.25,
+      "ret5": 0.0355,
+      "vol_surge": 0.48,
+      "rsi14": 50.0,
+      "score": 0.0601
     }
   ]
 }
