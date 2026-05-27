@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-26T06:58:46.693342Z",
+  "as_of_ist": "2026-05-27T07:46:52.793791Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2927.4,
-      "ret5": 0.0743,
-      "vol_surge": 0.84,
+      "ticker": "COALINDIA.NS",
+      "close": 445.7,
+      "ret5": -0.0283,
+      "vol_surge": 4.87,
       "rsi14": 50.0,
-      "score": 0.1151
+      "score": 0.1773
     },
     {
-      "ticker": "WIPRO.NS",
-      "close": 207.09,
-      "ret5": 0.0611,
+      "ticker": "ADANIENT.NS",
+      "close": 2959.1,
+      "ret5": 0.094,
       "vol_surge": 0.99,
       "rsi14": 50.0,
-      "score": 0.1146
+      "score": 0.1415
     },
     {
-      "ticker": "GRASIM.NS",
-      "close": 3189.5,
-      "ret5": 0.0866,
-      "vol_surge": 0.41,
+      "ticker": "TATASTEEL.NS",
+      "close": 215.19,
+      "ret5": 0.0395,
+      "vol_surge": 1.0,
       "rsi14": 50.0,
-      "score": 0.0966
+      "score": 0.0986
     },
     {
       "ticker": "EICHERMOT.NS",
-      "close": 7420.5,
-      "ret5": 0.0782,
-      "vol_surge": 0.43,
+      "close": 7400.5,
+      "ret5": 0.0804,
+      "vol_surge": 0.36,
       "rsi14": 50.0,
-      "score": 0.0914
+      "score": 0.0883
     },
     {
-      "ticker": "COALINDIA.NS",
-      "close": 468.3,
-      "ret5": 0.0248,
-      "vol_surge": 0.92,
+      "ticker": "WIPRO.NS",
+      "close": 201.65,
+      "ret5": 0.023,
+      "vol_surge": 1.02,
       "rsi14": 50.0,
-      "score": 0.0815
+      "score": 0.0863
     }
   ]
 }
