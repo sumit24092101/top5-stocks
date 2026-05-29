@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-28T07:06:08.332174Z",
+  "as_of_ist": "2026-05-29T07:07:15.909504Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "COALINDIA.NS",
-      "close": 463.05,
-      "ret5": 0.0095,
-      "vol_surge": 7.74,
+      "close": 463.75,
+      "ret5": 0.0077,
+      "vol_surge": 3.22,
       "rsi14": 50.0,
-      "score": 0.2076
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2973.1,
-      "ret5": 0.0992,
-      "vol_surge": 1.27,
-      "rsi14": 50.0,
-      "score": 0.1642
+      "score": 0.2062
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 201.58,
-      "ret5": 0.0226,
-      "vol_surge": 1.79,
+      "close": 204.96,
+      "ret5": 0.0261,
+      "vol_surge": 2.04,
       "rsi14": 50.0,
-      "score": 0.1374
+      "score": 0.1571
     },
     {
-      "ticker": "NTPC.NS",
-      "close": 398.15,
-      "ret5": 0.0145,
-      "vol_surge": 1.7,
+      "ticker": "BHARTIARTL.NS",
+      "close": 1834.2,
+      "ret5": -0.0271,
+      "vol_surge": 2.18,
       "rsi14": 50.0,
-      "score": 0.125
+      "score": 0.1239
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 758.65,
-      "ret5": -0.0011,
-      "vol_surge": 1.82,
+      "ticker": "EICHERMOT.NS",
+      "close": 7211.0,
+      "ret5": 0.0463,
+      "vol_surge": 1.04,
       "rsi14": 50.0,
-      "score": 0.1203
+      "score": 0.1064
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": 2949.0,
+      "ret5": 0.0932,
+      "vol_surge": 0.44,
+      "rsi14": 50.0,
+      "score": 0.104
     }
   ]
 }
