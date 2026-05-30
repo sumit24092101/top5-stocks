@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-29T07:07:15.909504Z",
+  "as_of_ist": "2026-05-30T06:35:11.517379Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "COALINDIA.NS",
-      "close": 463.75,
-      "ret5": 0.0077,
-      "vol_surge": 3.22,
+      "ticker": "EICHERMOT.NS",
+      "close": 7177.0,
+      "ret5": 0.0414,
+      "vol_surge": 2.87,
       "rsi14": 50.0,
-      "score": 0.2062
+      "score": 0.2241
+    },
+    {
+      "ticker": "SHREECEM.NS",
+      "close": 25275.0,
+      "ret5": 0.0272,
+      "vol_surge": 4.03,
+      "rsi14": 50.0,
+      "score": 0.2218
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1183.8,
+      "ret5": 0.017,
+      "vol_surge": 3.85,
+      "rsi14": 50.0,
+      "score": 0.2136
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2671.6,
+      "ret5": 0.012,
+      "vol_surge": 4.06,
+      "rsi14": 50.0,
+      "score": 0.2096
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 204.96,
-      "ret5": 0.0261,
-      "vol_surge": 2.04,
+      "close": 204.25,
+      "ret5": 0.0056,
+      "vol_surge": 3.25,
       "rsi14": 50.0,
-      "score": 0.1571
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1834.2,
-      "ret5": -0.0271,
-      "vol_surge": 2.18,
-      "rsi14": 50.0,
-      "score": 0.1239
-    },
-    {
-      "ticker": "EICHERMOT.NS",
-      "close": 7211.0,
-      "ret5": 0.0463,
-      "vol_surge": 1.04,
-      "rsi14": 50.0,
-      "score": 0.1064
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2949.0,
-      "ret5": 0.0932,
-      "vol_surge": 0.44,
-      "rsi14": 50.0,
-      "score": 0.104
+      "score": 0.2045
     }
   ]
 }
