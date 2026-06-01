@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-05-31T07:09:09.124542Z",
+  "as_of_ist": "2026-06-01T08:59:27.295605Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7177.0,
-      "ret5": 0.0414,
-      "vol_surge": 2.87,
+      "ticker": "TECHM.NS",
+      "close": 1560.0,
+      "ret5": 0.0969,
+      "vol_surge": 1.69,
       "rsi14": 50.0,
-      "score": 0.2241
+      "score": 0.1899
     },
     {
-      "ticker": "SHREECEM.NS",
-      "close": 25275.0,
-      "ret5": 0.0272,
-      "vol_surge": 4.03,
+      "ticker": "COALINDIA.NS",
+      "close": 469.7,
+      "ret5": 0.0255,
+      "vol_surge": 2.01,
       "rsi14": 50.0,
-      "score": 0.2218
+      "score": 0.1543
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2309.5,
+      "ret5": 0.0006,
+      "vol_surge": 1.46,
+      "rsi14": 50.0,
+      "score": 0.0979
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1183.8,
-      "ret5": 0.017,
-      "vol_surge": 3.85,
+      "close": 1202.8,
+      "ret5": 0.0318,
+      "vol_surge": 1.06,
       "rsi14": 50.0,
-      "score": 0.2136
+      "score": 0.0959
     },
     {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2671.6,
-      "ret5": 0.012,
-      "vol_surge": 4.06,
+      "ticker": "INFY.NS",
+      "close": 1207.3,
+      "ret5": 0.0332,
+      "vol_surge": 0.91,
       "rsi14": 50.0,
-      "score": 0.2096
-    },
-    {
-      "ticker": "WIPRO.NS",
-      "close": 204.25,
-      "ret5": 0.0056,
-      "vol_surge": 3.25,
-      "rsi14": 50.0,
-      "score": 0.2045
+      "score": 0.0872
     }
   ]
 }
