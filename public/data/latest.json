@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-01T08:59:27.295605Z",
+  "as_of_ist": "2026-06-02T08:11:47.608991Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TECHM.NS",
-      "close": 1560.0,
-      "ret5": 0.0969,
-      "vol_surge": 1.69,
+      "ticker": "INFY.NS",
+      "close": 1264.7,
+      "ret5": 0.0831,
+      "vol_surge": 1.73,
       "rsi14": 50.0,
-      "score": 0.1899
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 469.7,
-      "ret5": 0.0255,
-      "vol_surge": 2.01,
-      "rsi14": 50.0,
-      "score": 0.1543
+      "score": 0.1815
     },
     {
       "ticker": "TCS.NS",
-      "close": 2309.5,
-      "ret5": 0.0006,
-      "vol_surge": 1.46,
+      "close": 2441.7,
+      "ret5": 0.0727,
+      "vol_surge": 1.72,
       "rsi14": 50.0,
-      "score": 0.0979
+      "score": 0.1731
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1202.8,
-      "ret5": 0.0318,
-      "vol_surge": 1.06,
+      "close": 1238.7,
+      "ret5": 0.0661,
+      "vol_surge": 1.77,
       "rsi14": 50.0,
-      "score": 0.0959
+      "score": 0.171
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1207.3,
-      "ret5": 0.0332,
-      "vol_surge": 0.91,
+      "ticker": "TECHM.NS",
+      "close": 1578.2,
+      "ret5": 0.0819,
+      "vol_surge": 1.25,
       "rsi14": 50.0,
-      "score": 0.0872
+      "score": 0.1486
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "close": 209.18,
+      "ret5": 0.0268,
+      "vol_surge": 1.17,
+      "rsi14": 50.0,
+      "score": 0.0994
     }
   ]
 }
