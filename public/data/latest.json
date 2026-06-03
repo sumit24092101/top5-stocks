@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-02T08:11:47.608991Z",
+  "as_of_ist": "2026-06-03T08:32:37.644842Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "INFY.NS",
-      "close": 1264.7,
-      "ret5": 0.0831,
-      "vol_surge": 1.73,
-      "rsi14": 50.0,
-      "score": 0.1815
-    },
-    {
       "ticker": "TCS.NS",
-      "close": 2441.7,
-      "ret5": 0.0727,
-      "vol_surge": 1.72,
+      "close": 2241.0,
+      "ret5": -0.0189,
+      "vol_surge": 2.22,
       "rsi14": 50.0,
-      "score": 0.1731
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1238.7,
-      "ret5": 0.0661,
-      "vol_surge": 1.77,
-      "rsi14": 50.0,
-      "score": 0.171
-    },
-    {
-      "ticker": "TECHM.NS",
-      "close": 1578.2,
-      "ret5": 0.0819,
-      "vol_surge": 1.25,
-      "rsi14": 50.0,
-      "score": 0.1486
+      "score": 0.1331
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 209.18,
-      "ret5": 0.0268,
-      "vol_surge": 1.17,
+      "close": 204.12,
+      "ret5": 0.0126,
+      "vol_surge": 1.59,
       "rsi14": 50.0,
-      "score": 0.0994
+      "score": 0.1164
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1221.8,
+      "ret5": 0.0534,
+      "vol_surge": 0.87,
+      "rsi14": 50.0,
+      "score": 0.1009
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1486.2,
+      "ret5": 0.021,
+      "vol_surge": 0.99,
+      "rsi14": 50.0,
+      "score": 0.083
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1182.2,
+      "ret5": 0.0146,
+      "vol_surge": 0.97,
+      "rsi14": 50.0,
+      "score": 0.0766
     }
   ]
 }
