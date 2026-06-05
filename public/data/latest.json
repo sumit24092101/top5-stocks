@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-04T08:05:12.572020Z",
+  "as_of_ist": "2026-06-05T07:50:38.259327Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "COALINDIA.NS",
-      "close": 481.9,
-      "ret5": 0.0407,
-      "vol_surge": 0.5,
+      "ticker": "ADANIENT.NS",
+      "close": 2988.0,
+      "ret5": 0.0172,
+      "vol_surge": 1.46,
       "rsi14": 50.0,
-      "score": 0.0658
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1203.5,
-      "ret5": 0.0376,
-      "vol_surge": 0.5,
-      "rsi14": 50.0,
-      "score": 0.0632
+      "score": 0.1109
     },
     {
       "ticker": "TITAN.NS",
-      "close": 4225.3,
-      "ret5": 0.0211,
-      "vol_surge": 0.68,
+      "close": 4236.5,
+      "ret5": 0.0397,
+      "vol_surge": 0.58,
       "rsi14": 50.0,
-      "score": 0.0624
+      "score": 0.0706
     },
     {
-      "ticker": "WIPRO.NS",
-      "close": 204.7,
-      "ret5": 0.0155,
-      "vol_surge": 0.73,
+      "ticker": "SBIN.NS",
+      "close": 978.1,
+      "ret5": 0.0142,
+      "vol_surge": 0.85,
       "rsi14": 50.0,
-      "score": 0.0612
+      "score": 0.068
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 889.55,
+      "ret5": -0.0206,
+      "vol_surge": 1.12,
+      "rsi14": 50.0,
+      "score": 0.0583
     },
     {
       "ticker": "ASIANPAINT.NS",
-      "close": 2653.6,
-      "ret5": -0.0068,
-      "vol_surge": 0.95,
+      "close": 2696.1,
+      "ret5": 0.0092,
+      "vol_surge": 0.68,
       "rsi14": 50.0,
-      "score": 0.0578
+      "score": 0.0525
     }
   ]
 }
