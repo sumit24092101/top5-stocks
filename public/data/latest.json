@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-09T07:01:44.258982Z",
+  "as_of_ist": "2026-06-10T07:51:17.921705Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 6742.5,
-      "ret5": 0.0321,
-      "vol_surge": 1.46,
+      "ticker": "AXISBANK.NS",
+      "close": 1320.9,
+      "ret5": 0.0523,
+      "vol_surge": 1.1,
       "rsi14": 50.0,
-      "score": 0.1229
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 999.55,
-      "ret5": 0.0448,
-      "vol_surge": 0.66,
-      "rsi14": 50.0,
-      "score": 0.0801
+      "score": 0.1153
     },
     {
       "ticker": "ICICIBANK.NS",
-      "close": 1271.4,
-      "ret5": 0.0365,
-      "vol_surge": 0.52,
+      "close": 1298.6,
+      "ret5": 0.0456,
+      "vol_surge": 1.05,
       "rsi14": 50.0,
-      "score": 0.064
+      "score": 0.1067
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 4123.7,
-      "ret5": 0.0112,
-      "vol_surge": 0.67,
+      "ticker": "SHREECEM.NS",
+      "close": 23995.0,
+      "ret5": -0.0315,
+      "vol_surge": 1.84,
       "rsi14": 50.0,
-      "score": 0.0533
+      "score": 0.0972
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1284.6,
-      "ret5": 0.0268,
-      "vol_surge": 0.46,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2181.4,
+      "ret5": 0.0434,
+      "vol_surge": 0.82,
       "rsi14": 50.0,
-      "score": 0.0522
+      "score": 0.0895
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1843.6,
+      "ret5": 0.0221,
+      "vol_surge": 1.04,
+      "rsi14": 50.0,
+      "score": 0.087
     }
   ]
 }
