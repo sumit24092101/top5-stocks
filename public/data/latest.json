@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-11T08:20:00.803316Z",
+  "as_of_ist": "2026-06-12T08:07:16.286070Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1323.9,
-      "ret5": 0.0577,
-      "vol_surge": 1.49,
+      "ticker": "KOTAKBANK.NS",
+      "close": 399.7,
+      "ret5": 0.0589,
+      "vol_surge": 0.69,
       "rsi14": 50.0,
-      "score": 0.1453
+      "score": 0.0929
     },
     {
       "ticker": "AXISBANK.NS",
-      "close": 1321.5,
-      "ret5": 0.0544,
-      "vol_surge": 0.76,
+      "close": 1344.5,
+      "ret5": 0.0567,
+      "vol_surge": 0.67,
       "rsi14": 50.0,
-      "score": 0.0943
+      "score": 0.0901
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 396.25,
-      "ret5": 0.0387,
+      "ticker": "ICICIBANK.NS",
+      "close": 1333.2,
+      "ret5": 0.0563,
+      "vol_surge": 0.57,
+      "rsi14": 50.0,
+      "score": 0.0831
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "close": 1669.4,
+      "ret5": -0.0198,
+      "vol_surge": 1.22,
+      "rsi14": 50.0,
+      "score": 0.0655
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "close": 13255.0,
+      "ret5": 0.0157,
       "vol_surge": 0.79,
       "rsi14": 50.0,
-      "score": 0.0838
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 1005.5,
-      "ret5": 0.0268,
-      "vol_surge": 0.55,
-      "rsi14": 50.0,
-      "score": 0.0584
-    },
-    {
-      "ticker": "NESTLEIND.NS",
-      "close": 1430.3,
-      "ret5": 0.0343,
-      "vol_surge": 0.46,
-      "rsi14": 50.0,
-      "score": 0.0581
+      "score": 0.065
     }
   ]
 }
