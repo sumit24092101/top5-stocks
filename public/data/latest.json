@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-12T08:07:16.286070Z",
+  "as_of_ist": "2026-06-13T07:09:27.971136Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 399.7,
-      "ret5": 0.0589,
-      "vol_surge": 0.69,
-      "rsi14": 50.0,
-      "score": 0.0929
-    },
-    {
       "ticker": "AXISBANK.NS",
-      "close": 1344.5,
-      "ret5": 0.0567,
-      "vol_surge": 0.67,
+      "close": 1356.3,
+      "ret5": 0.066,
+      "vol_surge": 1.19,
       "rsi14": 50.0,
-      "score": 0.0901
+      "score": 0.1321
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1333.2,
-      "ret5": 0.0563,
-      "vol_surge": 0.57,
+      "ticker": "KOTAKBANK.NS",
+      "close": 403.3,
+      "ret5": 0.0685,
+      "vol_surge": 1.15,
       "rsi14": 50.0,
-      "score": 0.0831
+      "score": 0.1315
     },
     {
       "ticker": "BAJAJFINSV.NS",
-      "close": 1669.4,
-      "ret5": -0.0198,
-      "vol_surge": 1.22,
+      "close": 1689.1,
+      "ret5": -0.0083,
+      "vol_surge": 2.03,
       "rsi14": 50.0,
-      "score": 0.0655
+      "score": 0.1289
+    },
+    {
+      "ticker": "LT.NS",
+      "close": 4049.3,
+      "ret5": 0.0243,
+      "vol_surge": 1.63,
+      "rsi14": 50.0,
+      "score": 0.1278
     },
     {
       "ticker": "MARUTI.NS",
-      "close": 13255.0,
-      "ret5": 0.0157,
-      "vol_surge": 0.79,
+      "close": 13366.0,
+      "ret5": 0.0242,
+      "vol_surge": 1.48,
       "rsi14": 50.0,
-      "score": 0.065
+      "score": 0.118
     }
   ]
 }
