@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-14T08:01:15.359415Z",
+  "as_of_ist": "2026-06-15T09:42:26.507726Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1356.3,
-      "ret5": 0.066,
-      "vol_surge": 1.19,
+      "ticker": "LT.NS",
+      "close": 4168.2,
+      "ret5": 0.0755,
+      "vol_surge": 1.86,
       "rsi14": 50.0,
-      "score": 0.1321
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "close": 403.3,
-      "ret5": 0.0685,
-      "vol_surge": 1.15,
-      "rsi14": 50.0,
-      "score": 0.1315
+      "score": 0.1845
     },
     {
       "ticker": "BAJAJFINSV.NS",
-      "close": 1689.1,
-      "ret5": -0.0083,
-      "vol_surge": 2.03,
+      "close": 1748.7,
+      "ret5": 0.0442,
+      "vol_surge": 2.14,
       "rsi14": 50.0,
-      "score": 0.1289
+      "score": 0.1778
     },
     {
-      "ticker": "LT.NS",
-      "close": 4049.3,
-      "ret5": 0.0243,
-      "vol_surge": 1.63,
+      "ticker": "BPCL.NS",
+      "close": 310.1,
+      "ret5": 0.0875,
+      "vol_surge": 1.39,
       "rsi14": 50.0,
-      "score": 0.1278
+      "score": 0.1624
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7615.0,
+      "ret5": 0.0801,
+      "vol_surge": 1.36,
+      "rsi14": 50.0,
+      "score": 0.1551
     },
     {
       "ticker": "MARUTI.NS",
-      "close": 13366.0,
-      "ret5": 0.0242,
-      "vol_surge": 1.48,
+      "close": 13808.0,
+      "ret5": 0.0694,
+      "vol_surge": 1.46,
       "rsi14": 50.0,
-      "score": 0.118
+      "score": 0.1527
     }
   ]
 }
