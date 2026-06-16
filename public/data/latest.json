@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-15T09:42:26.507726Z",
+  "as_of_ist": "2026-06-16T09:07:49.097035Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "LT.NS",
-      "close": 4168.2,
-      "ret5": 0.0755,
-      "vol_surge": 1.86,
-      "rsi14": 50.0,
-      "score": 0.1845
-    },
-    {
       "ticker": "BAJAJFINSV.NS",
-      "close": 1748.7,
-      "ret5": 0.0442,
-      "vol_surge": 2.14,
+      "close": 1784.0,
+      "ret5": 0.0537,
+      "vol_surge": 1.92,
       "rsi14": 50.0,
-      "score": 0.1778
+      "score": 0.171
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 310.1,
-      "ret5": 0.0875,
-      "vol_surge": 1.39,
+      "ticker": "SHREECEM.NS",
+      "close": 24925.0,
+      "ret5": 0.0645,
+      "vol_surge": 1.54,
       "rsi14": 50.0,
-      "score": 0.1624
+      "score": 0.1542
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7615.0,
-      "ret5": 0.0801,
-      "vol_surge": 1.36,
+      "ticker": "HCLTECH.NS",
+      "close": 1155.8,
+      "ret5": 0.0083,
+      "vol_surge": 2.17,
       "rsi14": 50.0,
-      "score": 0.1551
+      "score": 0.151
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 13808.0,
-      "ret5": 0.0694,
-      "vol_surge": 1.46,
+      "ticker": "LT.NS",
+      "close": 4191.3,
+      "ret5": 0.0745,
+      "vol_surge": 1.07,
       "rsi14": 50.0,
-      "score": 0.1527
+      "score": 0.1311
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 960.0,
+      "ret5": 0.0824,
+      "vol_surge": 0.73,
+      "rsi14": 50.0,
+      "score": 0.1148
     }
   ]
 }
