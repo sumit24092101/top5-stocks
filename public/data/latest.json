@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-16T09:07:49.097035Z",
+  "as_of_ist": "2026-06-17T08:39:51.235178Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "BPCL.NS",
+      "close": 316.65,
+      "ret5": 0.0995,
+      "vol_surge": 1.23,
+      "rsi14": 50.0,
+      "score": 0.1617
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 145.25,
+      "ret5": 0.0611,
+      "vol_surge": 0.78,
+      "rsi14": 50.0,
+      "score": 0.1007
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 4373.4,
+      "ret5": 0.082,
+      "vol_surge": 0.47,
+      "rsi14": 50.0,
+      "score": 0.0969
+    },
+    {
       "ticker": "BAJAJFINSV.NS",
-      "close": 1784.0,
-      "ret5": 0.0537,
-      "vol_surge": 1.92,
+      "close": 1756.4,
+      "ret5": 0.0554,
+      "vol_surge": 0.75,
       "rsi14": 50.0,
-      "score": 0.171
-    },
-    {
-      "ticker": "SHREECEM.NS",
-      "close": 24925.0,
-      "ret5": 0.0645,
-      "vol_surge": 1.54,
-      "rsi14": 50.0,
-      "score": 0.1542
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1155.8,
-      "ret5": 0.0083,
-      "vol_surge": 2.17,
-      "rsi14": 50.0,
-      "score": 0.151
-    },
-    {
-      "ticker": "LT.NS",
-      "close": 4191.3,
-      "ret5": 0.0745,
-      "vol_surge": 1.07,
-      "rsi14": 50.0,
-      "score": 0.1311
+      "score": 0.094
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": 960.0,
-      "ret5": 0.0824,
-      "vol_surge": 0.73,
+      "close": 957.65,
+      "ret5": 0.0832,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.1148
+      "score": 0.0918
     }
   ]
 }
