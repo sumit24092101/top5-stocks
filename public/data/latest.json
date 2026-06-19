@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-18T08:23:21.350194Z",
+  "as_of_ist": "2026-06-19T08:43:46.328178Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BPCL.NS",
-      "close": 316.8,
-      "ret5": 0.1063,
-      "vol_surge": 0.48,
+      "ticker": "HCLTECH.NS",
+      "close": 1117.1,
+      "ret5": 0.0068,
+      "vol_surge": 1.63,
       "rsi14": 50.0,
-      "score": 0.1173
+      "score": 0.1144
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 795.25,
-      "ret5": 0.068,
-      "vol_surge": 0.73,
+      "ticker": "TECHM.NS",
+      "close": 1386.5,
+      "ret5": -0.0299,
+      "vol_surge": 1.68,
       "rsi14": 50.0,
-      "score": 0.1029
+      "score": 0.0883
     },
     {
-      "ticker": "LT.NS",
-      "close": 4187.5,
-      "ret5": 0.0843,
-      "vol_surge": 0.51,
+      "ticker": "INFY.NS",
+      "close": 1041.9,
+      "ret5": -0.0667,
+      "vol_surge": 2.08,
       "rsi14": 50.0,
-      "score": 0.1014
+      "score": 0.0855
     },
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 955.4,
-      "ret5": 0.0975,
-      "vol_surge": 0.33,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 10019.0,
+      "ret5": -0.0044,
+      "vol_surge": 1.32,
       "rsi14": 50.0,
-      "score": 0.1002
+      "score": 0.0843
     },
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 587.8,
-      "ret5": 0.078,
-      "vol_surge": 0.53,
+      "close": 589.55,
+      "ret5": 0.0654,
+      "vol_surge": 0.48,
       "rsi14": 50.0,
-      "score": 0.098
+      "score": 0.0842
     }
   ]
 }
