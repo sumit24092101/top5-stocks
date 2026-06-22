@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-21T08:13:51.452915Z",
+  "as_of_ist": "2026-06-22T09:27:10.730079Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1131.7,
-      "ret5": 0.0199,
-      "vol_surge": 2.64,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 10183.0,
+      "ret5": 0.0241,
+      "vol_surge": 1.86,
       "rsi14": 50.0,
-      "score": 0.1919
+      "score": 0.1436
     },
     {
-      "ticker": "UPL.NS",
-      "close": 608.65,
-      "ret5": -0.0024,
-      "vol_surge": 2.39,
+      "ticker": "CIPLA.NS",
+      "close": 1416.6,
+      "ret5": 0.0256,
+      "vol_surge": 1.71,
       "rsi14": 50.0,
-      "score": 0.1573
+      "score": 0.1348
     },
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1910.8,
-      "ret5": 0.0484,
-      "vol_surge": 1.75,
+      "ticker": "BAJAJFINSV.NS",
+      "close": 1783.1,
+      "ret5": 0.0188,
+      "vol_surge": 1.53,
       "rsi14": 50.0,
-      "score": 0.1556
+      "score": 0.1172
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1409.6,
-      "ret5": -0.0137,
-      "vol_surge": 2.39,
+      "ticker": "NTPC.NS",
+      "close": 366.95,
+      "ret5": 0.0542,
+      "vol_surge": 0.74,
       "rsi14": 50.0,
-      "score": 0.148
+      "score": 0.0928
     },
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1835.3,
-      "ret5": 0.0124,
-      "vol_surge": 2.04,
+      "ticker": "HDFCLIFE.NS",
+      "close": 596.65,
+      "ret5": 0.0302,
+      "vol_surge": 0.74,
       "rsi14": 50.0,
-      "score": 0.146
+      "score": 0.0736
     }
   ]
 }
