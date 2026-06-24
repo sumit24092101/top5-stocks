@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-23T07:02:48.484803Z",
+  "as_of_ist": "2026-06-24T06:59:47.458221Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "CIPLA.NS",
-      "close": 1452.1,
-      "ret5": 0.0575,
-      "vol_surge": 2.07,
-      "rsi14": 50.0,
-      "score": 0.184
-    },
-    {
       "ticker": "DRREDDY.NS",
-      "close": 1302.8,
-      "ret5": 0.0203,
-      "vol_surge": 1.48,
+      "close": 1333.5,
+      "ret5": 0.0508,
+      "vol_surge": 1.43,
       "rsi14": 50.0,
-      "score": 0.1149
+      "score": 0.136
     },
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1885.9,
-      "ret5": 0.0473,
-      "vol_surge": 0.63,
+      "ticker": "SHREECEM.NS",
+      "close": 26060.0,
+      "ret5": 0.0437,
+      "vol_surge": 1.31,
       "rsi14": 50.0,
-      "score": 0.0802
+      "score": 0.122
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 598.0,
-      "ret5": 0.0448,
-      "vol_surge": 0.39,
+      "ticker": "CIPLA.NS",
+      "close": 1438.3,
+      "ret5": 0.0648,
+      "vol_surge": 0.54,
       "rsi14": 50.0,
-      "score": 0.0616
+      "score": 0.0878
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 10095.0,
-      "ret5": 0.0157,
-      "vol_surge": 0.6,
+      "ticker": "ADANIENT.NS",
+      "close": 3029.5,
+      "ret5": 0.0263,
+      "vol_surge": 0.69,
       "rsi14": 50.0,
-      "score": 0.0528
+      "score": 0.0669
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "close": 1372.5,
+      "ret5": 0.0267,
+      "vol_surge": 0.54,
+      "rsi14": 50.0,
+      "score": 0.0573
     }
   ]
 }
