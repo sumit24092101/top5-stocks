@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-24T06:59:47.458221Z",
+  "as_of_ist": "2026-06-25T06:59:51.807259Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1333.5,
-      "ret5": 0.0508,
-      "vol_surge": 1.43,
+      "ticker": "MARUTI.NS",
+      "close": 13914.0,
+      "ret5": 0.0319,
+      "vol_surge": 1.33,
       "rsi14": 50.0,
-      "score": 0.136
+      "score": 0.1139
     },
     {
-      "ticker": "SHREECEM.NS",
-      "close": 26060.0,
-      "ret5": 0.0437,
-      "vol_surge": 1.31,
+      "ticker": "DRREDDY.NS",
+      "close": 1353.6,
+      "ret5": 0.0679,
+      "vol_surge": 0.68,
       "rsi14": 50.0,
-      "score": 0.122
+      "score": 0.0997
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5014.9,
+      "ret5": -0.0013,
+      "vol_surge": 1.17,
+      "rsi14": 50.0,
+      "score": 0.0767
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1438.3,
-      "ret5": 0.0648,
-      "vol_surge": 0.54,
+      "close": 1447.3,
+      "ret5": 0.0677,
+      "vol_surge": 0.21,
       "rsi14": 50.0,
-      "score": 0.0878
+      "score": 0.0684
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 3029.5,
-      "ret5": 0.0263,
-      "vol_surge": 0.69,
+      "ticker": "BAJFINANCE.NS",
+      "close": 992.9,
+      "ret5": 0.0355,
+      "vol_surge": 0.59,
       "rsi14": 50.0,
-      "score": 0.0669
-    },
-    {
-      "ticker": "ICICIBANK.NS",
-      "close": 1372.5,
-      "ret5": 0.0267,
-      "vol_surge": 0.54,
-      "rsi14": 50.0,
-      "score": 0.0573
+      "score": 0.068
     }
   ]
 }
