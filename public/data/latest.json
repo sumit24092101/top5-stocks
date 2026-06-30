@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-29T08:31:07.812994Z",
+  "as_of_ist": "2026-06-30T07:07:07.555601Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1384.8,
-      "ret5": 0.0886,
-      "vol_surge": 3.88,
+      "ticker": "MARUTI.NS",
+      "close": 14022.0,
+      "ret5": 0.0425,
+      "vol_surge": 1.63,
       "rsi14": 50.0,
-      "score": 0.2709
+      "score": 0.1426
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7120.5,
+      "ret5": -0.0679,
+      "vol_surge": 2.55,
+      "rsi14": 50.0,
+      "score": 0.1153
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1071.5,
+      "ret5": -0.0293,
+      "vol_surge": 2.07,
+      "rsi14": 50.0,
+      "score": 0.1147
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1469.7,
-      "ret5": 0.0872,
-      "vol_surge": 1.6,
+      "close": 1478.1,
+      "ret5": 0.0314,
+      "vol_surge": 0.99,
       "rsi14": 50.0,
-      "score": 0.1764
+      "score": 0.091
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 395.9,
-      "ret5": -0.0084,
-      "vol_surge": 1.75,
+      "ticker": "DRREDDY.NS",
+      "close": 1360.7,
+      "ret5": 0.0456,
+      "vol_surge": 0.74,
       "rsi14": 50.0,
-      "score": 0.1098
-    },
-    {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 4810.2,
-      "ret5": -0.0331,
-      "vol_surge": 1.95,
-      "rsi14": 50.0,
-      "score": 0.1032
-    },
-    {
-      "ticker": "SHREECEM.NS",
-      "close": 25410.0,
-      "ret5": 0.0134,
-      "vol_surge": 1.27,
-      "rsi14": 50.0,
-      "score": 0.0953
+      "score": 0.0857
     }
   ]
 }
