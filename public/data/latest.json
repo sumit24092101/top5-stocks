@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-06-30T07:07:07.555601Z",
+  "as_of_ist": "2026-07-01T07:53:44.514871Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "MARUTI.NS",
-      "close": 14022.0,
-      "ret5": 0.0425,
-      "vol_surge": 1.63,
+      "close": 14340.0,
+      "ret5": 0.0824,
+      "vol_surge": 1.98,
       "rsi14": 50.0,
-      "score": 0.1426
+      "score": 0.1978
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 7120.5,
-      "ret5": -0.0679,
-      "vol_surge": 2.55,
+      "ticker": "NESTLEIND.NS",
+      "close": 1450.3,
+      "ret5": 0.049,
+      "vol_surge": 1.13,
       "rsi14": 50.0,
-      "score": 0.1153
+      "score": 0.1145
     },
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 1071.5,
-      "ret5": -0.0293,
-      "vol_surge": 2.07,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1860.0,
+      "ret5": 0.0258,
+      "vol_surge": 1.38,
       "rsi14": 50.0,
-      "score": 0.1147
+      "score": 0.1126
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1478.1,
-      "ret5": 0.0314,
-      "vol_surge": 0.99,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2172.6,
+      "ret5": 0.0069,
+      "vol_surge": 1.28,
       "rsi14": 50.0,
       "score": 0.091
     },
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1360.7,
-      "ret5": 0.0456,
-      "vol_surge": 0.74,
+      "ticker": "TITAN.NS",
+      "close": 4399.3,
+      "ret5": 0.0175,
+      "vol_surge": 1.02,
       "rsi14": 50.0,
-      "score": 0.0857
+      "score": 0.0818
     }
   ]
 }
