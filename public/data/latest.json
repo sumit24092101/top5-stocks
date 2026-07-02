@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-01T07:53:44.514871Z",
+  "as_of_ist": "2026-07-02T06:53:59.616211Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "MARUTI.NS",
-      "close": 14340.0,
-      "ret5": 0.0824,
-      "vol_surge": 1.98,
+      "ticker": "ADANIENT.NS",
+      "close": 3159.0,
+      "ret5": 0.0398,
+      "vol_surge": 1.18,
       "rsi14": 50.0,
-      "score": 0.1978
+      "score": 0.1103
     },
     {
-      "ticker": "NESTLEIND.NS",
-      "close": 1450.3,
-      "ret5": 0.049,
-      "vol_surge": 1.13,
+      "ticker": "BAJAJFINSV.NS",
+      "close": 1835.4,
+      "ret5": 0.041,
+      "vol_surge": 0.95,
       "rsi14": 50.0,
-      "score": 0.1145
+      "score": 0.0961
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1860.0,
-      "ret5": 0.0258,
-      "vol_surge": 1.38,
+      "close": 1871.4,
+      "ret5": 0.042,
+      "vol_surge": 0.89,
       "rsi14": 50.0,
-      "score": 0.1126
+      "score": 0.0929
     },
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": 2172.6,
-      "ret5": 0.0069,
-      "vol_surge": 1.28,
+      "ticker": "BAJFINANCE.NS",
+      "close": 1016.9,
+      "ret5": 0.0436,
+      "vol_surge": 0.58,
       "rsi14": 50.0,
-      "score": 0.091
+      "score": 0.0732
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 4399.3,
-      "ret5": 0.0175,
-      "vol_surge": 1.02,
+      "ticker": "ASIANPAINT.NS",
+      "close": 2758.0,
+      "ret5": 0.0426,
+      "vol_surge": 0.54,
       "rsi14": 50.0,
-      "score": 0.0818
+      "score": 0.0704
     }
   ]
 }
