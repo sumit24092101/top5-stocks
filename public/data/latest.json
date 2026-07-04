@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-03T06:46:37.864450Z",
+  "as_of_ist": "2026-07-04T06:33:42.370937Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "HCLTECH.NS",
-      "close": 1147.9,
-      "ret5": 0.0429,
-      "vol_surge": 2.03,
+      "close": 1139.0,
+      "ret5": 0.0348,
+      "vol_surge": 3.13,
       "rsi14": 50.0,
-      "score": 0.1693
+      "score": 0.2278
     },
     {
       "ticker": "BAJAJFINSV.NS",
-      "close": 1895.5,
-      "ret5": 0.0751,
-      "vol_surge": 1.2,
+      "close": 1895.6,
+      "ret5": 0.0752,
+      "vol_surge": 1.71,
       "rsi14": 50.0,
-      "score": 0.1398
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1037.9,
-      "ret5": 0.0652,
-      "vol_surge": 0.7,
-      "rsi14": 50.0,
-      "score": 0.0986
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 608.25,
-      "ret5": 0.0301,
-      "vol_surge": 1.0,
-      "rsi14": 50.0,
-      "score": 0.091
+      "score": 0.1741
     },
     {
       "ticker": "ADANIENT.NS",
-      "close": 3178.2,
-      "ret5": 0.0461,
-      "vol_surge": 0.75,
+      "close": 3212.1,
+      "ret5": 0.0573,
+      "vol_surge": 1.45,
       "rsi14": 50.0,
-      "score": 0.087
+      "score": 0.1427
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1031.4,
+      "ret5": 0.0585,
+      "vol_surge": 1.05,
+      "rsi14": 50.0,
+      "score": 0.1171
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 607.4,
+      "ret5": 0.0286,
+      "vol_surge": 1.37,
+      "rsi14": 50.0,
+      "score": 0.114
     }
   ]
 }
