@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-09T07:10:05.325156Z",
+  "as_of_ist": "2026-07-10T06:59:59.126225Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DRREDDY.NS",
-      "close": 1279.2,
-      "ret5": -0.0453,
-      "vol_surge": 3.12,
+      "close": 1247.0,
+      "ret5": -0.0733,
+      "vol_surge": 2.78,
       "rsi14": 50.0,
-      "score": 0.1638
+      "score": 0.1266
     },
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1935.1,
-      "ret5": 0.0396,
-      "vol_surge": 1.59,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1249.4,
+      "ret5": 0.0268,
+      "vol_surge": 0.75,
       "rsi14": 50.0,
-      "score": 0.1379
+      "score": 0.0717
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 4593.5,
-      "ret5": 0.0443,
-      "vol_surge": 1.36,
+      "ticker": "TCS.NS",
+      "close": 2077.8,
+      "ret5": -0.0075,
+      "vol_surge": 1.08,
       "rsi14": 50.0,
-      "score": 0.1263
+      "score": 0.066
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 552.35,
-      "ret5": -0.0309,
-      "vol_surge": 2.22,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 10188.0,
+      "ret5": 0.0336,
+      "vol_surge": 0.55,
       "rsi14": 50.0,
-      "score": 0.1234
+      "score": 0.0633
     },
     {
-      "ticker": "UPL.NS",
-      "close": 584.4,
-      "ret5": 0.0342,
-      "vol_surge": 1.07,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 4952.1,
+      "ret5": 0.0205,
+      "vol_surge": 0.6,
       "rsi14": 50.0,
-      "score": 0.0984
+      "score": 0.0567
     }
   ]
 }
