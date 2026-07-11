@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-10T06:59:59.126225Z",
+  "as_of_ist": "2026-07-11T05:56:55.950590Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1247.0,
-      "ret5": -0.0733,
-      "vol_surge": 2.78,
-      "rsi14": 50.0,
-      "score": 0.1266
-    },
-    {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1249.4,
-      "ret5": 0.0268,
-      "vol_surge": 0.75,
-      "rsi14": 50.0,
-      "score": 0.0717
-    },
-    {
       "ticker": "TCS.NS",
-      "close": 2077.8,
-      "ret5": -0.0075,
-      "vol_surge": 1.08,
+      "close": 2069.0,
+      "ret5": -0.0117,
+      "vol_surge": 1.44,
       "rsi14": 50.0,
-      "score": 0.066
+      "score": 0.0866
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 10188.0,
-      "ret5": 0.0336,
-      "vol_surge": 0.55,
+      "ticker": "ICICIBANK.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.53,
       "rsi14": 50.0,
-      "score": 0.0633
+      "score": NaN
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 4952.1,
-      "ret5": 0.0205,
-      "vol_surge": 0.6,
+      "ticker": "LT.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.63,
       "rsi14": 50.0,
-      "score": 0.0567
+      "score": NaN
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.98,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 4584.4,
+      "ret5": 0.031,
+      "vol_surge": 0.72,
+      "rsi14": 50.0,
+      "score": 0.0727
     }
   ]
 }
