@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-14T05:50:42.881076Z",
+  "as_of_ist": "2026-07-15T05:51:21.237949Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DIVISLAB.NS",
-      "close": 7058.0,
-      "ret5": 0.0292,
-      "vol_surge": 1.38,
+      "close": 7274.5,
+      "ret5": 0.0769,
+      "vol_surge": 0.94,
       "rsi14": 50.0,
-      "score": 0.1153
+      "score": 0.1242
     },
     {
       "ticker": "TCS.NS",
-      "close": 2200.2,
-      "ret5": 0.0497,
-      "vol_surge": 0.88,
+      "close": 2186.9,
+      "ret5": 0.0687,
+      "vol_surge": 0.45,
       "rsi14": 50.0,
-      "score": 0.0987
+      "score": 0.0853
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 10208.0,
-      "ret5": 0.0097,
-      "vol_surge": 1.31,
+      "ticker": "AXISBANK.NS",
+      "close": 1343.2,
+      "ret5": 0.0265,
+      "vol_surge": 0.79,
       "rsi14": 50.0,
-      "score": 0.0952
+      "score": 0.0736
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1184.0,
-      "ret5": 0.0135,
-      "vol_surge": 1.23,
+      "ticker": "SUNPHARMA.NS",
+      "close": 1957.3,
+      "ret5": 0.0366,
+      "vol_surge": 0.52,
       "rsi14": 50.0,
-      "score": 0.0925
+      "score": 0.0642
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1506.4,
-      "ret5": 0.071,
-      "vol_surge": 0.37,
+      "ticker": "ULTRACEMCO.NS",
+      "close": 11780.0,
+      "ret5": 0.0112,
+      "vol_surge": 0.72,
       "rsi14": 50.0,
-      "score": 0.0812
+      "score": 0.0572
     }
   ]
 }
