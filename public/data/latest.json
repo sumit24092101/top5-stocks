@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-16T05:58:41.036981Z",
+  "as_of_ist": "2026-07-17T05:59:22.579257Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 7362.0,
-      "ret5": 0.0899,
-      "vol_surge": 0.82,
+      "ticker": "TECHM.NS",
+      "close": 1530.0,
+      "ret5": 0.0727,
+      "vol_surge": 1.91,
       "rsi14": 50.0,
-      "score": 0.1265
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 566.3,
-      "ret5": 0.0262,
-      "vol_surge": 1.21,
-      "rsi14": 50.0,
-      "score": 0.1019
+      "score": 0.1852
     },
     {
       "ticker": "TCS.NS",
-      "close": 2217.4,
-      "ret5": 0.0879,
+      "close": 2244.6,
+      "ret5": 0.0908,
+      "vol_surge": 0.4,
+      "rsi14": 50.0,
+      "score": 0.0994
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 7278.5,
+      "ret5": 0.0683,
       "vol_surge": 0.42,
       "rsi14": 50.0,
-      "score": 0.0982
+      "score": 0.0826
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1527.7,
-      "ret5": 0.0692,
-      "vol_surge": 0.54,
+      "ticker": "BAJFINANCE.NS",
+      "close": 1051.0,
+      "ret5": 0.0299,
+      "vol_surge": 0.83,
       "rsi14": 50.0,
-      "score": 0.0913
+      "score": 0.0791
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 315.55,
-      "ret5": 0.0395,
-      "vol_surge": 0.74,
+      "ticker": "HCLTECH.NS",
+      "close": 1203.4,
+      "ret5": 0.0443,
+      "vol_surge": 0.65,
       "rsi14": 50.0,
-      "score": 0.0812
+      "score": 0.0791
     }
   ]
 }
