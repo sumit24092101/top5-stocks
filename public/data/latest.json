@@ -1,8 +1,16 @@
 {
-  "as_of_ist": "2026-07-18T05:42:09.734476Z",
+  "as_of_ist": "2026-07-19T06:12:15.643014Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
+    {
+      "ticker": "TECHM.NS",
+      "close": 1572.9,
+      "ret5": 0.0812,
+      "vol_surge": 3.89,
+      "rsi14": 50.0,
+      "score": 0.2649
+    },
     {
       "ticker": "TCS.NS",
       "close": 2269.0,
@@ -10,22 +18,6 @@
       "vol_surge": 1.07,
       "rsi14": 50.0,
       "score": 0.1534
-    },
-    {
-      "ticker": "LT.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.91,
-      "rsi14": 50.0,
-      "score": NaN
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.39,
-      "rsi14": 50.0,
-      "score": NaN
     },
     {
       "ticker": "AXISBANK.NS",
@@ -37,11 +29,19 @@
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": NaN,
-      "ret5": NaN,
+      "close": 1056.3,
+      "ret5": 0.0351,
       "vol_surge": 1.49,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1273
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 7247.5,
+      "ret5": 0.0602,
+      "vol_surge": 1.12,
+      "rsi14": 50.0,
+      "score": 0.123
     }
   ]
 }
