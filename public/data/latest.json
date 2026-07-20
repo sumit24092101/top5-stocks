@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-19T06:12:15.643014Z",
+  "as_of_ist": "2026-07-20T06:31:45.329538Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TECHM.NS",
-      "close": 1572.9,
-      "ret5": 0.0812,
-      "vol_surge": 3.89,
-      "rsi14": 50.0,
-      "score": 0.2649
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 2269.0,
-      "ret5": 0.1027,
-      "vol_surge": 1.07,
-      "rsi14": 50.0,
-      "score": 0.1534
-    },
-    {
       "ticker": "AXISBANK.NS",
-      "close": 1328.5,
-      "ret5": 0.0036,
-      "vol_surge": 1.88,
+      "close": 1257.7,
+      "ret5": -0.0468,
+      "vol_surge": 2.57,
       "rsi14": 50.0,
-      "score": 0.1282
+      "score": 0.1339
     },
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1056.3,
-      "ret5": 0.0351,
-      "vol_surge": 1.49,
+      "ticker": "ICICIBANK.NS",
+      "close": 1455.3,
+      "ret5": 0.0325,
+      "vol_surge": 1.13,
       "rsi14": 50.0,
-      "score": 0.1273
+      "score": 0.101
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1258.2,
+      "ret5": 0.0168,
+      "vol_surge": 1.17,
+      "rsi14": 50.0,
+      "score": 0.0914
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1581.0,
+      "ret5": 0.0508,
+      "vol_surge": 0.53,
+      "rsi14": 50.0,
+      "score": 0.0759
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 7247.5,
-      "ret5": 0.0602,
-      "vol_surge": 1.12,
+      "close": 7390.0,
+      "ret5": 0.0651,
+      "vol_surge": 0.28,
       "rsi14": 50.0,
-      "score": 0.123
+      "score": 0.0707
     }
   ]
 }
