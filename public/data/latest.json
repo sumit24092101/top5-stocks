@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-20T06:31:45.329538Z",
+  "as_of_ist": "2026-07-21T06:10:52.581663Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1257.7,
-      "ret5": -0.0468,
-      "vol_surge": 2.57,
+      "ticker": "ULTRACEMCO.NS",
+      "close": 11971.0,
+      "ret5": 0.0413,
+      "vol_surge": 1.97,
       "rsi14": 50.0,
-      "score": 0.1339
-    },
-    {
-      "ticker": "ICICIBANK.NS",
-      "close": 1455.3,
-      "ret5": 0.0325,
-      "vol_surge": 1.13,
-      "rsi14": 50.0,
-      "score": 0.101
-    },
-    {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1258.2,
-      "ret5": 0.0168,
-      "vol_surge": 1.17,
-      "rsi14": 50.0,
-      "score": 0.0914
+      "score": 0.1646
     },
     {
       "ticker": "TECHM.NS",
-      "close": 1581.0,
-      "ret5": 0.0508,
-      "vol_surge": 0.53,
+      "close": 1586.4,
+      "ret5": 0.0544,
+      "vol_surge": 0.6,
       "rsi14": 50.0,
-      "score": 0.0759
+      "score": 0.0837
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 7390.0,
-      "ret5": 0.0651,
-      "vol_surge": 0.28,
+      "ticker": "ICICIBANK.NS",
+      "close": 1463.7,
+      "ret5": 0.0398,
+      "vol_surge": 0.72,
       "rsi14": 50.0,
-      "score": 0.0707
+      "score": 0.08
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1233.7,
+      "ret5": 0.0682,
+      "vol_surge": 0.36,
+      "rsi14": 50.0,
+      "score": 0.0787
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 616.95,
+      "ret5": 0.0502,
+      "vol_surge": 0.54,
+      "rsi14": 50.0,
+      "score": 0.0764
     }
   ]
 }
