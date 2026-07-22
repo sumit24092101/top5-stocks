@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-21T06:10:52.581663Z",
+  "as_of_ist": "2026-07-22T06:09:56.712493Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 11971.0,
-      "ret5": 0.0413,
-      "vol_surge": 1.97,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 10872.0,
+      "ret5": 0.0532,
+      "vol_surge": 2.05,
       "rsi14": 50.0,
-      "score": 0.1646
+      "score": 0.1795
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1586.4,
-      "ret5": 0.0544,
-      "vol_surge": 0.6,
+      "ticker": "NESTLEIND.NS",
+      "close": 1496.5,
+      "ret5": 0.0486,
+      "vol_surge": 1.63,
       "rsi14": 50.0,
-      "score": 0.0837
+      "score": 0.1476
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1463.7,
-      "ret5": 0.0398,
-      "vol_surge": 0.72,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1271.9,
+      "ret5": 0.0194,
+      "vol_surge": 1.8,
       "rsi14": 50.0,
-      "score": 0.08
+      "score": 0.1355
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5040.3,
+      "ret5": 0.0337,
+      "vol_surge": 0.69,
+      "rsi14": 50.0,
+      "score": 0.0728
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1233.7,
-      "ret5": 0.0682,
-      "vol_surge": 0.36,
+      "close": 1239.0,
+      "ret5": 0.0716,
+      "vol_surge": 0.21,
       "rsi14": 50.0,
-      "score": 0.0787
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 616.95,
-      "ret5": 0.0502,
-      "vol_surge": 0.54,
-      "rsi14": 50.0,
-      "score": 0.0764
+      "score": 0.0712
     }
   ]
 }
