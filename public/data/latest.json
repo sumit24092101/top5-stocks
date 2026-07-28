@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-27T06:48:17.267662Z",
+  "as_of_ist": "2026-07-28T06:07:29.468941Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1960.1,
-      "ret5": 0.0019,
-      "vol_surge": 1.6,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2065.4,
+      "ret5": -0.036,
+      "vol_surge": 2.86,
       "rsi14": 50.0,
-      "score": 0.1082
+      "score": 0.1618
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2403.4,
+      "ret5": 0.0821,
+      "vol_surge": 1.02,
+      "rsi14": 50.0,
+      "score": 0.1337
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1295.7,
-      "ret5": 0.0609,
-      "vol_surge": 0.55,
+      "close": 1335.3,
+      "ret5": 0.0773,
+      "vol_surge": 0.63,
       "rsi14": 50.0,
-      "score": 0.0854
+      "score": 0.1036
     },
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 1104.3,
-      "ret5": 0.0114,
-      "vol_surge": 0.98,
+      "ticker": "WIPRO.NS",
+      "close": 180.77,
+      "ret5": 0.0449,
+      "vol_surge": 0.84,
       "rsi14": 50.0,
-      "score": 0.0745
+      "score": 0.092
     },
     {
-      "ticker": "ITC.NS",
-      "close": 286.8,
-      "ret5": 0.0145,
-      "vol_surge": 0.88,
+      "ticker": "INFY.NS",
+      "close": 1105.1,
+      "ret5": 0.0294,
+      "vol_surge": 0.97,
       "rsi14": 50.0,
-      "score": 0.0704
-    },
-    {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 11202.5,
-      "ret5": 0.0646,
-      "vol_surge": 0.28,
-      "rsi14": 50.0,
-      "score": 0.0702
+      "score": 0.0882
     }
   ]
 }
