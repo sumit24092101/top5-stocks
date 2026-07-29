@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-28T06:07:29.468941Z",
+  "as_of_ist": "2026-07-29T06:13:00.681568Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": 2065.4,
-      "ret5": -0.036,
-      "vol_surge": 2.86,
+      "ticker": "INFY.NS",
+      "close": 1159.7,
+      "ret5": 0.1023,
+      "vol_surge": 1.22,
       "rsi14": 50.0,
-      "score": 0.1618
+      "score": 0.1632
     },
     {
       "ticker": "TCS.NS",
-      "close": 2403.4,
-      "ret5": 0.0821,
-      "vol_surge": 1.02,
+      "close": 2450.4,
+      "ret5": 0.1096,
+      "vol_surge": 0.92,
       "rsi14": 50.0,
-      "score": 0.1337
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1335.3,
-      "ret5": 0.0773,
-      "vol_surge": 0.63,
-      "rsi14": 50.0,
-      "score": 0.1036
+      "score": 0.1488
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 180.77,
-      "ret5": 0.0449,
-      "vol_surge": 0.84,
+      "close": 184.33,
+      "ret5": 0.0688,
+      "vol_surge": 1.05,
       "rsi14": 50.0,
-      "score": 0.092
+      "score": 0.1247
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1105.1,
-      "ret5": 0.0294,
-      "vol_surge": 0.97,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 11465.0,
+      "ret5": 0.102,
+      "vol_surge": 0.5,
       "rsi14": 50.0,
-      "score": 0.0882
+      "score": 0.1151
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "close": 1485.7,
+      "ret5": 0.0499,
+      "vol_surge": 1.02,
+      "rsi14": 50.0,
+      "score": 0.108
     }
   ]
 }
