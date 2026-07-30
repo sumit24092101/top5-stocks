@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-29T06:13:00.681568Z",
+  "as_of_ist": "2026-07-30T06:05:20.186024Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "INFY.NS",
-      "close": 1159.7,
-      "ret5": 0.1023,
-      "vol_surge": 1.22,
-      "rsi14": 50.0,
-      "score": 0.1632
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 2450.4,
-      "ret5": 0.1096,
-      "vol_surge": 0.92,
-      "rsi14": 50.0,
-      "score": 0.1488
-    },
-    {
       "ticker": "WIPRO.NS",
-      "close": 184.33,
-      "ret5": 0.0688,
-      "vol_surge": 1.05,
+      "close": 188.11,
+      "ret5": 0.0883,
+      "vol_surge": 1.96,
       "rsi14": 50.0,
-      "score": 0.1247
+      "score": 0.2014
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 11465.0,
-      "ret5": 0.102,
-      "vol_surge": 0.5,
+      "ticker": "INFY.NS",
+      "close": 1173.7,
+      "ret5": 0.1206,
+      "vol_surge": 0.86,
       "rsi14": 50.0,
-      "score": 0.1151
+      "score": 0.1539
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1485.7,
-      "ret5": 0.0499,
-      "vol_surge": 1.02,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5314.0,
+      "ret5": 0.0812,
+      "vol_surge": 1.08,
       "rsi14": 50.0,
-      "score": 0.108
+      "score": 0.1367
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7849.5,
+      "ret5": 0.0285,
+      "vol_surge": 1.47,
+      "rsi14": 50.0,
+      "score": 0.1211
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 413.85,
+      "ret5": -0.0309,
+      "vol_surge": 2.09,
+      "rsi14": 50.0,
+      "score": 0.1144
     }
   ]
 }
