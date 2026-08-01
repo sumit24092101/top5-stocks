@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-07-31T06:28:15.686338Z",
+  "as_of_ist": "2026-08-01T06:13:51.284142Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "ASIANPAINT.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.87,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
       "ticker": "BAJFINANCE.NS",
-      "close": 1131.7,
-      "ret5": 0.1174,
-      "vol_surge": 2.73,
+      "close": 1141.2,
+      "ret5": 0.1268,
+      "vol_surge": 4.11,
       "rsi14": 50.0,
-      "score": 0.2762
-    },
-    {
-      "ticker": "M&M.NS",
-      "close": 3425.3,
-      "ret5": 0.0606,
-      "vol_surge": 1.58,
-      "rsi14": 50.0,
-      "score": 0.1536
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 8011.5,
-      "ret5": 0.1012,
-      "vol_surge": 0.95,
-      "rsi14": 50.0,
-      "score": 0.1443
-    },
-    {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 1999.1,
-      "ret5": 0.0581,
-      "vol_surge": 1.27,
-      "rsi14": 50.0,
-      "score": 0.1311
+      "score": 0.3014
     },
     {
       "ticker": "INFY.NS",
-      "close": 1136.2,
-      "ret5": 0.0916,
-      "vol_surge": 0.4,
+      "close": 1130.1,
+      "ret5": 0.0857,
+      "vol_surge": 0.95,
       "rsi14": 50.0,
-      "score": 0.0999
+      "score": 0.1317
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 1.29,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.41,
+      "rsi14": 50.0,
+      "score": NaN
     }
   ]
 }
