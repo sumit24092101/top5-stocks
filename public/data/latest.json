@@ -1,16 +1,8 @@
 {
-  "as_of_ist": "2026-08-01T06:13:51.284142Z",
+  "as_of_ist": "2026-08-02T06:16:36.626734Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.87,
-      "rsi14": 50.0,
-      "score": NaN
-    },
     {
       "ticker": "BAJFINANCE.NS",
       "close": 1141.2,
@@ -20,28 +12,36 @@
       "score": 0.3014
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1130.1,
-      "ret5": 0.0857,
-      "vol_surge": 0.95,
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2029.1,
+      "ret5": 0.0812,
+      "vol_surge": 2.81,
       "rsi14": 50.0,
-      "score": 0.1317
+      "score": 0.2523
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.29,
+      "ticker": "M&M.NS",
+      "close": 3398.5,
+      "ret5": 0.075,
+      "vol_surge": 2.35,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.2167
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.41,
+      "ticker": "DIVISLAB.NS",
+      "close": 8056.0,
+      "ret5": 0.1114,
+      "vol_surge": 1.57,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1937
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "close": 548.5,
+      "ret5": -0.0118,
+      "vol_surge": 2.91,
+      "rsi14": 50.0,
+      "score": 0.1844
     }
   ]
 }
