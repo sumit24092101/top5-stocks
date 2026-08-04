@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-03T06:43:08.885254Z",
+  "as_of_ist": "2026-08-04T06:09:24.385174Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "DIVISLAB.NS",
-      "close": 8472.5,
-      "ret5": 0.1428,
-      "vol_surge": 2.16,
+      "close": 8325.0,
+      "ret5": 0.1229,
+      "vol_surge": 1.01,
       "rsi14": 50.0,
-      "score": 0.258
+      "score": 0.1658
     },
     {
-      "ticker": "ITC.NS",
-      "close": 288.2,
-      "ret5": 0.0082,
-      "vol_surge": 2.15,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5581.5,
+      "ret5": 0.0915,
+      "vol_surge": 0.83,
       "rsi14": 50.0,
-      "score": 0.1498
+      "score": 0.1287
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 14151.0,
-      "ret5": 0.0527,
-      "vol_surge": 1.59,
+      "ticker": "UPL.NS",
+      "close": 588.0,
+      "ret5": -0.0337,
+      "vol_surge": 2.18,
       "rsi14": 50.0,
-      "score": 0.1483
+      "score": 0.1181
     },
     {
       "ticker": "BAJFINANCE.NS",
-      "close": 1156.1,
-      "ret5": 0.1028,
-      "vol_surge": 0.86,
+      "close": 1148.0,
+      "ret5": 0.0951,
+      "vol_surge": 0.41,
       "rsi14": 50.0,
-      "score": 0.1395
+      "score": 0.1035
     },
     {
       "ticker": "BAJAJFINSV.NS",
-      "close": 2084.6,
-      "ret5": 0.0897,
-      "vol_surge": 0.93,
+      "close": 2070.6,
+      "ret5": 0.0824,
+      "vol_surge": 0.56,
       "rsi14": 50.0,
-      "score": 0.1335
+      "score": 0.1033
     }
   ]
 }
