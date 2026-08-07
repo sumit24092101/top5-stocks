@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-06T06:09:36.500801Z",
+  "as_of_ist": "2026-08-07T05:12:06.321280Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1155.7,
-      "ret5": 0.1023,
-      "vol_surge": 0.28,
+      "ticker": "BRITANNIA.NS",
+      "close": 5618.5,
+      "ret5": 0.034,
+      "vol_surge": 2.71,
       "rsi14": 50.0,
-      "score": 0.1008
-    },
-    {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 2086.1,
-      "ret5": 0.0821,
-      "vol_surge": 0.2,
-      "rsi14": 50.0,
-      "score": 0.0787
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 8409.0,
-      "ret5": 0.0802,
-      "vol_surge": 0.22,
-      "rsi14": 50.0,
-      "score": 0.0786
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 4978.9,
-      "ret5": 0.0266,
-      "vol_surge": 0.77,
-      "rsi14": 50.0,
-      "score": 0.0724
+      "score": 0.2079
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5638.0,
-      "ret5": 0.0588,
-      "vol_surge": 0.34,
+      "close": 5721.0,
+      "ret5": 0.0622,
+      "vol_surge": 1.1,
       "rsi14": 50.0,
-      "score": 0.0699
+      "score": 0.1231
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "close": 2011.6,
+      "ret5": 0.0535,
+      "vol_surge": 0.56,
+      "rsi14": 50.0,
+      "score": 0.0804
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 1086.2,
+      "ret5": 0.0572,
+      "vol_surge": 0.44,
+      "rsi14": 50.0,
+      "score": 0.0754
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1646.0,
+      "ret5": -0.0138,
+      "vol_surge": 0.99,
+      "rsi14": 50.0,
+      "score": 0.055
     }
   ]
 }
