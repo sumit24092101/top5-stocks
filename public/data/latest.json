@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-09T04:45:43.832683Z",
+  "as_of_ist": "2026-08-10T05:05:03.011700Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SBIN.NS",
-      "close": 1097.2,
-      "ret5": 0.0679,
-      "vol_surge": 2.66,
+      "ticker": "TITAN.NS",
+      "close": 5090.6,
+      "ret5": 0.0181,
+      "vol_surge": 1.92,
       "rsi14": 50.0,
-      "score": 0.2319
+      "score": 0.1422
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5725.0,
-      "ret5": 0.0629,
-      "vol_surge": 2.46,
+      "close": 5865.0,
+      "ret5": 0.0742,
+      "vol_surge": 0.69,
       "rsi14": 50.0,
-      "score": 0.2143
-    },
-    {
-      "ticker": "BRITANNIA.NS",
-      "close": 5510.0,
-      "ret5": 0.014,
-      "vol_surge": 4.46,
-      "rsi14": 50.0,
-      "score": 0.2112
+      "score": 0.1051
     },
     {
       "ticker": "GRASIM.NS",
-      "close": 3323.0,
-      "ret5": 0.0736,
-      "vol_surge": 1.99,
+      "close": 3367.0,
+      "ret5": 0.036,
+      "vol_surge": 0.86,
       "rsi14": 50.0,
-      "score": 0.1918
+      "score": 0.0859
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1635.0,
-      "ret5": -0.0099,
-      "vol_surge": 1.92,
+      "ticker": "SBIN.NS",
+      "close": 1088.3,
+      "ret5": 0.0414,
+      "vol_surge": 0.63,
       "rsi14": 50.0,
-      "score": 0.12
+      "score": 0.075
+    },
+    {
+      "ticker": "M&M.NS",
+      "close": 3514.7,
+      "ret5": 0.0251,
+      "vol_surge": 0.25,
+      "rsi14": 50.0,
+      "score": 0.0368
     }
   ]
 }
