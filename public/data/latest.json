@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-11T04:48:18.267812Z",
+  "as_of_ist": "2026-08-12T05:13:14.215782Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "GRASIM.NS",
-      "close": 3356.7,
-      "ret5": 0.073,
-      "vol_surge": 0.26,
+      "close": 3372.0,
+      "ret5": 0.0492,
+      "vol_surge": 0.63,
       "rsi14": 50.0,
-      "score": 0.0761
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 5163.0,
-      "ret5": 0.0462,
-      "vol_surge": 0.56,
-      "rsi14": 50.0,
-      "score": 0.0744
+      "score": 0.0816
     },
     {
       "ticker": "HEROMOTOCO.NS",
-      "close": 5907.5,
-      "ret5": 0.0648,
-      "vol_surge": 0.29,
+      "close": 5891.0,
+      "ret5": 0.0353,
+      "vol_surge": 0.38,
       "rsi14": 50.0,
-      "score": 0.0715
+      "score": 0.0534
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 3030.0,
-      "ret5": -0.0066,
-      "vol_surge": 0.62,
+      "ticker": "SBIN.NS",
+      "close": 1077.8,
+      "ret5": 0.0216,
+      "vol_surge": 0.48,
       "rsi14": 50.0,
-      "score": 0.0361
+      "score": 0.0496
     },
     {
-      "ticker": "ONGC.NS",
-      "close": 241.94,
-      "ret5": -0.0002,
-      "vol_surge": 0.46,
+      "ticker": "DIVISLAB.NS",
+      "close": 8614.0,
+      "ret5": 0.0269,
+      "vol_surge": 0.4,
       "rsi14": 50.0,
-      "score": 0.0304
+      "score": 0.048
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "close": 1199.0,
+      "ret5": 0.0196,
+      "vol_surge": 0.34,
+      "rsi14": 50.0,
+      "score": 0.0385
     }
   ]
 }
