@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-14T05:13:50.426827Z",
+  "as_of_ist": "2026-08-15T04:03:14.628803Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TITAN.NS",
-      "close": 5076.2,
-      "ret5": 0.0274,
-      "vol_surge": 0.2,
+      "ticker": "INFY.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.43,
       "rsi14": 50.0,
-      "score": 0.0353
+      "score": NaN
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 8535.0,
-      "ret5": 0.0223,
-      "vol_surge": 0.22,
+      "ticker": "ICICIBANK.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.49,
       "rsi14": 50.0,
-      "score": 0.0323
+      "score": NaN
     },
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1198.8,
-      "ret5": 0.0229,
-      "vol_surge": 0.2,
+      "ticker": "BHARTIARTL.NS",
+      "close": 1992.1,
+      "ret5": 0.0164,
+      "vol_surge": 1.85,
       "rsi14": 50.0,
-      "score": 0.0314
+      "score": 0.1363
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.42,
+      "rsi14": 50.0,
+      "score": NaN
     },
     {
       "ticker": "ADANIENT.NS",
-      "close": 3004.5,
-      "ret5": -0.0051,
-      "vol_surge": 0.5,
+      "close": 3035.1,
+      "ret5": 0.005,
+      "vol_surge": 1.51,
       "rsi14": 50.0,
-      "score": 0.0291
-    },
-    {
-      "ticker": "EICHERMOT.NS",
-      "close": 8102.0,
-      "ret5": 0.0169,
-      "vol_surge": 0.17,
-      "rsi14": 50.0,
-      "score": 0.0248
+      "score": 0.1049
     }
   ]
 }
