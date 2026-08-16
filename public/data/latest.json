@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-15T04:03:14.628803Z",
+  "as_of_ist": "2026-08-16T04:07:01.941500Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "INFY.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.43,
+      "ticker": "SHREECEM.NS",
+      "close": 24795.0,
+      "ret5": -0.0467,
+      "vol_surge": 2.78,
       "rsi14": 50.0,
-      "score": NaN
-    },
-    {
-      "ticker": "ICICIBANK.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.49,
-      "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1476
     },
     {
       "ticker": "BHARTIARTL.NS",
       "close": 1992.1,
       "ret5": 0.0164,
-      "vol_surge": 1.85,
+      "vol_surge": 1.8,
       "rsi14": 50.0,
-      "score": 0.1363
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.42,
-      "rsi14": 50.0,
-      "score": NaN
+      "score": 0.133
     },
     {
       "ticker": "ADANIENT.NS",
       "close": 3035.1,
       "ret5": 0.005,
-      "vol_surge": 1.51,
+      "vol_surge": 1.53,
       "rsi14": 50.0,
-      "score": 0.1049
+      "score": 0.1058
+    },
+    {
+      "ticker": "BPCL.NS",
+      "close": 319.45,
+      "ret5": -0.0048,
+      "vol_surge": 1.32,
+      "rsi14": 50.0,
+      "score": 0.0841
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "close": 1200.0,
+      "ret5": 0.0239,
+      "vol_surge": 0.93,
+      "rsi14": 50.0,
+      "score": 0.0812
     }
   ]
 }
