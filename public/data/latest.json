@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-16T04:07:01.941500Z",
+  "as_of_ist": "2026-08-17T04:10:31.433959Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SHREECEM.NS",
-      "close": 24795.0,
-      "ret5": -0.0467,
-      "vol_surge": 2.78,
-      "rsi14": 50.0,
-      "score": 0.1476
-    },
-    {
       "ticker": "BHARTIARTL.NS",
-      "close": 1992.1,
-      "ret5": 0.0164,
-      "vol_surge": 1.8,
+      "close": 1987.3,
+      "ret5": 0.0228,
+      "vol_surge": 0.22,
       "rsi14": 50.0,
-      "score": 0.133
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 3035.1,
-      "ret5": 0.005,
-      "vol_surge": 1.53,
-      "rsi14": 50.0,
-      "score": 0.1058
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 319.45,
-      "ret5": -0.0048,
-      "vol_surge": 1.32,
-      "rsi14": 50.0,
-      "score": 0.0841
+      "score": 0.0328
     },
     {
       "ticker": "DRREDDY.NS",
-      "close": 1200.0,
-      "ret5": 0.0239,
-      "vol_surge": 0.93,
+      "close": 1186.8,
+      "ret5": 0.0242,
+      "vol_surge": 0.14,
       "rsi14": 50.0,
-      "score": 0.0812
+      "score": 0.0286
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "close": 8528.5,
+      "ret5": 0.0275,
+      "vol_surge": 0.05,
+      "rsi14": 50.0,
+      "score": 0.0254
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 8113.0,
+      "ret5": 0.0173,
+      "vol_surge": 0.09,
+      "rsi14": 50.0,
+      "score": 0.0201
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": 3030.5,
+      "ret5": 0.0068,
+      "vol_surge": 0.16,
+      "rsi14": 50.0,
+      "score": 0.0163
     }
   ]
 }
