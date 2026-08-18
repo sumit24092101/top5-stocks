@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-17T04:10:31.433959Z",
+  "as_of_ist": "2026-08-18T04:06:14.626317Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1987.3,
-      "ret5": 0.0228,
-      "vol_surge": 0.22,
-      "rsi14": 50.0,
-      "score": 0.0328
-    },
-    {
-      "ticker": "DRREDDY.NS",
-      "close": 1186.8,
-      "ret5": 0.0242,
-      "vol_surge": 0.14,
-      "rsi14": 50.0,
-      "score": 0.0286
-    },
-    {
       "ticker": "DIVISLAB.NS",
-      "close": 8528.5,
-      "ret5": 0.0275,
-      "vol_surge": 0.05,
+      "close": 8595.5,
+      "ret5": 0.0356,
+      "vol_surge": 0.16,
       "rsi14": 50.0,
-      "score": 0.0254
+      "score": 0.0393
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 8113.0,
-      "ret5": 0.0173,
-      "vol_surge": 0.09,
+      "ticker": "ONGC.NS",
+      "close": 241.12,
+      "ret5": 0.007,
+      "vol_surge": 0.25,
       "rsi14": 50.0,
-      "score": 0.0201
+      "score": 0.0222
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1937.4,
+      "ret5": 0.0116,
+      "vol_surge": 0.16,
+      "rsi14": 50.0,
+      "score": 0.0199
     },
     {
       "ticker": "ADANIENT.NS",
-      "close": 3030.5,
-      "ret5": 0.0068,
-      "vol_surge": 0.16,
+      "close": 3018.0,
+      "ret5": 0.0075,
+      "vol_surge": 0.07,
       "rsi14": 50.0,
-      "score": 0.0163
+      "score": 0.0104
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 8067.0,
+      "ret5": 0.0084,
+      "vol_surge": 0.04,
+      "rsi14": 50.0,
+      "score": 0.0094
     }
   ]
 }
