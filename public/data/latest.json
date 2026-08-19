@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-18T04:06:14.626317Z",
+  "as_of_ist": "2026-08-19T04:06:44.852814Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 8595.5,
-      "ret5": 0.0356,
-      "vol_surge": 0.16,
-      "rsi14": 50.0,
-      "score": 0.0393
-    },
-    {
       "ticker": "ONGC.NS",
-      "close": 241.12,
-      "ret5": 0.007,
-      "vol_surge": 0.25,
+      "close": 240.53,
+      "ret5": 0.0062,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.0222
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1937.4,
-      "ret5": 0.0116,
-      "vol_surge": 0.16,
-      "rsi14": 50.0,
-      "score": 0.0199
+      "score": 0.0136
     },
     {
       "ticker": "ADANIENT.NS",
-      "close": 3018.0,
-      "ret5": 0.0075,
-      "vol_surge": 0.07,
+      "close": 2988.1,
+      "ret5": 0.0008,
+      "vol_surge": 0.17,
       "rsi14": 50.0,
-      "score": 0.0104
+      "score": 0.012
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 8067.0,
-      "ret5": 0.0084,
+      "ticker": "LT.NS",
+      "close": 4038.6,
+      "ret5": 0.0046,
+      "vol_surge": 0.06,
+      "rsi14": 50.0,
+      "score": 0.0077
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1675.4,
+      "ret5": 0.0043,
       "vol_surge": 0.04,
       "rsi14": 50.0,
-      "score": 0.0094
+      "score": 0.0064
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "close": 535.8,
+      "ret5": -0.0022,
+      "vol_surge": 0.11,
+      "rsi14": 50.0,
+      "score": 0.0057
     }
   ]
 }
