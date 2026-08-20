@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-19T04:06:44.852814Z",
+  "as_of_ist": "2026-08-20T04:06:56.373247Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ONGC.NS",
-      "close": 240.53,
-      "ret5": 0.0062,
-      "vol_surge": 0.13,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1292.9,
+      "ret5": 0.014,
+      "vol_surge": 0.35,
       "rsi14": 50.0,
-      "score": 0.0136
+      "score": 0.0344
     },
     {
       "ticker": "ADANIENT.NS",
-      "close": 2988.1,
-      "ret5": 0.0008,
-      "vol_surge": 0.17,
+      "close": 3006.0,
+      "ret5": 0.0139,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.012
+      "score": 0.0195
     },
     {
-      "ticker": "LT.NS",
-      "close": 4038.6,
-      "ret5": 0.0046,
+      "ticker": "AXISBANK.NS",
+      "close": 1244.7,
+      "ret5": 0.0187,
       "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.0077
+      "score": 0.019
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1675.4,
-      "ret5": 0.0043,
-      "vol_surge": 0.04,
+      "close": 1686.0,
+      "ret5": 0.0169,
+      "vol_surge": 0.06,
       "rsi14": 50.0,
-      "score": 0.0064
+      "score": 0.0177
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 535.8,
-      "ret5": -0.0022,
-      "vol_surge": 0.11,
+      "ticker": "UPL.NS",
+      "close": 571.9,
+      "ret5": 0.0025,
+      "vol_surge": 0.18,
       "rsi14": 50.0,
-      "score": 0.0057
+      "score": 0.0141
     }
   ]
 }
