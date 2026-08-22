@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-21T04:08:37.643159Z",
+  "as_of_ist": "2026-08-22T04:04:30.074418Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "HINDUNILVR.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.46,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
       "ticker": "KOTAKBANK.NS",
-      "close": 402.7,
-      "ret5": 0.0295,
-      "vol_surge": 0.15,
+      "close": 402.8,
+      "ret5": 0.0298,
+      "vol_surge": 1.59,
       "rsi14": 50.0,
-      "score": 0.0339
+      "score": 0.1298
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1252.3,
-      "ret5": 0.0287,
-      "vol_surge": 0.09,
+      "ticker": "ADANIENT.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.8,
       "rsi14": 50.0,
-      "score": 0.0292
+      "score": NaN
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1291.0,
-      "ret5": 0.0173,
-      "vol_surge": 0.09,
+      "ticker": "SUNPHARMA.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.64,
       "rsi14": 50.0,
-      "score": 0.0197
+      "score": NaN
     },
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1687.8,
-      "ret5": 0.0137,
-      "vol_surge": 0.06,
+      "ticker": "POWERGRID.NS",
+      "close": 272.4,
+      "ret5": 0.0239,
+      "vol_surge": 1.95,
       "rsi14": 50.0,
-      "score": 0.0148
-    },
-    {
-      "ticker": "HDFCBANK.NS",
-      "close": 730.55,
-      "ret5": 0.0049,
-      "vol_surge": 0.14,
-      "rsi14": 50.0,
-      "score": 0.0131
+      "score": 0.1494
     }
   ]
 }
