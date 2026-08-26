@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-25T04:07:37.738710Z",
+  "as_of_ist": "2026-08-26T04:09:19.324224Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1318.9,
-      "ret5": 0.0405,
-      "vol_surge": 0.09,
+      "ticker": "ADANIENT.NS",
+      "close": 3138.9,
+      "ret5": 0.0497,
+      "vol_surge": 0.25,
       "rsi14": 50.0,
-      "score": 0.0384
+      "score": 0.0562
     },
     {
-      "ticker": "UPL.NS",
-      "close": 577.15,
-      "ret5": 0.0177,
-      "vol_surge": 0.32,
+      "ticker": "BPCL.NS",
+      "close": 322.65,
+      "ret5": 0.051,
+      "vol_surge": 0.2,
       "rsi14": 50.0,
-      "score": 0.0356
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 553.95,
-      "ret5": 0.0292,
-      "vol_surge": 0.06,
-      "rsi14": 50.0,
-      "score": 0.0273
+      "score": 0.0541
     },
     {
       "ticker": "KOTAKBANK.NS",
-      "close": 400.0,
-      "ret5": 0.0186,
-      "vol_surge": 0.1,
+      "close": 408.55,
+      "ret5": 0.0469,
+      "vol_surge": 0.24,
       "rsi14": 50.0,
-      "score": 0.0213
+      "score": 0.0537
     },
     {
-      "ticker": "WIPRO.NS",
-      "close": 180.55,
-      "ret5": 0.014,
-      "vol_surge": 0.12,
+      "ticker": "DIVISLAB.NS",
+      "close": 8862.0,
+      "ret5": 0.0353,
+      "vol_surge": 0.24,
       "rsi14": 50.0,
-      "score": 0.0195
+      "score": 0.0442
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 140.13,
+      "ret5": 0.0281,
+      "vol_surge": 0.21,
+      "rsi14": 50.0,
+      "score": 0.0366
     }
   ]
 }
