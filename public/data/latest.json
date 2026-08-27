@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-26T04:09:19.324224Z",
+  "as_of_ist": "2026-08-27T14:26:23.249731Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 3138.9,
-      "ret5": 0.0497,
-      "vol_surge": 0.25,
-      "rsi14": 50.0,
-      "score": 0.0562
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 322.65,
-      "ret5": 0.051,
-      "vol_surge": 0.2,
-      "rsi14": 50.0,
-      "score": 0.0541
-    },
-    {
       "ticker": "KOTAKBANK.NS",
-      "close": 408.55,
-      "ret5": 0.0469,
-      "vol_surge": 0.24,
+      "close": 424.2,
+      "ret5": 0.0676,
+      "vol_surge": 2.95,
       "rsi14": 50.0,
-      "score": 0.0537
+      "score": 0.2504
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": 3169.0,
+      "ret5": 0.0581,
+      "vol_surge": 1.61,
+      "rsi14": 50.0,
+      "score": 0.1538
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 186.8,
+      "ret5": 0.018,
+      "vol_surge": 1.67,
+      "rsi14": 50.0,
+      "score": 0.1255
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1337.5,
+      "ret5": 0.0291,
+      "vol_surge": 1.5,
+      "rsi14": 50.0,
+      "score": 0.1234
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 8862.0,
-      "ret5": 0.0353,
-      "vol_surge": 0.24,
+      "close": 9060.0,
+      "ret5": 0.0572,
+      "vol_surge": 1.06,
       "rsi14": 50.0,
-      "score": 0.0442
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 140.13,
-      "ret5": 0.0281,
-      "vol_surge": 0.21,
-      "rsi14": 50.0,
-      "score": 0.0366
+      "score": 0.1164
     }
   ]
 }
