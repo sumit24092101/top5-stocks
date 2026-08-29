@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-28T15:34:01.348559Z",
+  "as_of_ist": "2026-08-29T10:18:17.957700Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "COALINDIA.NS",
-      "close": 401.0,
-      "ret5": -0.0104,
-      "vol_surge": 5.07,
+      "ticker": "RELIANCE.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.68,
       "rsi14": 50.0,
-      "score": 0.1917
+      "score": NaN
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 9239.0,
-      "ret5": 0.0747,
-      "vol_surge": 1.56,
+      "ticker": "TCS.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 1.48,
       "rsi14": 50.0,
-      "score": 0.1635
+      "score": NaN
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 423.7,
-      "ret5": 0.0519,
-      "vol_surge": 1.61,
+      "ticker": "HDFCBANK.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.65,
       "rsi14": 50.0,
-      "score": 0.1491
+      "score": NaN
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1316.1,
-      "ret5": 0.0104,
-      "vol_surge": 1.83,
+      "ticker": "INFY.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 1.2,
       "rsi14": 50.0,
-      "score": 0.1303
+      "score": NaN
     },
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1707.5,
-      "ret5": 0.0044,
-      "vol_surge": 1.86,
+      "ticker": "ICICIBANK.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.94,
       "rsi14": 50.0,
-      "score": 0.1275
+      "score": NaN
     }
   ]
 }
