@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-08-31T09:59:31.603324Z",
+  "as_of_ist": "2026-09-01T08:50:04.939823Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIENT.NS",
-      "close": 2965.7,
-      "ret5": -0.011,
-      "vol_surge": 4.12,
+      "ticker": "BAJAJ-AUTO.NS",
+      "close": 12295.0,
+      "ret5": 0.0419,
+      "vol_surge": 1.62,
       "rsi14": 50.0,
-      "score": 0.1912
+      "score": 0.1418
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 709.7,
-      "ret5": -0.0265,
-      "vol_surge": 2.56,
+      "ticker": "HCLTECH.NS",
+      "close": 1357.0,
+      "ret5": 0.0313,
+      "vol_surge": 1.49,
       "rsi14": 50.0,
-      "score": 0.1497
+      "score": 0.1243
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "close": 12889.0,
+      "ret5": -0.0577,
+      "vol_surge": 2.51,
+      "rsi14": 50.0,
+      "score": 0.121
+    },
+    {
+      "ticker": "ITC.NS",
+      "close": 266.95,
+      "ret5": -0.0164,
+      "vol_surge": 1.94,
+      "rsi14": 50.0,
+      "score": 0.1162
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 9194.5,
-      "ret5": 0.0822,
-      "vol_surge": 1.17,
+      "close": 9092.0,
+      "ret5": 0.0397,
+      "vol_surge": 0.88,
       "rsi14": 50.0,
-      "score": 0.1438
-    },
-    {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1650.1,
-      "ret5": -0.0132,
-      "vol_surge": 2.08,
-      "rsi14": 50.0,
-      "score": 0.1284
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "close": 423.35,
-      "ret5": 0.0546,
-      "vol_surge": 1.21,
-      "rsi14": 50.0,
-      "score": 0.1242
+      "score": 0.0902
     }
   ]
 }
