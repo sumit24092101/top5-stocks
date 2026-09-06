@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-05T07:47:31.358477Z",
+  "as_of_ist": "2026-09-06T08:02:06.860061Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "LT.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.01,
+      "ticker": "HDFCLIFE.NS",
+      "close": 546.4,
+      "ret5": -0.0029,
+      "vol_surge": 2.28,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1499
     },
     {
-      "ticker": "TITAN.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.41,
+      "ticker": "SBILIFE.NS",
+      "close": 1775.0,
+      "ret5": 0.0079,
+      "vol_surge": 1.91,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1336
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.79,
+      "ticker": "HINDUNILVR.NS",
+      "close": 1973.4,
+      "ret5": -0.0184,
+      "vol_surge": 1.87,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1097
     },
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.18,
+      "ticker": "RELIANCE.NS",
+      "close": 1322.0,
+      "ret5": 0.0272,
+      "vol_surge": 1.24,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1045
     },
     {
-      "ticker": "NESTLEIND.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.63,
+      "ticker": "CIPLA.NS",
+      "close": 1385.0,
+      "ret5": -0.027,
+      "vol_surge": 1.83,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1006
     }
   ]
 }
