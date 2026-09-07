@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-06T08:02:06.860061Z",
+  "as_of_ist": "2026-09-07T08:32:45.238524Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 546.4,
-      "ret5": -0.0029,
-      "vol_surge": 2.28,
+      "ticker": "COALINDIA.NS",
+      "close": 418.55,
+      "ret5": 0.055,
+      "vol_surge": 1.17,
       "rsi14": 50.0,
-      "score": 0.1499
+      "score": 0.1223
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1700.5,
+      "ret5": 0.0674,
+      "vol_surge": 0.34,
+      "rsi14": 50.0,
+      "score": 0.0765
     },
     {
       "ticker": "SBILIFE.NS",
-      "close": 1775.0,
-      "ret5": 0.0079,
-      "vol_surge": 1.91,
+      "close": 1732.0,
+      "ret5": -0.0049,
+      "vol_surge": 1.06,
       "rsi14": 50.0,
-      "score": 0.1336
+      "score": 0.0664
     },
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": 1973.4,
-      "ret5": -0.0184,
-      "vol_surge": 1.87,
+      "ticker": "UPL.NS",
+      "close": 578.85,
+      "ret5": 0.0295,
+      "vol_surge": 0.61,
       "rsi14": 50.0,
-      "score": 0.1097
+      "score": 0.0644
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1322.0,
-      "ret5": 0.0272,
-      "vol_surge": 1.24,
+      "ticker": "BHARTIARTL.NS",
+      "close": 1848.5,
+      "ret5": 0.0202,
+      "vol_surge": 0.63,
       "rsi14": 50.0,
-      "score": 0.1045
-    },
-    {
-      "ticker": "CIPLA.NS",
-      "close": 1385.0,
-      "ret5": -0.027,
-      "vol_surge": 1.83,
-      "rsi14": 50.0,
-      "score": 0.1006
+      "score": 0.0581
     }
   ]
 }
