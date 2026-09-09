@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-08T08:15:29.695186Z",
+  "as_of_ist": "2026-09-09T08:18:20.065560Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 9503.0,
-      "ret5": 0.0369,
-      "vol_surge": 1.49,
+      "ticker": "ADANIENT.NS",
+      "close": 3103.4,
+      "ret5": 0.0836,
+      "vol_surge": 2.25,
       "rsi14": 50.0,
-      "score": 0.1288
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 420.0,
-      "ret5": 0.0591,
-      "vol_surge": 0.38,
-      "rsi14": 50.0,
-      "score": 0.0724
+      "score": 0.2168
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1700.3,
-      "ret5": 0.0673,
-      "vol_surge": 0.18,
+      "close": 1779.2,
+      "ret5": 0.0799,
+      "vol_surge": 1.68,
       "rsi14": 50.0,
-      "score": 0.0661
+      "score": 0.1762
     },
     {
-      "ticker": "NTPC.NS",
-      "close": 331.5,
-      "ret5": 0.0231,
-      "vol_surge": 0.56,
+      "ticker": "COALINDIA.NS",
+      "close": 433.0,
+      "ret5": 0.0494,
+      "vol_surge": 1.81,
       "rsi14": 50.0,
-      "score": 0.0557
+      "score": 0.1601
     },
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 534.9,
-      "ret5": -0.01,
-      "vol_surge": 0.88,
+      "close": 515.25,
+      "ret5": -0.0464,
+      "vol_surge": 2.6,
       "rsi14": 50.0,
-      "score": 0.0506
+      "score": 0.136
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 189.17,
+      "ret5": 0.0289,
+      "vol_surge": 1.39,
+      "rsi14": 50.0,
+      "score": 0.1161
     }
   ]
 }
