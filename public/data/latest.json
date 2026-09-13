@@ -1,23 +1,15 @@
 {
-  "as_of_ist": "2026-09-12T08:03:13.140885Z",
+  "as_of_ist": "2026-09-13T08:28:16.442024Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "MARUTI.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.44,
+      "ticker": "DRREDDY.NS",
+      "close": 1165.5,
+      "ret5": 0.0126,
+      "vol_surge": 2.04,
       "rsi14": 50.0,
-      "score": NaN
-    },
-    {
-      "ticker": "SUNPHARMA.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.95,
-      "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1463
     },
     {
       "ticker": "ONGC.NS",
@@ -28,6 +20,14 @@
       "score": 0.1429
     },
     {
+      "ticker": "CIPLA.NS",
+      "close": 1366.0,
+      "ret5": -0.0206,
+      "vol_surge": 2.12,
+      "rsi14": 50.0,
+      "score": 0.1251
+    },
+    {
       "ticker": "POWERGRID.NS",
       "close": 269.1,
       "ret5": 0.0132,
@@ -36,12 +36,12 @@
       "score": 0.0975
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": 3060.0,
-      "ret5": 0.0415,
-      "vol_surge": 0.86,
+      "ticker": "DIVISLAB.NS",
+      "close": 9322.0,
+      "ret5": 0.0244,
+      "vol_surge": 1.16,
       "rsi14": 50.0,
-      "score": 0.0903
+      "score": 0.0966
     }
   ]
 }
