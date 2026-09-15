@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-14T09:09:45.436896Z",
+  "as_of_ist": "2026-09-15T08:52:22.872741Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1165.5,
-      "ret5": 0.0126,
-      "vol_surge": 2.04,
+      "ticker": "TCS.NS",
+      "close": 2273.0,
+      "ret5": 0.0013,
+      "vol_surge": 1.83,
       "rsi14": 50.0,
-      "score": 0.1463
+      "score": 0.1227
     },
     {
-      "ticker": "ONGC.NS",
-      "close": 232.5,
-      "ret5": -0.0092,
-      "vol_surge": 2.25,
+      "ticker": "HDFCBANK.NS",
+      "close": 716.3,
+      "ret5": 0.0082,
+      "vol_surge": 1.5,
       "rsi14": 50.0,
-      "score": 0.1429
+      "score": 0.1066
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1366.0,
-      "ret5": -0.0206,
-      "vol_surge": 2.12,
+      "ticker": "HCLTECH.NS",
+      "close": 1263.3,
+      "ret5": -0.0152,
+      "vol_surge": 1.74,
       "rsi14": 50.0,
-      "score": 0.1251
+      "score": 0.1042
     },
     {
-      "ticker": "POWERGRID.NS",
-      "close": 269.1,
-      "ret5": 0.0132,
-      "vol_surge": 1.3,
+      "ticker": "INFY.NS",
+      "close": 1076.1,
+      "ret5": -0.0105,
+      "vol_surge": 1.48,
       "rsi14": 50.0,
-      "score": 0.0975
+      "score": 0.09
     },
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 9322.0,
-      "ret5": 0.0244,
-      "vol_surge": 1.16,
+      "ticker": "TECHM.NS",
+      "close": 1582.0,
+      "ret5": 0.0115,
+      "vol_surge": 1.18,
       "rsi14": 50.0,
-      "score": 0.0966
+      "score": 0.0882
     }
   ]
 }
