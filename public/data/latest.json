@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-15T08:52:22.872741Z",
+  "as_of_ist": "2026-09-16T08:46:14.773634Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TCS.NS",
-      "close": 2273.0,
-      "ret5": 0.0013,
-      "vol_surge": 1.83,
+      "ticker": "HCLTECH.NS",
+      "close": 1255.0,
+      "ret5": 0.0205,
+      "vol_surge": 1.08,
       "rsi14": 50.0,
-      "score": 0.1227
+      "score": 0.0884
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "close": 1007.3,
+      "ret5": 0.0063,
+      "vol_surge": 1.16,
+      "rsi14": 50.0,
+      "score": 0.0821
     },
     {
       "ticker": "HDFCBANK.NS",
-      "close": 716.3,
-      "ret5": 0.0082,
-      "vol_surge": 1.5,
+      "close": 718.3,
+      "ret5": 0.0454,
+      "vol_surge": 0.68,
       "rsi14": 50.0,
-      "score": 0.1066
+      "score": 0.0816
     },
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1263.3,
-      "ret5": -0.0152,
-      "vol_surge": 1.74,
+      "ticker": "AXISBANK.NS",
+      "close": 1248.5,
+      "ret5": 0.0081,
+      "vol_surge": 1.1,
       "rsi14": 50.0,
-      "score": 0.1042
+      "score": 0.0797
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1076.1,
-      "ret5": -0.0105,
-      "vol_surge": 1.48,
+      "ticker": "HDFCLIFE.NS",
+      "close": 527.65,
+      "ret5": 0.0266,
+      "vol_surge": 0.82,
       "rsi14": 50.0,
-      "score": 0.09
-    },
-    {
-      "ticker": "TECHM.NS",
-      "close": 1582.0,
-      "ret5": 0.0115,
-      "vol_surge": 1.18,
-      "rsi14": 50.0,
-      "score": 0.0882
+      "score": 0.0759
     }
   ]
 }
