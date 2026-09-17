@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-16T08:46:14.773634Z",
+  "as_of_ist": "2026-09-17T08:49:26.872655Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1255.0,
-      "ret5": 0.0205,
-      "vol_surge": 1.08,
+      "ticker": "HDFCLIFE.NS",
+      "close": 560.65,
+      "ret5": 0.0656,
+      "vol_surge": 2.1,
       "rsi14": 50.0,
-      "score": 0.0884
+      "score": 0.1922
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "close": 1769.7,
+      "ret5": 0.0406,
+      "vol_surge": 1.46,
+      "rsi14": 50.0,
+      "score": 0.13
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "close": 1169.6,
+      "ret5": 0.0215,
+      "vol_surge": 1.59,
+      "rsi14": 50.0,
+      "score": 0.1233
     },
     {
       "ticker": "TATACONSUM.NS",
-      "close": 1007.3,
-      "ret5": 0.0063,
-      "vol_surge": 1.16,
+      "close": 1010.4,
+      "ret5": 0.0094,
+      "vol_surge": 1.3,
       "rsi14": 50.0,
-      "score": 0.0821
+      "score": 0.0941
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 718.3,
-      "ret5": 0.0454,
-      "vol_surge": 0.68,
+      "ticker": "ITC.NS",
+      "close": 266.35,
+      "ret5": 0.0272,
+      "vol_surge": 0.88,
       "rsi14": 50.0,
-      "score": 0.0816
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1248.5,
-      "ret5": 0.0081,
-      "vol_surge": 1.1,
-      "rsi14": 50.0,
-      "score": 0.0797
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 527.65,
-      "ret5": 0.0266,
-      "vol_surge": 0.82,
-      "rsi14": 50.0,
-      "score": 0.0759
+      "score": 0.0803
     }
   ]
 }
