@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-17T08:49:26.872655Z",
+  "as_of_ist": "2026-09-18T08:24:49.302779Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 560.65,
-      "ret5": 0.0656,
-      "vol_surge": 2.1,
-      "rsi14": 50.0,
-      "score": 0.1922
-    },
-    {
-      "ticker": "SBILIFE.NS",
-      "close": 1769.7,
-      "ret5": 0.0406,
-      "vol_surge": 1.46,
-      "rsi14": 50.0,
-      "score": 0.13
-    },
-    {
       "ticker": "DRREDDY.NS",
-      "close": 1169.6,
-      "ret5": 0.0215,
-      "vol_surge": 1.59,
+      "close": 1190.4,
+      "ret5": 0.0415,
+      "vol_surge": 1.51,
       "rsi14": 50.0,
-      "score": 0.1233
+      "score": 0.134
     },
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 1010.4,
-      "ret5": 0.0094,
-      "vol_surge": 1.3,
+      "ticker": "SHREECEM.NS",
+      "close": 22485.0,
+      "ret5": -0.0038,
+      "vol_surge": 1.81,
       "rsi14": 50.0,
-      "score": 0.0941
+      "score": 0.1174
     },
     {
-      "ticker": "ITC.NS",
-      "close": 266.35,
-      "ret5": 0.0272,
-      "vol_surge": 0.88,
+      "ticker": "HDFCLIFE.NS",
+      "close": 559.45,
+      "ret5": 0.0556,
+      "vol_surge": 0.84,
       "rsi14": 50.0,
-      "score": 0.0803
+      "score": 0.1007
+    },
+    {
+      "ticker": "BPCL.NS",
+      "close": 312.25,
+      "ret5": 0.0255,
+      "vol_surge": 1.1,
+      "rsi14": 50.0,
+      "score": 0.0934
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1541.6,
+      "ret5": 0.0223,
+      "vol_surge": 1.04,
+      "rsi14": 50.0,
+      "score": 0.0875
     }
   ]
 }
