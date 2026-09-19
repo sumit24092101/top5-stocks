@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-18T08:24:49.302779Z",
+  "as_of_ist": "2026-09-19T08:12:33.034046Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1190.4,
-      "ret5": 0.0415,
-      "vol_surge": 1.51,
+      "ticker": "BHARTIARTL.NS",
+      "close": 1893.3,
+      "ret5": 0.034,
+      "vol_surge": 2.49,
       "rsi14": 50.0,
-      "score": 0.134
+      "score": 0.1934
     },
     {
-      "ticker": "SHREECEM.NS",
-      "close": 22485.0,
-      "ret5": -0.0038,
-      "vol_surge": 1.81,
+      "ticker": "INFY.NS",
+      "close": 1051.4,
+      "ret5": 0.0132,
+      "vol_surge": 2.55,
       "rsi14": 50.0,
-      "score": 0.1174
+      "score": 0.1807
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 559.45,
-      "ret5": 0.0556,
-      "vol_surge": 0.84,
+      "ticker": "TCS.NS",
+      "close": 2105.0,
+      "ret5": -0.0435,
+      "vol_surge": 2.46,
       "rsi14": 50.0,
-      "score": 0.1007
+      "score": 0.1293
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 312.25,
-      "ret5": 0.0255,
-      "vol_surge": 1.1,
+      "ticker": "HINDUNILVR.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 1.64,
       "rsi14": 50.0,
-      "score": 0.0934
+      "score": NaN
     },
     {
-      "ticker": "TECHM.NS",
-      "close": 1541.6,
-      "ret5": 0.0223,
-      "vol_surge": 1.04,
+      "ticker": "KOTAKBANK.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 1.21,
       "rsi14": 50.0,
-      "score": 0.0875
+      "score": NaN
     }
   ]
 }
