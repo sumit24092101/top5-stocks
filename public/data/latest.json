@@ -1,32 +1,8 @@
 {
-  "as_of_ist": "2026-09-19T08:12:33.034046Z",
+  "as_of_ist": "2026-09-20T08:45:04.939431Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1893.3,
-      "ret5": 0.034,
-      "vol_surge": 2.49,
-      "rsi14": 50.0,
-      "score": 0.1934
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1051.4,
-      "ret5": 0.0132,
-      "vol_surge": 2.55,
-      "rsi14": 50.0,
-      "score": 0.1807
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 2105.0,
-      "ret5": -0.0435,
-      "vol_surge": 2.46,
-      "rsi14": 50.0,
-      "score": 0.1293
-    },
     {
       "ticker": "HINDUNILVR.NS",
       "close": NaN,
@@ -42,6 +18,30 @@
       "vol_surge": 1.21,
       "rsi14": 50.0,
       "score": NaN
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.76,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 1.95,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "close": 1372.4,
+      "ret5": -0.01,
+      "vol_surge": 2.48,
+      "rsi14": 50.0,
+      "score": 0.1574
     }
   ]
 }
