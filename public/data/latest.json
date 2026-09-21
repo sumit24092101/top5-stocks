@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-20T08:45:04.939431Z",
+  "as_of_ist": "2026-09-21T09:11:59.523726Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.64,
+      "ticker": "HCLTECH.NS",
+      "close": 1281.8,
+      "ret5": 0.0628,
+      "vol_surge": 0.9,
       "rsi14": 50.0,
-      "score": NaN
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.21,
-      "rsi14": 50.0,
-      "score": NaN
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.76,
-      "rsi14": 50.0,
-      "score": NaN
+      "score": 0.11
     },
     {
       "ticker": "SUNPHARMA.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.95,
+      "close": 1869.0,
+      "ret5": 0.0158,
+      "vol_surge": 1.42,
       "rsi14": 50.0,
-      "score": NaN
+      "score": 0.1073
     },
     {
-      "ticker": "NESTLEIND.NS",
-      "close": 1372.4,
-      "ret5": -0.01,
-      "vol_surge": 2.48,
+      "ticker": "HDFCBANK.NS",
+      "close": 741.75,
+      "ret5": 0.0473,
+      "vol_surge": 0.95,
       "rsi14": 50.0,
-      "score": 0.1574
+      "score": 0.1015
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1832.0,
+      "ret5": 0.0005,
+      "vol_surge": 1.48,
+      "rsi14": 50.0,
+      "score": 0.0988
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "close": 1200.3,
+      "ret5": 0.0299,
+      "vol_surge": 1.04,
+      "rsi14": 50.0,
+      "score": 0.0935
     }
   ]
 }
