@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-21T09:11:59.523726Z",
+  "as_of_ist": "2026-09-22T08:43:46.569689Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1281.8,
-      "ret5": 0.0628,
-      "vol_surge": 0.9,
-      "rsi14": 50.0,
-      "score": 0.11
-    },
-    {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1869.0,
-      "ret5": 0.0158,
-      "vol_surge": 1.42,
-      "rsi14": 50.0,
-      "score": 0.1073
-    },
-    {
-      "ticker": "HDFCBANK.NS",
-      "close": 741.75,
-      "ret5": 0.0473,
-      "vol_surge": 0.95,
-      "rsi14": 50.0,
-      "score": 0.1015
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1832.0,
-      "ret5": 0.0005,
-      "vol_surge": 1.48,
-      "rsi14": 50.0,
-      "score": 0.0988
-    },
-    {
       "ticker": "DRREDDY.NS",
-      "close": 1200.3,
-      "ret5": 0.0299,
-      "vol_surge": 1.04,
+      "close": 1212.3,
+      "ret5": 0.0588,
+      "vol_surge": 2.04,
       "rsi14": 50.0,
-      "score": 0.0935
+      "score": 0.1829
+    },
+    {
+      "ticker": "BPCL.NS",
+      "close": 308.45,
+      "ret5": 0.0328,
+      "vol_surge": 1.76,
+      "rsi14": 50.0,
+      "score": 0.1438
+    },
+    {
+      "ticker": "TITAN.NS",
+      "close": 4933.5,
+      "ret5": 0.016,
+      "vol_surge": 1.78,
+      "rsi14": 50.0,
+      "score": 0.1312
+    },
+    {
+      "ticker": "IOC.NS",
+      "close": 136.95,
+      "ret5": 0.0373,
+      "vol_surge": 1.13,
+      "rsi14": 50.0,
+      "score": 0.1054
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "close": 426.45,
+      "ret5": 0.0172,
+      "vol_surge": 1.26,
+      "rsi14": 50.0,
+      "score": 0.0974
     }
   ]
 }
