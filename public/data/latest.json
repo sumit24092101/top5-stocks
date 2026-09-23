@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-22T08:43:46.569689Z",
+  "as_of_ist": "2026-09-23T08:45:06.802631Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1035.0,
+      "ret5": 0.0286,
+      "vol_surge": 1.32,
+      "rsi14": 50.0,
+      "score": 0.1106
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 191.24,
+      "ret5": 0.045,
+      "vol_surge": 1.07,
+      "rsi14": 50.0,
+      "score": 0.1073
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "close": 563.65,
+      "ret5": 0.0921,
+      "vol_surge": 0.31,
+      "rsi14": 50.0,
+      "score": 0.0944
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "close": 1296.6,
+      "ret5": 0.0548,
+      "vol_surge": 0.72,
+      "rsi14": 50.0,
+      "score": 0.0918
+    },
+    {
       "ticker": "DRREDDY.NS",
-      "close": 1212.3,
-      "ret5": 0.0588,
-      "vol_surge": 2.04,
+      "close": 1215.8,
+      "ret5": 0.0665,
+      "vol_surge": 0.56,
       "rsi14": 50.0,
-      "score": 0.1829
-    },
-    {
-      "ticker": "BPCL.NS",
-      "close": 308.45,
-      "ret5": 0.0328,
-      "vol_surge": 1.76,
-      "rsi14": 50.0,
-      "score": 0.1438
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 4933.5,
-      "ret5": 0.016,
-      "vol_surge": 1.78,
-      "rsi14": 50.0,
-      "score": 0.1312
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 136.95,
-      "ret5": 0.0373,
-      "vol_surge": 1.13,
-      "rsi14": 50.0,
-      "score": 0.1054
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 426.45,
-      "ret5": 0.0172,
-      "vol_surge": 1.26,
-      "rsi14": 50.0,
-      "score": 0.0974
+      "score": 0.0904
     }
   ]
 }
