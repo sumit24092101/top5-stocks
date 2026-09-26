@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-25T09:00:10.458881Z",
+  "as_of_ist": "2026-09-26T08:45:40.660143Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 401.0,
-      "ret5": -0.0279,
-      "vol_surge": 1.49,
+      "ticker": "BAJAJFINSV.NS",
+      "close": 1771.0,
+      "ret5": -0.044,
+      "vol_surge": 2.18,
       "rsi14": 50.0,
-      "score": 0.077
+      "score": 0.1103
     },
     {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 1770.0,
-      "ret5": -0.0445,
-      "vol_surge": 1.64,
+      "ticker": "KOTAKBANK.NS",
+      "close": 404.0,
+      "ret5": -0.0206,
+      "vol_surge": 1.73,
       "rsi14": 50.0,
-      "score": 0.074
+      "score": 0.0992
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1398.0,
-      "ret5": 0.0025,
-      "vol_surge": 1.02,
+      "close": 1399.7,
+      "ret5": 0.0037,
+      "vol_surge": 1.28,
       "rsi14": 50.0,
-      "score": 0.07
+      "score": 0.088
     },
     {
       "ticker": "SBILIFE.NS",
-      "close": 1748.6,
-      "ret5": 0.0102,
-      "vol_surge": 0.8,
+      "close": 1742.0,
+      "ret5": 0.0064,
+      "vol_surge": 1.07,
       "rsi14": 50.0,
-      "score": 0.0615
+      "score": 0.0765
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1225.0,
-      "ret5": -0.0011,
-      "vol_surge": 0.92,
+      "ticker": "AXISBANK.NS",
+      "close": 1222.4,
+      "ret5": -0.0275,
+      "vol_surge": 1.47,
       "rsi14": 50.0,
-      "score": 0.0607
+      "score": 0.0763
     }
   ]
 }
