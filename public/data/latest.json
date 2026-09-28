@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-09-27T09:26:50.321391Z",
+  "as_of_ist": "2026-09-28T10:03:32.932474Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 1771.0,
-      "ret5": -0.044,
-      "vol_surge": 2.18,
+      "ticker": "DRREDDY.NS",
+      "close": 1221.0,
+      "ret5": 0.0189,
+      "vol_surge": 2.43,
       "rsi14": 50.0,
-      "score": 0.1103
+      "score": 0.1774
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 404.0,
-      "ret5": -0.0206,
-      "vol_surge": 1.73,
+      "ticker": "ASIANPAINT.NS",
+      "close": 2420.0,
+      "ret5": -0.0083,
+      "vol_surge": 2.14,
       "rsi14": 50.0,
-      "score": 0.0992
+      "score": 0.1359
     },
     {
-      "ticker": "CIPLA.NS",
-      "close": 1399.7,
-      "ret5": 0.0037,
-      "vol_surge": 1.28,
+      "ticker": "ULTRACEMCO.NS",
+      "close": 11025.0,
+      "ret5": -0.0068,
+      "vol_surge": 1.32,
       "rsi14": 50.0,
-      "score": 0.088
+      "score": 0.0826
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "close": 1896.0,
+      "ret5": -0.0262,
+      "vol_surge": 1.51,
+      "rsi14": 50.0,
+      "score": 0.0796
     },
     {
       "ticker": "SBILIFE.NS",
-      "close": 1742.0,
-      "ret5": 0.0064,
-      "vol_surge": 1.07,
+      "close": 1728.1,
+      "ret5": -0.0159,
+      "vol_surge": 1.37,
       "rsi14": 50.0,
-      "score": 0.0765
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1222.4,
-      "ret5": -0.0275,
-      "vol_surge": 1.47,
-      "rsi14": 50.0,
-      "score": 0.0763
+      "score": 0.0785
     }
   ]
 }
