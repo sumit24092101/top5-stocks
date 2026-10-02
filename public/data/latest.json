@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-10-01T10:21:42.896233Z",
+  "as_of_ist": "2026-10-02T09:58:18.879516Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -15,7 +15,7 @@
       "ticker": "BAJAJFINSV.NS",
       "close": 1732.6,
       "ret5": -0.0169,
-      "vol_surge": 3.03,
+      "vol_surge": 3.04,
       "rsi14": 50.0,
       "score": 0.1865
     },
@@ -33,7 +33,7 @@
       "ret5": -0.0411,
       "vol_surge": 2.63,
       "rsi14": 50.0,
-      "score": 0.1427
+      "score": 0.1428
     },
     {
       "ticker": "ASIANPAINT.NS",
@@ -41,7 +41,7 @@
       "ret5": 0.006,
       "vol_surge": 1.9,
       "rsi14": 50.0,
-      "score": 0.1312
+      "score": 0.1313
     }
   ]
 }
