@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-04T09:59:55.745297Z",
+  "as_of_ist": "2026-10-05T10:44:24.161639Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "ITC.NS",
+      "close": 268.9,
+      "ret5": -0.0004,
+      "vol_surge": 3.88,
+      "rsi14": 50.0,
+      "score": 0.1997
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2114.4,
+      "ret5": 0.0156,
+      "vol_surge": 1.65,
+      "rsi14": 50.0,
+      "score": 0.1225
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1535.9,
+      "ret5": -0.0078,
+      "vol_surge": 1.81,
+      "rsi14": 50.0,
+      "score": 0.1143
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 970.0,
+      "ret5": -0.027,
+      "vol_surge": 2.01,
+      "rsi14": 50.0,
+      "score": 0.1123
+    },
+    {
       "ticker": "KOTAKBANK.NS",
-      "close": 418.35,
-      "ret5": 0.033,
-      "vol_surge": 4.73,
+      "close": 416.0,
+      "ret5": 0.0297,
+      "vol_surge": 1.31,
       "rsi14": 50.0,
-      "score": 0.2264
-    },
-    {
-      "ticker": "BAJAJFINSV.NS",
-      "close": 1732.6,
-      "ret5": -0.0169,
-      "vol_surge": 3.04,
-      "rsi14": 50.0,
-      "score": 0.1865
-    },
-    {
-      "ticker": "SBILIFE.NS",
-      "close": 1721.6,
-      "ret5": -0.019,
-      "vol_surge": 2.73,
-      "rsi14": 50.0,
-      "score": 0.1671
-    },
-    {
-      "ticker": "M&M.NS",
-      "close": 2860.0,
-      "ret5": -0.0411,
-      "vol_surge": 2.63,
-      "rsi14": 50.0,
-      "score": 0.1428
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2407.0,
-      "ret5": 0.006,
-      "vol_surge": 1.9,
-      "rsi14": 50.0,
-      "score": 0.1313
+      "score": 0.1109
     }
   ]
 }
