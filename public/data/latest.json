@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-06T10:37:37.995551Z",
+  "as_of_ist": "2026-10-07T10:28:39.628830Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "ITC.NS",
+      "close": 265.7,
+      "ret5": 0.0112,
+      "vol_surge": 3.33,
+      "rsi14": 50.0,
+      "score": 0.209
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "close": 1833.9,
+      "ret5": 0.0438,
+      "vol_surge": 2.4,
+      "rsi14": 50.0,
+      "score": 0.1953
+    },
+    {
       "ticker": "KOTAKBANK.NS",
-      "close": 431.9,
-      "ret5": 0.0756,
-      "vol_surge": 2.17,
+      "close": 440.0,
+      "ret5": 0.0552,
+      "vol_surge": 1.98,
       "rsi14": 50.0,
-      "score": 0.205
+      "score": 0.176
     },
     {
-      "ticker": "RELIANCE.NS",
-      "close": 1218.0,
-      "ret5": 0.0305,
-      "vol_surge": 1.52,
+      "ticker": "TITAN.NS",
+      "close": 4377.0,
+      "ret5": -0.0458,
+      "vol_surge": 4.03,
       "rsi14": 50.0,
-      "score": 0.126
-    },
-    {
-      "ticker": "HDFCLIFE.NS",
-      "close": 543.95,
-      "ret5": 0.0232,
-      "vol_surge": 1.61,
-      "rsi14": 50.0,
-      "score": 0.1256
+      "score": 0.1634
     },
     {
       "ticker": "ICICIBANK.NS",
-      "close": 1342.8,
-      "ret5": 0.0392,
-      "vol_surge": 1.38,
+      "close": 1357.5,
+      "ret5": 0.0271,
+      "vol_surge": 1.66,
       "rsi14": 50.0,
-      "score": 0.1231
-    },
-    {
-      "ticker": "AXISBANK.NS",
-      "close": 1248.0,
-      "ret5": 0.0296,
-      "vol_surge": 1.45,
-      "rsi14": 50.0,
-      "score": 0.1204
+      "score": 0.1325
     }
   ]
 }
