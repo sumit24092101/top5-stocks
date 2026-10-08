@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-07T10:28:39.628830Z",
+  "as_of_ist": "2026-10-08T10:49:32.632501Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "ITC.NS",
-      "close": 265.7,
-      "ret5": 0.0112,
-      "vol_surge": 3.33,
+      "close": 255.0,
+      "ret5": -0.0035,
+      "vol_surge": 3.19,
       "rsi14": 50.0,
-      "score": 0.209
+      "score": 0.1972
     },
     {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1833.9,
-      "ret5": 0.0438,
-      "vol_surge": 2.4,
+      "ticker": "ADANIENT.NS",
+      "close": 2596.0,
+      "ret5": -0.0784,
+      "vol_surge": 3.04,
       "rsi14": 50.0,
-      "score": 0.1953
+      "score": 0.1373
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 440.0,
-      "ret5": 0.0552,
-      "vol_surge": 1.98,
+      "ticker": "JSWSTEEL.NS",
+      "close": 1175.2,
+      "ret5": -0.0469,
+      "vol_surge": 2.6,
       "rsi14": 50.0,
-      "score": 0.176
+      "score": 0.136
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 4377.0,
-      "ret5": -0.0458,
-      "vol_surge": 4.03,
+      "ticker": "HINDUNILVR.NS",
+      "close": 1844.5,
+      "ret5": 0.0046,
+      "vol_surge": 1.72,
       "rsi14": 50.0,
-      "score": 0.1634
+      "score": 0.1182
     },
     {
-      "ticker": "ICICIBANK.NS",
-      "close": 1357.5,
-      "ret5": 0.0271,
-      "vol_surge": 1.66,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1708.0,
+      "ret5": -0.0171,
+      "vol_surge": 1.86,
       "rsi14": 50.0,
-      "score": 0.1325
+      "score": 0.1102
     }
   ]
 }
