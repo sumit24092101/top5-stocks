@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-08T10:49:32.632501Z",
+  "as_of_ist": "2026-10-09T10:48:09.823730Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ITC.NS",
-      "close": 255.0,
-      "ret5": -0.0035,
-      "vol_surge": 3.19,
+      "ticker": "TCS.NS",
+      "close": 2156.0,
+      "ret5": 0.039,
+      "vol_surge": 3.09,
       "rsi14": 50.0,
-      "score": 0.1972
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2596.0,
-      "ret5": -0.0784,
-      "vol_surge": 3.04,
-      "rsi14": 50.0,
-      "score": 0.1373
-    },
-    {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1175.2,
-      "ret5": -0.0469,
-      "vol_surge": 2.6,
-      "rsi14": 50.0,
-      "score": 0.136
-    },
-    {
-      "ticker": "HINDUNILVR.NS",
-      "close": 1844.5,
-      "ret5": 0.0046,
-      "vol_surge": 1.72,
-      "rsi14": 50.0,
-      "score": 0.1182
+      "score": 0.2312
     },
     {
       "ticker": "ADANIPORTS.NS",
-      "close": 1708.0,
-      "ret5": -0.0171,
-      "vol_surge": 1.86,
+      "close": 1761.0,
+      "ret5": 0.0134,
+      "vol_surge": 4.07,
       "rsi14": 50.0,
-      "score": 0.1102
+      "score": 0.2107
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "close": 441.0,
+      "ret5": 0.0541,
+      "vol_surge": 1.44,
+      "rsi14": 50.0,
+      "score": 0.1394
+    },
+    {
+      "ticker": "ITC.NS",
+      "close": 266.0,
+      "ret5": 0.0395,
+      "vol_surge": 1.61,
+      "rsi14": 50.0,
+      "score": 0.139
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "close": 7050.0,
+      "ret5": 0.0188,
+      "vol_surge": 1.49,
+      "rsi14": 50.0,
+      "score": 0.1144
     }
   ]
 }
