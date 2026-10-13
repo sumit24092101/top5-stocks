@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-12T11:12:08.513050Z",
+  "as_of_ist": "2026-10-13T10:53:29.495964Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1754.0,
-      "ret5": -0.0113,
-      "vol_surge": 3.83,
+      "ticker": "HCLTECH.NS",
+      "close": 1326.0,
+      "ret5": 0.1033,
+      "vol_surge": 5.8,
       "rsi14": 50.0,
-      "score": 0.191
+      "score": 0.2826
     },
     {
-      "ticker": "KOTAKBANK.NS",
-      "close": 443.4,
-      "ret5": 0.0659,
-      "vol_surge": 0.8,
+      "ticker": "TCS.NS",
+      "close": 2269.3,
+      "ret5": 0.0733,
+      "vol_surge": 2.62,
       "rsi14": 50.0,
-      "score": 0.1058
-    },
-    {
-      "ticker": "UPL.NS",
-      "close": 514.85,
-      "ret5": 0.0246,
-      "vol_surge": 1.25,
-      "rsi14": 50.0,
-      "score": 0.1032
-    },
-    {
-      "ticker": "TECHM.NS",
-      "close": 1471.0,
-      "ret5": -0.0423,
-      "vol_surge": 2.02,
-      "rsi14": 50.0,
-      "score": 0.1006
+      "score": 0.2333
     },
     {
       "ticker": "NESTLEIND.NS",
-      "close": 1324.7,
-      "ret5": 0.0213,
-      "vol_surge": 1.02,
+      "close": 1334.0,
+      "ret5": 0.0284,
+      "vol_surge": 2.21,
       "rsi14": 50.0,
-      "score": 0.0848
+      "score": 0.1698
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1062.1,
+      "ret5": 0.0408,
+      "vol_surge": 1.97,
+      "rsi14": 50.0,
+      "score": 0.1638
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "close": 1875.5,
+      "ret5": 0.0202,
+      "vol_surge": 1.59,
+      "rsi14": 50.0,
+      "score": 0.1223
     }
   ]
 }
