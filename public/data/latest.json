@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-13T10:53:29.495964Z",
+  "as_of_ist": "2026-10-14T08:55:47.774452Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "HCLTECH.NS",
-      "close": 1326.0,
-      "ret5": 0.1033,
-      "vol_surge": 5.8,
-      "rsi14": 50.0,
-      "score": 0.2826
-    },
-    {
       "ticker": "TCS.NS",
-      "close": 2269.3,
-      "ret5": 0.0733,
-      "vol_surge": 2.62,
+      "close": 2304.3,
+      "ret5": 0.1136,
+      "vol_surge": 2.29,
       "rsi14": 50.0,
-      "score": 0.2333
+      "score": 0.2432
     },
     {
-      "ticker": "NESTLEIND.NS",
-      "close": 1334.0,
-      "ret5": 0.0284,
-      "vol_surge": 2.21,
+      "ticker": "HCLTECH.NS",
+      "close": 1331.7,
+      "ret5": 0.1238,
+      "vol_surge": 1.86,
       "rsi14": 50.0,
-      "score": 0.1698
+      "score": 0.2233
     },
     {
       "ticker": "INFY.NS",
-      "close": 1062.1,
-      "ret5": 0.0408,
-      "vol_surge": 1.97,
+      "close": 1091.55,
+      "ret5": 0.1004,
+      "vol_surge": 1.57,
       "rsi14": 50.0,
-      "score": 0.1638
+      "score": 0.1849
     },
     {
-      "ticker": "HINDUNILVR.NS",
-      "close": 1875.5,
-      "ret5": 0.0202,
-      "vol_surge": 1.59,
+      "ticker": "NESTLEIND.NS",
+      "close": 1370.9,
+      "ret5": 0.0354,
+      "vol_surge": 2.16,
       "rsi14": 50.0,
-      "score": 0.1223
+      "score": 0.1725
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 539.5,
+      "ret5": 0.0899,
+      "vol_surge": 0.98,
+      "rsi14": 50.0,
+      "score": 0.1373
     }
   ]
 }
