@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-14T08:55:47.774452Z",
+  "as_of_ist": "2026-10-15T08:29:54.396117Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TCS.NS",
-      "close": 2304.3,
-      "ret5": 0.1136,
-      "vol_surge": 2.29,
+      "ticker": "TECHM.NS",
+      "close": 1641.8,
+      "ret5": 0.0973,
+      "vol_surge": 2.77,
       "rsi14": 50.0,
-      "score": 0.2432
+      "score": 0.2623
     },
     {
       "ticker": "HCLTECH.NS",
-      "close": 1331.7,
-      "ret5": 0.1238,
-      "vol_surge": 1.86,
+      "close": 1368.0,
+      "ret5": 0.1624,
+      "vol_surge": 1.53,
       "rsi14": 50.0,
-      "score": 0.2233
+      "score": 0.2322
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1091.55,
-      "ret5": 0.1004,
-      "vol_surge": 1.57,
+      "ticker": "TCS.NS",
+      "close": 2363.3,
+      "ret5": 0.1444,
+      "vol_surge": 1.51,
       "rsi14": 50.0,
-      "score": 0.1849
+      "score": 0.2163
     },
     {
       "ticker": "NESTLEIND.NS",
-      "close": 1370.9,
-      "ret5": 0.0354,
-      "vol_surge": 2.16,
+      "close": 1304.9,
+      "ret5": -0.0107,
+      "vol_surge": 3.62,
       "rsi14": 50.0,
-      "score": 0.1725
+      "score": 0.1914
     },
     {
-      "ticker": "UPL.NS",
-      "close": 539.5,
-      "ret5": 0.0899,
-      "vol_surge": 0.98,
+      "ticker": "INFY.NS",
+      "close": 1112.15,
+      "ret5": 0.1155,
+      "vol_surge": 1.03,
       "rsi14": 50.0,
-      "score": 0.1373
+      "score": 0.1607
     }
   ]
 }
