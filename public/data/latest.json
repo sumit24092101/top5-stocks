@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-16T08:23:07.121124Z",
+  "as_of_ist": "2026-10-17T07:57:41.017412Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "TECHM.NS",
-      "close": 1775.1,
-      "ret5": 0.1724,
-      "vol_surge": 5.38,
+      "ticker": "MARUTI.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.89,
       "rsi14": 50.0,
-      "score": 0.3379
+      "score": NaN
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.55,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.63,
+      "rsi14": 50.0,
+      "score": NaN
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "close": NaN,
+      "ret5": NaN,
+      "vol_surge": 0.94,
+      "rsi14": 50.0,
+      "score": NaN
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 184.21,
-      "ret5": 0.1331,
-      "vol_surge": 2.47,
+      "close": 184.4,
+      "ret5": 0.1343,
+      "vol_surge": 2.9,
       "rsi14": 50.0,
-      "score": 0.2714
-    },
-    {
-      "ticker": "TCS.NS",
-      "close": 2449.7,
-      "ret5": 0.1423,
-      "vol_surge": 1.58,
-      "rsi14": 50.0,
-      "score": 0.2193
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1151.8,
-      "ret5": 0.1255,
-      "vol_surge": 1.49,
-      "rsi14": 50.0,
-      "score": 0.2
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1370.0,
-      "ret5": 0.136,
-      "vol_surge": 1.16,
-      "rsi14": 50.0,
-      "score": 0.1862
+      "score": 0.3006
     }
   ]
 }
