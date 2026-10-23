@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-22T08:49:06.859995Z",
+  "as_of_ist": "2026-10-23T08:45:06.800500Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BPCL.NS",
-      "close": 286.6,
-      "ret5": -0.0105,
-      "vol_surge": 3.42,
+      "ticker": "INFY.NS",
+      "close": 1160.0,
+      "ret5": 0.045,
+      "vol_surge": 1.94,
       "rsi14": 50.0,
-      "score": 0.1916
+      "score": 0.1652
+    },
+    {
+      "ticker": "TCS.NS",
+      "close": 2534.3,
+      "ret5": 0.0784,
+      "vol_surge": 1.04,
+      "rsi14": 50.0,
+      "score": 0.1318
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 189.82,
-      "ret5": 0.1106,
-      "vol_surge": 1.37,
+      "close": 190.02,
+      "ret5": 0.0918,
+      "vol_surge": 0.81,
       "rsi14": 50.0,
-      "score": 0.1795
+      "score": 0.1276
     },
     {
       "ticker": "TECHM.NS",
       "close": 1795.0,
-      "ret5": 0.1395,
+      "ret5": 0.0969,
+      "vol_surge": 0.71,
+      "rsi14": 50.0,
+      "score": 0.1247
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1424.6,
+      "ret5": 0.0568,
       "vol_surge": 0.79,
       "rsi14": 50.0,
-      "score": 0.1644
-    },
-    {
-      "ticker": "BHARTIARTL.NS",
-      "close": 1903.2,
-      "ret5": 0.0605,
-      "vol_surge": 1.31,
-      "rsi14": 50.0,
-      "score": 0.1358
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 9096.0,
-      "ret5": 0.0081,
-      "vol_surge": 1.62,
-      "rsi14": 50.0,
-      "score": 0.1145
+      "score": 0.0983
     }
   ]
 }
