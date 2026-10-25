@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-10-24T08:19:15.298611Z",
+  "as_of_ist": "2026-10-25T08:37:40.707658Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -20,28 +20,28 @@
       "score": 0.1391
     },
     {
-      "ticker": "ADANIENT.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 1.13,
-      "rsi14": 50.0,
-      "score": NaN
-    },
-    {
-      "ticker": "ULTRACEMCO.NS",
-      "close": NaN,
-      "ret5": NaN,
-      "vol_surge": 0.99,
-      "rsi14": 50.0,
-      "score": NaN
-    },
-    {
       "ticker": "WIPRO.NS",
       "close": 189.84,
       "ret5": 0.0907,
       "vol_surge": 0.95,
       "rsi14": 50.0,
       "score": 0.1361
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 1790.0,
+      "ret5": 0.0938,
+      "vol_surge": 0.85,
+      "rsi14": 50.0,
+      "score": 0.132
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "close": 1422.2,
+      "ret5": 0.055,
+      "vol_surge": 0.93,
+      "rsi14": 50.0,
+      "score": 0.1058
     }
   ]
 }
