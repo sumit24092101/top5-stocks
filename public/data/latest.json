@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-26T09:14:00.222990Z",
+  "as_of_ist": "2026-10-27T09:14:32.209291Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DRREDDY.NS",
-      "close": 1317.8,
-      "ret5": 0.0688,
-      "vol_surge": 3.57,
+      "ticker": "TATACONSUM.NS",
+      "close": 993.85,
+      "ret5": 0.0283,
+      "vol_surge": 3.92,
       "rsi14": 50.0,
-      "score": 0.255
+      "score": 0.2226
     },
     {
       "ticker": "CIPLA.NS",
-      "close": 1345.1,
-      "ret5": 0.0151,
-      "vol_surge": 1.4,
+      "close": 1342.1,
+      "ret5": 0.0136,
+      "vol_surge": 3.21,
       "rsi14": 50.0,
-      "score": 0.1055
+      "score": 0.2109
     },
     {
-      "ticker": "INFY.NS",
-      "close": 1153.25,
-      "ret5": -0.0068,
-      "vol_surge": 1.49,
+      "ticker": "BHARTIARTL.NS",
+      "close": 1968.8,
+      "ret5": 0.0499,
+      "vol_surge": 1.2,
       "rsi14": 50.0,
-      "score": 0.0938
+      "score": 0.1202
     },
     {
-      "ticker": "JSWSTEEL.NS",
-      "close": 1238.8,
-      "ret5": 0.0185,
-      "vol_surge": 1.13,
+      "ticker": "DIVISLAB.NS",
+      "close": 9485.0,
+      "ret5": 0.0438,
+      "vol_surge": 1.18,
       "rsi14": 50.0,
-      "score": 0.0902
+      "score": 0.1139
     },
     {
-      "ticker": "BPCL.NS",
-      "close": 288.25,
-      "ret5": -0.0179,
-      "vol_surge": 1.28,
+      "ticker": "HINDUNILVR.NS",
+      "close": 1787.0,
+      "ret5": -0.0357,
+      "vol_surge": 2.11,
       "rsi14": 50.0,
-      "score": 0.0709
+      "score": 0.1124
     }
   ]
 }
