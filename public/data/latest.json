@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-10-28T09:55:09.361956Z",
+  "as_of_ist": "2026-10-29T10:17:41.166130Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "LT.NS",
-      "close": 3810.0,
-      "ret5": 0.0479,
-      "vol_surge": 2.82,
+      "ticker": "ADANIPORTS.NS",
+      "close": 1872.0,
+      "ret5": 0.0697,
+      "vol_surge": 2.38,
       "rsi14": 50.0,
-      "score": 0.2264
+      "score": 0.2145
     },
     {
-      "ticker": "BAJAJ-AUTO.NS",
-      "close": 10499.0,
-      "ret5": 0.0424,
-      "vol_surge": 2.64,
+      "ticker": "ASIANPAINT.NS",
+      "close": 2302.0,
+      "ret5": 0.0075,
+      "vol_surge": 3.31,
       "rsi14": 50.0,
-      "score": 0.2102
+      "score": 0.206
     },
     {
-      "ticker": "UPL.NS",
-      "close": 535.5,
-      "ret5": 0.0408,
-      "vol_surge": 2.03,
+      "ticker": "KOTAKBANK.NS",
+      "close": 459.0,
+      "ret5": 0.0503,
+      "vol_surge": 1.64,
       "rsi14": 50.0,
-      "score": 0.1677
+      "score": 0.1494
     },
     {
-      "ticker": "MARUTI.NS",
-      "close": 11544.0,
-      "ret5": 0.0307,
-      "vol_surge": 1.82,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5105.0,
+      "ret5": -0.0045,
+      "vol_surge": 1.95,
       "rsi14": 50.0,
-      "score": 0.1457
+      "score": 0.1267
     },
     {
-      "ticker": "TATACONSUM.NS",
-      "close": 995.2,
-      "ret5": 0.0253,
-      "vol_surge": 1.69,
+      "ticker": "DRREDDY.NS",
+      "close": 1345.0,
+      "ret5": 0.0856,
+      "vol_surge": 0.82,
       "rsi14": 50.0,
-      "score": 0.1328
+      "score": 0.1234
     }
   ]
 }
