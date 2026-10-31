@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-10-30T10:19:39.985747Z",
+  "as_of_ist": "2026-10-31T09:52:25.178819Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -25,7 +25,7 @@
       "ret5": 0.0927,
       "vol_surge": 1.67,
       "rsi14": 50.0,
-      "score": 0.1856
+      "score": 0.1857
     },
     {
       "ticker": "COALINDIA.NS",
