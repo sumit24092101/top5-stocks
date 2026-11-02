@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-01T10:42:45.826885Z",
+  "as_of_ist": "2026-11-02T11:31:42.072885Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "SUNPHARMA.NS",
-      "close": 1777.7,
-      "ret5": 0.017,
-      "vol_surge": 3.14,
+      "ticker": "RELIANCE.NS",
+      "close": 1300.0,
+      "ret5": 0.0817,
+      "vol_surge": 4.72,
       "rsi14": 50.0,
-      "score": 0.2136
+      "score": 0.2654
     },
     {
-      "ticker": "ADANIPORTS.NS",
-      "close": 1850.0,
-      "ret5": 0.0865,
-      "vol_surge": 1.83,
+      "ticker": "IOC.NS",
+      "close": 134.59,
+      "ret5": 0.0286,
+      "vol_surge": 2.43,
       "rsi14": 50.0,
-      "score": 0.1909
+      "score": 0.185
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 516.1,
+      "ret5": 0.037,
+      "vol_surge": 2.31,
+      "rsi14": 50.0,
+      "score": 0.1836
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 9780.0,
-      "ret5": 0.0927,
-      "vol_surge": 1.67,
+      "close": 9945.5,
+      "ret5": 0.099,
+      "vol_surge": 1.45,
       "rsi14": 50.0,
-      "score": 0.1857
-    },
-    {
-      "ticker": "COALINDIA.NS",
-      "close": 389.0,
-      "ret5": -0.0213,
-      "vol_surge": 3.07,
-      "rsi14": 50.0,
-      "score": 0.183
+      "score": 0.1757
     },
     {
       "ticker": "NTPC.NS",
-      "close": 316.25,
-      "ret5": 0.0612,
-      "vol_surge": 1.67,
+      "close": 323.0,
+      "ret5": 0.0767,
+      "vol_surge": 1.51,
       "rsi14": 50.0,
-      "score": 0.1605
+      "score": 0.1619
     }
   ]
 }
