@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-02T11:31:42.072885Z",
+  "as_of_ist": "2026-11-03T11:10:55.692084Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "BRITANNIA.NS",
+      "close": 4930.0,
+      "ret5": 0.0811,
+      "vol_surge": 2.51,
+      "rsi14": 50.0,
+      "score": 0.2321
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "close": 2437.8,
+      "ret5": 0.0706,
+      "vol_surge": 2.38,
+      "rsi14": 50.0,
+      "score": 0.2154
+    },
+    {
       "ticker": "RELIANCE.NS",
-      "close": 1300.0,
-      "ret5": 0.0817,
-      "vol_surge": 4.72,
+      "close": 1307.9,
+      "ret5": 0.0934,
+      "vol_surge": 2.11,
       "rsi14": 50.0,
-      "score": 0.2654
+      "score": 0.2152
     },
     {
-      "ticker": "IOC.NS",
-      "close": 134.59,
-      "ret5": 0.0286,
-      "vol_surge": 2.43,
+      "ticker": "SBIN.NS",
+      "close": 970.25,
+      "ret5": 0.0266,
+      "vol_surge": 2.78,
       "rsi14": 50.0,
-      "score": 0.185
+      "score": 0.2064
     },
     {
-      "ticker": "UPL.NS",
-      "close": 516.1,
-      "ret5": 0.037,
-      "vol_surge": 2.31,
+      "ticker": "GRASIM.NS",
+      "close": 3090.0,
+      "ret5": 0.0652,
+      "vol_surge": 1.89,
       "rsi14": 50.0,
-      "score": 0.1836
-    },
-    {
-      "ticker": "DIVISLAB.NS",
-      "close": 9945.5,
-      "ret5": 0.099,
-      "vol_surge": 1.45,
-      "rsi14": 50.0,
-      "score": 0.1757
-    },
-    {
-      "ticker": "NTPC.NS",
-      "close": 323.0,
-      "ret5": 0.0767,
-      "vol_surge": 1.51,
-      "rsi14": 50.0,
-      "score": 0.1619
+      "score": 0.1781
     }
   ]
 }
