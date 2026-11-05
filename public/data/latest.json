@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-04T11:21:47.230300Z",
+  "as_of_ist": "2026-11-05T11:20:07.690792Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "GRASIM.NS",
-      "close": 3138.0,
-      "ret5": 0.0821,
-      "vol_surge": 2.06,
-      "rsi14": 50.0,
-      "score": 0.203
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 142.03,
-      "ret5": 0.0913,
-      "vol_surge": 1.94,
-      "rsi14": 50.0,
-      "score": 0.2022
-    },
-    {
-      "ticker": "ITC.NS",
-      "close": 280.0,
-      "ret5": 0.079,
-      "vol_surge": 1.81,
-      "rsi14": 50.0,
-      "score": 0.1841
-    },
-    {
-      "ticker": "TITAN.NS",
-      "close": 4754.4,
-      "ret5": 0.096,
-      "vol_surge": 1.6,
-      "rsi14": 50.0,
-      "score": 0.1832
-    },
-    {
       "ticker": "BAJFINANCE.NS",
-      "close": 994.0,
-      "ret5": 0.0837,
-      "vol_surge": 1.67,
+      "close": 1070.0,
+      "ret5": 0.1396,
+      "vol_surge": 3.12,
       "rsi14": 50.0,
-      "score": 0.1781
+      "score": 0.3117
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "close": 3227.6,
+      "ret5": 0.1005,
+      "vol_surge": 3.04,
+      "rsi14": 50.0,
+      "score": 0.2804
+    },
+    {
+      "ticker": "BPCL.NS",
+      "close": 317.1,
+      "ret5": 0.0965,
+      "vol_surge": 3.18,
+      "rsi14": 50.0,
+      "score": 0.2772
+    },
+    {
+      "ticker": "M&M.NS",
+      "close": 3127.5,
+      "ret5": 0.0822,
+      "vol_surge": 3.41,
+      "rsi14": 50.0,
+      "score": 0.2657
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "close": 1500.0,
+      "ret5": 0.0818,
+      "vol_surge": 2.8,
+      "rsi14": 50.0,
+      "score": 0.2523
     }
   ]
 }
