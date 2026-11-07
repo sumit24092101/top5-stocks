@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-11-06T11:17:45.622011Z",
+  "as_of_ist": "2026-11-07T10:32:04.424641Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -9,7 +9,7 @@
       "ret5": 0.1573,
       "vol_surge": 2.96,
       "rsi14": 50.0,
-      "score": 0.3233
+      "score": 0.3234
     },
     {
       "ticker": "TITAN.NS",
@@ -41,7 +41,7 @@
       "ret5": 0.077,
       "vol_surge": 2.53,
       "rsi14": 50.0,
-      "score": 0.2303
+      "score": 0.2304
     }
   ]
 }
