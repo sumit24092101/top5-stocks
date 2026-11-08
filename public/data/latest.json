@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-07T10:32:04.424641Z",
+  "as_of_ist": "2026-11-08T10:39:33.509813Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "M&M.NS",
-      "close": 3287.2,
-      "ret5": 0.1573,
-      "vol_surge": 2.96,
+      "ticker": "DIVISLAB.NS",
+      "close": 11097.0,
+      "ret5": 0.1158,
+      "vol_surge": 0.94,
       "rsi14": 50.0,
-      "score": 0.3234
+      "score": 0.1554
     },
     {
-      "ticker": "TITAN.NS",
-      "close": 5000.0,
-      "ret5": 0.127,
-      "vol_surge": 4.72,
+      "ticker": "M&M.NS",
+      "close": 3267.8,
+      "ret5": 0.1391,
+      "vol_surge": 0.15,
       "rsi14": 50.0,
-      "score": 0.3016
+      "score": 0.1212
     },
     {
       "ticker": "ICICIBANK.NS",
-      "close": 1571.2,
-      "ret5": 0.1239,
-      "vol_surge": 2.67,
+      "close": 1565.0,
+      "ret5": 0.128,
+      "vol_surge": 0.13,
       "rsi14": 50.0,
-      "score": 0.2771
+      "score": 0.1113
     },
     {
       "ticker": "HDFCBANK.NS",
-      "close": 788.25,
-      "ret5": 0.1378,
-      "vol_surge": 2.15,
+      "close": 784.1,
+      "ret5": 0.1201,
+      "vol_surge": 0.21,
       "rsi14": 50.0,
-      "score": 0.2534
+      "score": 0.1104
     },
     {
-      "ticker": "HDFCLIFE.NS",
-      "close": 565.3,
-      "ret5": 0.077,
-      "vol_surge": 2.53,
+      "ticker": "BAJFINANCE.NS",
+      "close": 1081.75,
+      "ret5": 0.1275,
+      "vol_surge": 0.09,
       "rsi14": 50.0,
-      "score": 0.2304
+      "score": 0.1081
     }
   ]
 }
