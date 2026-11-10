@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-11-09T11:56:30.281302Z",
+  "as_of_ist": "2026-11-10T11:30:15.128539Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -23,9 +23,9 @@
       "ticker": "ICICIBANK.NS",
       "close": 1589.0,
       "ret5": 0.1453,
-      "vol_surge": 1.69,
+      "vol_surge": 1.7,
       "rsi14": 50.0,
-      "score": 0.2291
+      "score": 0.2294
     },
     {
       "ticker": "IOC.NS",
@@ -33,7 +33,7 @@
       "ret5": 0.0911,
       "vol_surge": 1.78,
       "rsi14": 50.0,
-      "score": 0.1913
+      "score": 0.1914
     },
     {
       "ticker": "GRASIM.NS",
