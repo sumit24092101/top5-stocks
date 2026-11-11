@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-10T11:30:15.128539Z",
+  "as_of_ist": "2026-11-11T11:19:14.257874Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "DIVISLAB.NS",
-      "close": 11565.5,
-      "ret5": 0.1629,
-      "vol_surge": 3.25,
+      "ticker": "M&M.NS",
+      "close": 3465.0,
+      "ret5": 0.1915,
+      "vol_surge": 1.79,
       "rsi14": 50.0,
-      "score": 0.3303
+      "score": 0.2726
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 798.15,
-      "ret5": 0.1402,
-      "vol_surge": 1.77,
+      "ticker": "DIVISLAB.NS",
+      "close": 11367.0,
+      "ret5": 0.1295,
+      "vol_surge": 1.87,
       "rsi14": 50.0,
-      "score": 0.2305
+      "score": 0.2282
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "close": 13185.0,
+      "ret5": 0.1109,
+      "vol_surge": 1.72,
+      "rsi14": 50.0,
+      "score": 0.2034
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 1061.2,
+      "ret5": 0.0937,
+      "vol_surge": 1.89,
+      "rsi14": 50.0,
+      "score": 0.2011
     },
     {
       "ticker": "ICICIBANK.NS",
-      "close": 1589.0,
-      "ret5": 0.1453,
-      "vol_surge": 1.7,
+      "close": 1571.6,
+      "ret5": 0.1033,
+      "vol_surge": 1.69,
       "rsi14": 50.0,
-      "score": 0.2294
-    },
-    {
-      "ticker": "IOC.NS",
-      "close": 146.85,
-      "ret5": 0.0911,
-      "vol_surge": 1.78,
-      "rsi14": 50.0,
-      "score": 0.1914
-    },
-    {
-      "ticker": "GRASIM.NS",
-      "close": 3169.7,
-      "ret5": 0.0368,
-      "vol_surge": 2.26,
-      "rsi14": 50.0,
-      "score": 0.1804
+      "score": 0.1954
     }
   ]
 }
