@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-12T11:38:40.662585Z",
+  "as_of_ist": "2026-11-13T11:21:49.086709Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
       "ticker": "HDFCLIFE.NS",
-      "close": 597.8,
-      "ret5": 0.1226,
-      "vol_surge": 2.55,
+      "close": 592.25,
+      "ret5": 0.0891,
+      "vol_surge": 1.14,
       "rsi14": 50.0,
-      "score": 0.2679
-    },
-    {
-      "ticker": "SBIN.NS",
-      "close": 1086.5,
-      "ret5": 0.1098,
-      "vol_surge": 1.91,
-      "rsi14": 50.0,
-      "score": 0.2152
-    },
-    {
-      "ticker": "BAJFINANCE.NS",
-      "close": 1115.0,
-      "ret5": 0.1217,
-      "vol_surge": 1.18,
-      "rsi14": 50.0,
-      "score": 0.1761
-    },
-    {
-      "ticker": "M&M.NS",
-      "close": 3399.0,
-      "ret5": 0.1476,
-      "vol_surge": 0.84,
-      "rsi14": 50.0,
-      "score": 0.1743
+      "score": 0.1473
     },
     {
       "ticker": "DIVISLAB.NS",
-      "close": 11485.0,
-      "ret5": 0.1442,
-      "vol_surge": 0.83,
+      "close": 11442.0,
+      "ret5": 0.1283,
+      "vol_surge": 0.63,
       "rsi14": 50.0,
-      "score": 0.171
+      "score": 0.1447
+    },
+    {
+      "ticker": "SBIN.NS",
+      "close": 1080.0,
+      "ret5": 0.0731,
+      "vol_surge": 1.1,
+      "rsi14": 50.0,
+      "score": 0.1321
+    },
+    {
+      "ticker": "UPL.NS",
+      "close": 559.4,
+      "ret5": 0.0625,
+      "vol_surge": 0.98,
+      "rsi14": 50.0,
+      "score": 0.1154
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "close": 1117.0,
+      "ret5": 0.0439,
+      "vol_surge": 1.16,
+      "rsi14": 50.0,
+      "score": 0.1122
     }
   ]
 }
