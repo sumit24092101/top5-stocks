@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-11-13T11:21:49.086709Z",
+  "as_of_ist": "2026-11-14T10:45:40.480441Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -23,9 +23,9 @@
       "ticker": "SBIN.NS",
       "close": 1080.0,
       "ret5": 0.0731,
-      "vol_surge": 1.1,
+      "vol_surge": 1.11,
       "rsi14": 50.0,
-      "score": 0.1321
+      "score": 0.1323
     },
     {
       "ticker": "UPL.NS",
