@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-17T12:15:44.452183Z",
+  "as_of_ist": "2026-11-18T12:01:35.075017Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "COALINDIA.NS",
-      "close": 391.55,
-      "ret5": -0.0248,
-      "vol_surge": 2.73,
+      "ticker": "SBIN.NS",
+      "close": 1135.0,
+      "ret5": 0.0695,
+      "vol_surge": 2.19,
       "rsi14": 50.0,
-      "score": 0.1619
+      "score": 0.2017
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "close": 1417.0,
+      "ret5": -0.002,
+      "vol_surge": 1.88,
+      "rsi14": 50.0,
+      "score": 0.1238
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "close": 494.85,
+      "ret5": 0.0147,
+      "vol_surge": 1.25,
+      "rsi14": 50.0,
+      "score": 0.095
     },
     {
       "ticker": "UPL.NS",
-      "close": 551.7,
-      "ret5": 0.0188,
-      "vol_surge": 1.82,
+      "close": 552.0,
+      "ret5": -0.0049,
+      "vol_surge": 1.48,
       "rsi14": 50.0,
-      "score": 0.1361
+      "score": 0.0944
     },
     {
-      "ticker": "SBIN.NS",
-      "close": 1108.6,
-      "ret5": 0.0639,
-      "vol_surge": 1.08,
+      "ticker": "ITC.NS",
+      "close": 296.6,
+      "ret5": 0.0407,
+      "vol_surge": 0.79,
       "rsi14": 50.0,
-      "score": 0.1229
-    },
-    {
-      "ticker": "ASIANPAINT.NS",
-      "close": 2625.0,
-      "ret5": 0.0461,
-      "vol_surge": 1.26,
-      "rsi14": 50.0,
-      "score": 0.1211
-    },
-    {
-      "ticker": "ADANIENT.NS",
-      "close": 2745.1,
-      "ret5": 0.0143,
-      "vol_surge": 1.49,
-      "rsi14": 50.0,
-      "score": 0.1107
+      "score": 0.0854
     }
   ]
 }
