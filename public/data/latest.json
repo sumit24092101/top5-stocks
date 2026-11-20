@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-19T11:58:40.775597Z",
+  "as_of_ist": "2026-11-20T11:59:32.899169Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
+      "ticker": "AXISBANK.NS",
+      "close": 1446.0,
+      "ret5": 0.0864,
+      "vol_surge": 2.97,
+      "rsi14": 50.0,
+      "score": 0.2673
+    },
+    {
       "ticker": "MARUTI.NS",
-      "close": 13589.0,
-      "ret5": 0.0434,
-      "vol_surge": 2.2,
+      "close": 14011.0,
+      "ret5": 0.09,
+      "vol_surge": 2.4,
       "rsi14": 50.0,
-      "score": 0.1814
+      "score": 0.2323
     },
     {
-      "ticker": "HEROMOTOCO.NS",
-      "close": 5556.0,
-      "ret5": 0.0401,
-      "vol_surge": 2.17,
+      "ticker": "SHREECEM.NS",
+      "close": 25475.0,
+      "ret5": 0.0333,
+      "vol_surge": 3.33,
       "rsi14": 50.0,
-      "score": 0.177
+      "score": 0.2266
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 8058.5,
-      "ret5": 0.0675,
-      "vol_surge": 1.55,
+      "ticker": "ULTRACEMCO.NS",
+      "close": 12939.0,
+      "ret5": 0.0693,
+      "vol_surge": 1.85,
       "rsi14": 50.0,
-      "score": 0.1574
+      "score": 0.1785
     },
     {
-      "ticker": "SBIN.NS",
-      "close": 1156.0,
-      "ret5": 0.064,
-      "vol_surge": 1.56,
+      "ticker": "HDFCBANK.NS",
+      "close": 846.0,
+      "ret5": 0.0522,
+      "vol_surge": 1.8,
       "rsi14": 50.0,
-      "score": 0.1553
-    },
-    {
-      "ticker": "HINDUNILVR.NS",
-      "close": 2074.2,
-      "ret5": 0.0508,
-      "vol_surge": 1.71,
-      "rsi14": 50.0,
-      "score": 0.1546
+      "score": 0.1618
     }
   ]
 }
