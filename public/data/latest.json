@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-11-20T11:59:32.899169Z",
+  "as_of_ist": "2026-11-21T11:33:18.751069Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -15,9 +15,9 @@
       "ticker": "MARUTI.NS",
       "close": 14011.0,
       "ret5": 0.09,
-      "vol_surge": 2.4,
+      "vol_surge": 2.41,
       "rsi14": 50.0,
-      "score": 0.2323
+      "score": 0.2324
     },
     {
       "ticker": "SHREECEM.NS",
