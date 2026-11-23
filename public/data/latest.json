@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-22T11:47:23.470309Z",
+  "as_of_ist": "2026-11-23T13:27:03.235743Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1446.0,
-      "ret5": 0.0864,
-      "vol_surge": 2.97,
-      "rsi14": 50.0,
-      "score": 0.2673
-    },
-    {
       "ticker": "MARUTI.NS",
-      "close": 14011.0,
-      "ret5": 0.09,
-      "vol_surge": 2.41,
+      "close": 14010.0,
+      "ret5": 0.1145,
+      "vol_surge": 1.71,
       "rsi14": 50.0,
-      "score": 0.2324
+      "score": 0.2057
     },
     {
-      "ticker": "SHREECEM.NS",
-      "close": 25475.0,
-      "ret5": 0.0333,
-      "vol_surge": 3.33,
+      "ticker": "TCS.NS",
+      "close": 2460.0,
+      "ret5": 0.0229,
+      "vol_surge": 2.1,
       "rsi14": 50.0,
-      "score": 0.2266
+      "score": 0.1585
     },
     {
-      "ticker": "ULTRACEMCO.NS",
-      "close": 12939.0,
-      "ret5": 0.0693,
-      "vol_surge": 1.85,
+      "ticker": "EICHERMOT.NS",
+      "close": 8172.5,
+      "ret5": 0.0755,
+      "vol_surge": 1.28,
       "rsi14": 50.0,
-      "score": 0.1785
+      "score": 0.1457
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 846.0,
-      "ret5": 0.0522,
-      "vol_surge": 1.8,
+      "ticker": "AXISBANK.NS",
+      "close": 1388.6,
+      "ret5": 0.0344,
+      "vol_surge": 1.47,
       "rsi14": 50.0,
-      "score": 0.1618
+      "score": 0.1258
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "close": 163.0,
+      "ret5": -0.1057,
+      "vol_surge": 5.39,
+      "rsi14": 50.0,
+      "score": 0.1155
     }
   ]
 }
