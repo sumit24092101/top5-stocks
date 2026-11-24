@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-11-23T13:27:03.235743Z",
+  "as_of_ist": "2026-11-24T14:05:25.857322Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -17,7 +17,7 @@
       "ret5": 0.0229,
       "vol_surge": 2.1,
       "rsi14": 50.0,
-      "score": 0.1585
+      "score": 0.1586
     },
     {
       "ticker": "EICHERMOT.NS",
