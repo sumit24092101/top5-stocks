@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-24T14:05:25.857322Z",
+  "as_of_ist": "2026-11-25T13:18:37.060238Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "MARUTI.NS",
-      "close": 14010.0,
-      "ret5": 0.1145,
-      "vol_surge": 1.71,
+      "ticker": "HINDUNILVR.NS",
+      "close": 2141.8,
+      "ret5": 0.0656,
+      "vol_surge": 2.7,
       "rsi14": 50.0,
-      "score": 0.2057
+      "score": 0.2322
     },
     {
-      "ticker": "TCS.NS",
-      "close": 2460.0,
-      "ret5": 0.0229,
-      "vol_surge": 2.1,
+      "ticker": "BAJAJFINSV.NS",
+      "close": 1925.0,
+      "ret5": 0.029,
+      "vol_surge": 3.82,
       "rsi14": 50.0,
-      "score": 0.1586
+      "score": 0.2232
     },
     {
-      "ticker": "EICHERMOT.NS",
-      "close": 8172.5,
-      "ret5": 0.0755,
-      "vol_surge": 1.28,
+      "ticker": "BRITANNIA.NS",
+      "close": 5076.2,
+      "ret5": 0.08,
+      "vol_surge": 1.95,
       "rsi14": 50.0,
-      "score": 0.1457
+      "score": 0.1943
     },
     {
-      "ticker": "AXISBANK.NS",
-      "close": 1388.6,
-      "ret5": 0.0344,
-      "vol_surge": 1.47,
+      "ticker": "HDFCLIFE.NS",
+      "close": 601.3,
+      "ret5": 0.0105,
+      "vol_surge": 2.55,
       "rsi14": 50.0,
-      "score": 0.1258
+      "score": 0.1783
     },
     {
-      "ticker": "TATASTEEL.NS",
-      "close": 163.0,
-      "ret5": -0.1057,
-      "vol_surge": 5.39,
+      "ticker": "HEROMOTOCO.NS",
+      "close": 5751.5,
+      "ret5": 0.0793,
+      "vol_surge": 1.64,
       "rsi14": 50.0,
-      "score": 0.1155
+      "score": 0.1729
     }
   ]
 }
