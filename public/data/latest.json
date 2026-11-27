@@ -1,47 +1,47 @@
 {
-  "as_of_ist": "2026-11-26T12:59:03.086545Z",
+  "as_of_ist": "2026-11-27T12:55:39.569923Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
     {
-      "ticker": "BRITANNIA.NS",
-      "close": 5185.0,
-      "ret5": 0.1095,
-      "vol_surge": 2.5,
-      "rsi14": 50.0,
-      "score": 0.2542
-    },
-    {
       "ticker": "TCS.NS",
-      "close": 2640.3,
-      "ret5": 0.1096,
-      "vol_surge": 1.54,
+      "close": 2572.5,
+      "ret5": 0.0981,
+      "vol_surge": 0.9,
       "rsi14": 50.0,
-      "score": 0.19
-    },
-    {
-      "ticker": "HCLTECH.NS",
-      "close": 1468.6,
-      "ret5": 0.0921,
-      "vol_surge": 1.65,
-      "rsi14": 50.0,
-      "score": 0.1834
+      "score": 0.1384
     },
     {
       "ticker": "WIPRO.NS",
-      "close": 196.54,
-      "ret5": 0.0616,
-      "vol_surge": 1.78,
+      "close": 192.1,
+      "ret5": 0.0444,
+      "vol_surge": 1.47,
       "rsi14": 50.0,
-      "score": 0.1678
+      "score": 0.1332
     },
     {
-      "ticker": "HDFCBANK.NS",
-      "close": 862.0,
-      "ret5": 0.0666,
-      "vol_surge": 1.62,
+      "ticker": "HCLTECH.NS",
+      "close": 1424.1,
+      "ret5": 0.0684,
+      "vol_surge": 1.17,
       "rsi14": 50.0,
-      "score": 0.1613
+      "score": 0.1325
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "close": 1880.0,
+      "ret5": -0.0194,
+      "vol_surge": 2.18,
+      "rsi14": 50.0,
+      "score": 0.1298
+    },
+    {
+      "ticker": "INFY.NS",
+      "close": 1151.3,
+      "ret5": 0.0544,
+      "vol_surge": 0.93,
+      "rsi14": 50.0,
+      "score": 0.1057
     }
   ]
 }
