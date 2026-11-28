@@ -1,5 +1,5 @@
 {
-  "as_of_ist": "2026-11-27T12:55:39.569923Z",
+  "as_of_ist": "2026-11-28T12:07:11.947625Z",
   "universe": "NIFTY50",
   "method": "momentum + volume (stable fallback)",
   "picks": [
@@ -10,6 +10,14 @@
       "vol_surge": 0.9,
       "rsi14": 50.0,
       "score": 0.1384
+    },
+    {
+      "ticker": "TECHM.NS",
+      "close": 906.95,
+      "ret5": 0.0528,
+      "vol_surge": 1.38,
+      "rsi14": 50.0,
+      "score": 0.1339
     },
     {
       "ticker": "WIPRO.NS",
@@ -34,14 +42,6 @@
       "vol_surge": 2.18,
       "rsi14": 50.0,
       "score": 0.1298
-    },
-    {
-      "ticker": "INFY.NS",
-      "close": 1151.3,
-      "ret5": 0.0544,
-      "vol_surge": 0.93,
-      "rsi14": 50.0,
-      "score": 0.1057
     }
   ]
 }
